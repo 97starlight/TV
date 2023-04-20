@@ -29,7 +29,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
 
-#EXTINF: -1 , América
+#EXTINF: -1 tvg-id="América" tvg-name="América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV",América 
 
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
