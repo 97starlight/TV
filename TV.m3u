@@ -6,6 +6,13 @@
 https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
 
 
+
+#EXTINF: -1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
+
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+
+
 #EXTINF:-1 tvg-id="ElTrece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="TV",El Trece
 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -20,10 +27,6 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-
-#EXTINF: -1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
-
-https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
 #EXTINF: -1 , América
