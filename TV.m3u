@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-id="Telemundo52" tvg-name="Telemundo 52 LA" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Telemundo_52_2018.png" group-title="TV",Telemundo 52
+#EXTINF: -1 tvg-id="Telemundo52" tvg-name="Telemundo 52 LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="TV",Telemundo 52
 
 https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
 
