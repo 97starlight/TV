@@ -6,7 +6,7 @@
 https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
 
 
-EXTINF: -1 tvg-id="WNJUDT1.us" tvg-name="Telemundo 47" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="TV",Telemundo 47
+#EXTINF: -1 tvg-id="WNJUDT1.us" tvg-name="Telemundo 47" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="TV",Telemundo 47
 https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream7/master.m3u8
 
 
