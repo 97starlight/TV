@@ -1,37 +1,37 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-id="Telemundo52" tvg-name="Telemundo 52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="TV",Telemundo 52
+#EXTINF: -1 tvg-id="KVEADT1.us" tvg-name="Telemundo 52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="TV",Telemundo 52
 
 https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
 
 
 
-#EXTINF: -1 tvg-id="Telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
+#EXTINF: -1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
 
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
 
-#EXTINF:-1 tvg-id="ElTrece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="TV",El Trece
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="TV",El Trece
 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
 
-#EXTINF: -1 tvg-id="ElNueve" tvg-name="El Nueve" tvg-logo="https://i.imgur.io/cJHP7bU_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",El Nueve
+#EXTINF: -1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.io/cJHP7bU_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",El Nueve
 
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 
 
-#EXTINF: -1 tvg-id="NETTV" tvg-name="NET TV" tvg-logo="https://i.imgur.io/IhJ0BjF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",NET TV
+#EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://i.imgur.io/IhJ0BjF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",NET TV
 
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
 
-#EXTINF: -1  tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV",America
+#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV",America TV
 
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
