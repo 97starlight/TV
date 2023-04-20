@@ -31,12 +31,82 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 
+#EXTINF: -1 , TN Todo noticias
+
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+
+
 #EXTINF: -1 , El Ocho TV
 
 https://www.dailymotion.com/video/x8hvuj5
+
 
 #EXTINF: -1 , A24
 
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 
+#EXTINF: -1 , América Tucumán
+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682010036/ei/UxtBZKmxOLa5ir4PvPOuyAs/ip/3.134.238.10/id/oy0C4zmQQus.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgdIiNl0e2Skfx1gIQQfNa0G7aThmbb6veZTrWEKob_eoCIQC-RoMBB5bVLvf1XiHO04DMwPWZFt_1ySaFedGmA8Tvtg%3D%3D/file/index.m3u8
+
+
+#EXTINF: -1 , Canal 26
+
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+
+
+#EXTINF: -1 , Canal 8 Mar del Plata
+
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+
+
+#EXTINF: -1 , CM El Canal de la Musica
+
+http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
+
+
+#EXTINF: -1 , Crónica TV
+
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+
+
+#EXTINF: -1 , TV Pública 
+
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
+
+#EXTINF: -1 , DeporTV
+
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+
+#EXTINF: -1 , IP Noticias
+
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+
+#EXTINF: -1 , La Nacion +
+
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+
+#EXTINF: -1 , Mas FM
+
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+
+
+#EXTINF: -1 , Mas Musica TV
+
+https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
+
+
+#EXTINF: -1 , MusicTop
+
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+
+#EXTINF: -1 , Vorterix
+
+https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
