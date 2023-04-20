@@ -18,9 +18,11 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
+
 #EXTINF: -1 tvg-id="ElNueve" tvg-name="El Nueve" tvg-logo="https://i.imgur.io/cJHP7bU_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",El Nueve
 
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+
 
 
 #EXTINF: -1 tvg-id="NETTV" tvg-name="NET TV" tvg-logo="https://i.imgur.io/IhJ0BjF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",NET TV
@@ -29,9 +31,10 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
 
-#EXTINF: -1 tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV",America 
+#EXTINF: -1  tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV",America
 
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+
 
 
 #EXTINF: -1 , TN Todo noticias
