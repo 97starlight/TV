@@ -6,7 +6,7 @@
 https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
 
 
-#EXTINF: -1 , El Trece
+#EXTINF: -1 #EXTINF:-1, tvg-name="EL TRECE" , tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png”
 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
