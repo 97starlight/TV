@@ -34,7 +34,7 @@ https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
-#EXTINF: -1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.io/cJHP7bU_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",El Nueve
+#EXTINF: -1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG" group-title="TV",El Nueve
 
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
@@ -60,12 +60,12 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 
-#EXTINF: -1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.imgur.io/LnXQkIU_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",A24
+#EXTINF: -1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="TV",A24
 
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 
-#EXTINF: -1 #EXTINF: -1 tvg-id="AmericaTucuman.ar" tvg-name="América Tucumán" tvg-logo="https://i.imgur.com/TJmzwv9.png" group-title="TV",América Tucumán
+#EXTINF: -1 #EXTINF: -1 tvg-id="AmericaTucuman.ar" tvg-name="América Tucumán" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" group-title="TV",América Tucumán
 
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
