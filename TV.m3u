@@ -32,6 +32,11 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 
 
+EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="TV",Las Estrellas
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+
+
+
 #EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://i.imgur.io/IhJ0BjF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",NET TV
 
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
