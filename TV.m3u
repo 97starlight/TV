@@ -124,4 +124,4 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e
 
 #EXTINF: -1 , test
 
-https://edge-vod01-hr.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd
+N_m3u8DL-RE "https://edge-vod01-hr.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd" --header "User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:109.0) Gecko/20100101 Firefox/112.0" --header "Referer: https://jaksjdj.fernando-botero-sculpture.com/" --save-name "ID"
