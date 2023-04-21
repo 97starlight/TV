@@ -117,6 +117,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6130d6f3f
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
 
 
-#EXTINF: -1 tvg-id="PlutoTVYoMTV.us" tvg-name="Pluto TV Yo! MTV" tvg-logo=" https://i.imgur.io/9g7hujw_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Música",Pluto TV Yo! MTV
+#EXTINF: -1 tvg-id="PlutoTVYoMTV.us" tvg-name="Pluto TV Yo! MTV" tvg-logo="https://i.imgur.io/9g7hujw_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Música",Pluto TV Yo! MTV
 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23livestitch/master.m3u8?advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&profilesFromStream=true
