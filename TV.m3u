@@ -18,12 +18,12 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF: -1 tvg-id="TelefeRosario.ar" tvg-name="Telefe Rosario" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png" group-title="TV",Telefe Rosario
 
-https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1682185708~acl=%2f*~data=hdntl~hmac=0391d7b743a06d9a26062f6e733a2e55aba1443a5665681acbee9f61e017f566/canal5rosario0.m3u8
+https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1682095994~exp=1682272394~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=7d70aabb2bc901a33a6d46a5e47f7b979d931797931a817f044d0985a778547c
 
 
 #EXTINF: -1 tvg-id="TelefeCordoba.ar" tvg-name="Telefe Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/512px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="TV",Telefe Córdoba
 
-https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/hdntl=exp=1682185929~acl=%2f*~data=hdntl~hmac=c3107ea20c999a5518862c67c3f138e2556f5bb37da5d312f9c72a9fd32ccfa9/canal8cordoba0.m3u8
+https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1682095908~exp=1682272308~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=5167c8cabd1898f88cef9b039c60cb7f4191d27ffcee548c3e0181f751e059b7
 
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="TV",El Trece
