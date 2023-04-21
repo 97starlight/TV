@@ -62,7 +62,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1682010036/ei/U
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 
-#EXTINF: -1 tvg-id="Canal8MardelPlata.ar" tvg-name="Canal 8 Mar del Plata" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png" group-title="TV",Canal 8 Mar del Plata
+#EXTINF: -1 tvg-id="Canal8MardelPlata.ar" tvg-name="Canal 8 Mar del Plata" tvg-logo="https://i.imgur.io/G7TaQ1L_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",Canal 8 Mar del Plata
 
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
