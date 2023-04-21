@@ -11,6 +11,9 @@ https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream7/master.m3u8
 https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
 
 
+---------------- TV ----------------
+
+
 #EXTINF: -1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
 
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
