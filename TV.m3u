@@ -1,11 +1,9 @@
 #EXTM3U
 
 
-
 #EXTINF: -1 tvg-id="WNJUDT1.us" tvg-name="Telemundo 47 NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="TV",Telemundo 47 New York
 
 https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream7/master.m3u8
-
 
 
 #EXTINF: -1 tvg-id="KVEADT1.us" tvg-name="Telemundo 52 LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="TV",Telemundo 52 Los Angeles
@@ -13,11 +11,9 @@ https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream7/master.m3u8
 https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
 
 
-
 #EXTINF: -1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
 
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-
 
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="TV",El Trece
@@ -25,11 +21,9 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
-
 #EXTINF: -1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.io/cJHP7bU_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",El Nueve
 
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-
 
 
 #EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="TV",Las Estrellas
@@ -48,11 +42,9 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 
-
 #EXTINF: -1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://i.imgur.io/vFwPhPS_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",TN
 
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
 
 
 #EXTINF: -1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.imgur.io/LnXQkIU_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",A24
