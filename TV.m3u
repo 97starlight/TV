@@ -18,7 +18,7 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF: -1 tvg-id="TelefeRosario.ar" tvg-name="Telefe Rosario" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png" group-title="TV",Telefe Rosario
 
-https://telefecanal1.akamaized.net:443/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1682186168~acl=%2f*~data=hdntl~hmac=d276d47494d1f88148f9c83734fd38b0dc3150fd7af1d87cb0ee8bd4568258bf/canal5rosario0.m3u8
+https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1682095994~exp=1682272394~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=7d70aabb2bc901a33a6d46a5e47f7b979d931797931a817f044d0985a778547c
 
 
 #EXTINF: -1 tvg-id="TelefeCordoba.ar" tvg-name="Telefe Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/512px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="TV",Telefe Córdoba
