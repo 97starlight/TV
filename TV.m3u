@@ -1,17 +1,17 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-id="KTMWDT1.us" tvg-name="Telemundo 10 Utah" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/KULX_Telemundo_Utah_2018.jpg/revision/latest?cb=20181223015550" group-title="TV,Telemundo 10 Utah
+#EXTINF: -1 tvg-id="KTMWDT1.us" tvg-name="Telemundo 10 Utah" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/KULX_Telemundo_Utah_2018.jpg/revision/latest?cb=20181223015550" group-title="Novelas",Telemundo 10 Utah
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJodQbqCL4yamCuEyto1WWJA/ts
 
 
-#EXTINF: -1 tvg-id="WSCVDT1.us" tvg-name="Telemundo 51 Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="TV",Telemundo 51 Miami
+#EXTINF: -1 tvg-id="WSCVDT1.us" tvg-name="Telemundo 51 Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="Novelas",Telemundo 51 Miami
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJrUHjOTakfYG4XXH2cPOkCk/ts
 
 
-#EXTINF: -1 tvg-id="KSTSDT1.us" tvg-name="Telemundo 48 San Francisco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Telemundo_48_2018.png" group-title="TV",Telemundo 48 San Francisco
+#EXTINF: -1 tvg-id="KSTSDT1.us" tvg-name="Telemundo 48 San Francisco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Telemundo_48_2018.png" group-title="Novelas",Telemundo 48 San Francisco
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJop0mIY_F7RRy1vTPBe_NUo/ts
 
@@ -109,10 +109,6 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 
 https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8?auth-token=event=bFL1IVq9RNGlWQaqgiFuNw~exp=1682125972~hmac=eda1d68e001ffc2c3565f4b0950b43c5f6f30be3a58e18e41ed7b0f5024480cd
 
-
-#EXTINF: -1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://i.imgur.io/GjICLWN_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",UK | BBC News
-
-https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 
 ---------------- Musica ----------------
 
