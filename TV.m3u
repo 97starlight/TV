@@ -6,9 +6,9 @@
 https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream7/master.m3u8
 
 
-#EXTINF: -1 tvg-id="KVEADT1.us" tvg-name="Telemundo 52 LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Telemundo_52_2018.png" group-title="TV",Telemundo 52 Los Ángeles
+#EXTINF: -1 tvg-id="KVEADT1.us" tvg-name="Telemundo 52 LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Telemundo_52_2018.png" group-title="TV",Telemundo San Francisco
 
-https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJop0mIY_F7RRy1vTPBe_NUo/ts
 
 
 ---------------- TV ----------------
