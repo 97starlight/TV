@@ -1,36 +1,36 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-id="KTMWDT1.us" tvg-name="Telemundo 52 Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Telemundo_52_2018.png" group-title="EEUU/MX",Telemundo 52 Miami
+#EXTINF: -1 tvg-name="Telemundo 52 Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Telemundo_52_2018.png" group-title="EEUU/MX",Telemundo 52 Miami
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJodQbqCL4yamCuEyto1WWJA
 
 
-#EXTINF: -1 tvg-id="WSCVDT1.us" tvg-name="Telemundo 51 Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="EEUU/MX",Telemundo 51 Miami
+#EXTINF: -1 tvg-name="Telemundo 51 Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="EEUU/MX",Telemundo 51 Miami
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJrUHjOTakfYG4XXH2cPOkCk/ts
 
 
-#EXTINF: -1 tvg-id="KSTSDT1.us" tvg-name="Telemundo 48 San Francisco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Telemundo_48_2018.png" group-title="EEUU/MX",Telemundo 48 San Francisco
+#EXTINF: -1 tvg-name="Telemundo 48 San Francisco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Telemundo_48_2018.png" group-title="EEUU/MX",Telemundo 48 San Francisco
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJop0mIY_F7RRy1vTPBe_NUo/ts
 
 
-#EXTINF: -1 tvg-id="WNJUDT1.us" tvg-name="Telemundo 47 New York" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="EEUU/MX",Telemundo 47 New York
+#EXTINF: -1 tvg-name="Telemundo 47 New York" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="EEUU/MX",Telemundo 47 New York
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJoWYCXxJC5T6J60kufrq0lc/ts
 
 
-#EXTINF: -1 tvg-id="WNJUDT1.us" tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg" group-title="EEUU/MX",Telemundo Internacional
+#EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg" group-title="EEUU/MX",Telemundo Internacional
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJtPLCa4KMGexaHQ1jiQ-UCw/ts
 
 
-#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="EEUU/MX",Las Estrellas
+#EXTINF: -1 tvg-name="Las Estrellas" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="EEUU/MX",Las Estrellas
 
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://i.imgur.io/uZdVSoW_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="EEUU/MX",Canal 5
+#EXTINF: -1 tvg-name="Canal 5" tvg-logo="https://i.imgur.io/uZdVSoW_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="EEUU/MX",Canal 5
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJo8inu0kJx2V9k_hKYEjyU0/ts
 
@@ -43,17 +43,17 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/16633
 ---------------- Cultura/Mundo ----------------
 
 
-#EXTINF: -1 tvg-id="InvestigationDiscoveryMexico.mx" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Cultura/mundo",Investigation Discovery
+#EXTINF: -1 tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Cultura/mundo",Investigation Discovery
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhhboLeH7OpDaXkfwWMKUY8/m3u8
 
 
-#EXTINF: -1 tvg-id="InvestigationDiscoveryMexico.mx" tvg-name="Investigation Discovery LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Cultura/mundo",Investigation Discovery LQ
+#EXTINF: -1 tvg-name="Investigation Discovery LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Cultura/mundo",Investigation Discovery LQ
 
 http://live.budtvlight.com:25461/Luna001/18dabf00/16567
 
 
-#EXTINF: -1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://i.imgur.io/NYLnABb_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Cultura/mundo",Cuatro
+#EXTINF: -1 tvg-name="Cuatro" tvg-logo="https://i.imgur.io/NYLnABb_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Cultura/mundo",Cuatro
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJgZlqQGfVRzPDOewttKtAtY/ts
 
@@ -61,27 +61,27 @@ http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJgZlqQGfVRzPDOewttKtAtY/ts
 ---------------- TV ----------------
 
 
-#EXTINF: -1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
+#EXTINF: -1 tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
 
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
-#EXTINF: -1 tvg-id="TelefeRosario.ar" tvg-name="Telefe Rosario" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png" group-title="TV",Telefe Rosario
+#EXTINF: -1 tvg-name="Telefe Rosario" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png" group-title="TV",Telefe Rosario
 
 https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1682095994~exp=1682272394~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=7d70aabb2bc901a33a6d46a5e47f7b979d931797931a817f044d0985a778547c
 
 
-#EXTINF: -1 tvg-id="TelefeCordoba.ar" tvg-name="Telefe Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/512px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="TV",Telefe Córdoba
+#EXTINF: -1 tvg-name="Telefe Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/512px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="TV",Telefe Córdoba
 
 https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1682095908~exp=1682272308~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=5167c8cabd1898f88cef9b039c60cb7f4191d27ffcee548c3e0181f751e059b7
 
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="TV",El Trece
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="TV",El Trece
 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
-#EXTINF: -1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG" group-title="TV",El Nueve
+#EXTINF: -1 tvg-name="El Nueve" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG" group-title="TV",El Nueve
 
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
