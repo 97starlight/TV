@@ -100,9 +100,14 @@ https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 
-#EXTINF: -1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/970px-Emblema_del_Canal_13_Chile.svg.png" group-title="TV",CL| Canal 13
+#EXTINF: -1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/970px-Emblema_del_Canal_13_Chile.svg.png" group-title="TV",CL | Canal 13
 
 https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8?auth-token=event=bFL1IVq9RNGlWQaqgiFuNw~exp=1682125972~hmac=eda1d68e001ffc2c3565f4b0950b43c5f6f30be3a58e18e41ed7b0f5024480cd
+
+
+#EXTINF: -1 ,BBC
+
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 
 ---------------- Musica ----------------
 
