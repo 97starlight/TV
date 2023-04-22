@@ -45,7 +45,7 @@ http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhhboLeH7OpDaXkfwWMKUY8/m3u
 
 #EXTINF: -1 tvg-id="InvestigationDiscoveryMexico.mx" tvg-name="Investigation Discovery LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Cultura/mundo",Investigation Discovery LQ
 
-http://live.budtvlight.com:25461/get.php?username=Luna001&password=18dabf00&type=m3u_plus
+http://live.budtvlight.com:25461/Luna001/18dabf00/16567
 
 
 #EXTINF: -1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://i.imgur.io/NYLnABb_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Cultura/mundo",Cuatro
