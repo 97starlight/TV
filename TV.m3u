@@ -32,7 +32,7 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://i.imgur.io/uZdVSoW_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="EEUU/MX",Canal 5
 
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJo8inu0kJx2V9k_hKYEjyU0/hls
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJo8inu0kJx2V9k_hKYEjyU0/ts
 
 
 ---------------- Cultura/Mundo ----------------
@@ -46,6 +46,8 @@ http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhhboLeH7OpDaXkfwWMKUY8/m3u
 #EXTINF: -1 tvg-id="InvestigationDiscoveryMexico.mx" tvg-name="Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Cultura/mundo",Investigation Discovery HD
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJne_fGZzzRY4-jsBwCIlBSA/ts
+
+
 
 
 
