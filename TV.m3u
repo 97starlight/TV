@@ -6,9 +6,9 @@
 https://nbculocallive.akamaized.net/hls/live/2037083/newyork/stream7/master.m3u8
 
 
-#EXTINF: -1 tvg-id="KVEADT1.us" tvg-name="Telemundo 52 LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Telemundo_52_2018.png" group-title="TV",Telemundo San Francisco
+#EXTINF: -1 tvg-id="KTMWDT1.us" tvg-name="Telemundo 10 Utah" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Telemundo_Utah.png" group-title="TV",Telemundo 10 Utah
 
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJop0mIY_F7RRy1vTPBe_NUo/ts
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJodQbqCL4yamCuEyto1WWJA/ts
 
 
 ---------------- TV ----------------
