@@ -30,6 +30,10 @@ http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJtPLCa4KMGexaHQ1jiQ-UCw/ts
 
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
+#EXTINF: -1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://i.imgur.io/uZdVSoW_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="EEUU/MX",Canal 5
+
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJo8inu0kJx2V9k_hKYEjyU0/hls
+
 
 ---------------- Cultura/Mundo ----------------
 
