@@ -205,10 +205,12 @@ http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJrmIgjiog3pmdZqS7EKkAh0/ts
 
 #EXTINF: -1 tvg-name="ESPN Premium (alt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium (alt)
 
+http://live.budtvlight.com:25461/Luna001/18dabf00/38746
 
 
-#EXTINF: -1 tvg-name="TNT Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports Argentina
+#EXTINF: -1 tvg-name="TNT Sports Argentina (alt)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports Argentina (alt)
 
+http://live.budtvlight.com:25461/Luna001/18dabf00/1653
 
 
 ---------------- Test ----------------
