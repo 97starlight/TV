@@ -1,32 +1,32 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-id="KTMWDT1.us" tvg-name="Telemundo 10 Utah" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/KULX_Telemundo_Utah_2018.jpg/revision/latest?cb=20181223015550" group-title="Novelas",Telemundo 10 Utah
+#EXTINF: -1 tvg-id="KTMWDT1.us" tvg-name="Telemundo 10 Utah" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/KULX_Telemundo_Utah_2018.jpg/revision/latest?cb=20181223015550" group-title="EEUU/MX",Telemundo 10 Utah
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJodQbqCL4yamCuEyto1WWJA/ts
 
 
-#EXTINF: -1 tvg-id="WSCVDT1.us" tvg-name="Telemundo 51 Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="Novelas",Telemundo 51 Miami
+#EXTINF: -1 tvg-id="WSCVDT1.us" tvg-name="Telemundo 51 Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="EEUU/MX",Telemundo 51 Miami
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJrUHjOTakfYG4XXH2cPOkCk/ts
 
 
-#EXTINF: -1 tvg-id="KSTSDT1.us" tvg-name="Telemundo 48 San Francisco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Telemundo_48_2018.png" group-title="Novelas",Telemundo 48 San Francisco
+#EXTINF: -1 tvg-id="KSTSDT1.us" tvg-name="Telemundo 48 San Francisco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Telemundo_48_2018.png" group-title="EEUU/MX",Telemundo 48 San Francisco
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJop0mIY_F7RRy1vTPBe_NUo/ts
 
 
-#EXTINF: -1 tvg-id="WNJUDT1.us" tvg-name="Telemundo 47 New York" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="Novelas",Telemundo 47 New York
+#EXTINF: -1 tvg-id="WNJUDT1.us" tvg-name="Telemundo 47 New York" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="EEUU/MX",Telemundo 47 New York
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJoWYCXxJC5T6J60kufrq0lc/ts
 
 
-#EXTINF: -1 tvg-id="WNJUDT1.us" tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg" group-title="Novelas",Telemundo Internacional
+#EXTINF: -1 tvg-id="WNJUDT1.us" tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg" group-title="EEUU/MX",Telemundo Internacional
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJtPLCa4KMGexaHQ1jiQ-UCw/ts
 
 
-#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="Novelas",Las Estrellas
+#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="EEUU/MX",Las Estrellas
 
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
