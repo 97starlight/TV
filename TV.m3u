@@ -1,12 +1,12 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-id="KTMWDT1.us" tvg-name="Telemundo 10 Utah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",Telemundo 10 Utah
+#EXTINF: -1 tvg-id="KTMWDT1.us" tvg-name="Telemundo 10 Utah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="TV,Telemundo 10 Utah
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJodQbqCL4yamCuEyto1WWJA/ts
 
 
-#EXTINF: -1 tvg-id="KTMWDT1.us" tvg-name="Telemundo 51 Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",Telemundo 51 Miami
+#EXTINF: -1 tvg-id="KTMWDT1.us" tvg-name="Telemundo 51 Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="TV",Telemundo 51 Miami
 
 http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJrUHjOTakfYG4XXH2cPOkCk/ts
 
