@@ -40,6 +40,21 @@ http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJo8inu0kJx2V9k_hKYEjyU0/ts
 http://live.budtvlight.com:25461/Luna001/18dabf00/16633
 
 
+#EXTINF: -1 tvg-name="Telemundo Texas" tvg-logo="https://telemundoaustin.com/resources/assets/keyetelemu/images/logos/neye-header-logo.png" group-title="EEUU/MX",Telemundo Texas (-2)
+
+http://live.budtvlight.com:25461/Luna001/18dabf00/1937
+
+
+#EXTINF: -1 tvg-name="Telemundo Tucson" tvg-logo="https://media.telemundoarizona.com/2020/10/TLMD_Arizona.png?resize=1200%2C675&quality=85&strip=all" group-title="EEUU/MX",Telemundo Tucson (-4)
+
+http://live.budtvlight.com:25461/Luna001/18dabf00/47162
+
+
+#EXTINF: -1 tvg-name="Telemundo Salt Lake" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/a3/25/49/a3254920-4a4f-f5cc-de33-3e325ae8e41f/AppIcon-tlmd-utah-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" group-title="EEUU/MX",Telemundo Salt Lake (-3)
+
+http://live.budtvlight.com:25461/Luna001/18dabf00/51261
+
+
 ---------------- Cultura/Mundo ----------------
 
 
