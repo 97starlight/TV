@@ -55,7 +55,7 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/47162
 http://live.budtvlight.com:25461/Luna001/18dabf00/51261
 
 
-#EXTINF: -1 , Telemundo PR
+#EXTINF: -1 tvg-name="Telemundo Puerto Rico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest?cb=20200308213727&path-prefix=es" ,Telemundo Puerto Rico
 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
