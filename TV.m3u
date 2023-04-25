@@ -8,7 +8,7 @@
 
 #EXTINF: -1 tvg-name="Telemundo 51 Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="EEUU/MX",Telemundo 51 Miami
 
-
+https://live.telelatinohd.com:8080/MTgxLjkuMTUzLjE5/48_.m3u8?token=FUfD1w1rAbX0UkI5tnWOtg&expires=1682400725
 
 
 #EXTINF: -1 tvg-name="Telemundo 48 San Francisco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Telemundo_48_2018.png" group-title="EEUU/MX",Telemundo 48 San Francisco
@@ -58,11 +58,6 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/51261
 #EXTINF: -1 tvg-name="Telemundo Puerto Rico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest?cb=20200308213727&path-prefix=es" group-title="EEUU/MX",Telemundo Puerto Rico
 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-
-#EXTINF= -1 tvg-name="Telemundo 51" tvg-logo="" group-title="EEUU/MX",Telemundo 51
-
-https://live.telelatinohd.com:8080/MTgxLjkuMTUzLjE5/48_.m3u8?token=FUfD1w1rAbX0UkI5tnWOtg&expires=1682400725
 
 
 
