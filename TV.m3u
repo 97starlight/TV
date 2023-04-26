@@ -79,6 +79,14 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/16567
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
 
+
+#EXTINF: -1 tvg-name="Antena 3" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.Antena3-vect17.png.f837b89f65cce788ce97bd37b4d45910.png" group-title="Cultura/mundo",Antena 3
+
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
+
+
+
+
 ---------------- TV ----------------
 
 
@@ -260,7 +268,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 
 ---------------- Deportes ----------------
 
-#EXTINF: -1 tvg-name="TUDN" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_07/large.TUDN_LOGO_COLOR.png.8ee87523ad271355fd2dfd26be473736.png",TUDN
+#EXTINF: -1 tvg-name="TUDN" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_07/large.TUDN_LOGO_COLOR.png.8ee87523ad271355fd2dfd26be473736.png" group-title="Deportes",TUDN
 
 http://tv.fullytv.com:8080/emontoya/6900/1105665
 
