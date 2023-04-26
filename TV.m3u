@@ -260,13 +260,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 
 ---------------- Deportes ----------------
 
-
-#EXTINF: -1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium
-
-http://tv.fullytv.com:8080/emontoya/6900/4193
-
-
-
 #EXTINF: -1 tvg-name="TUDN" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_07/large.TUDN_LOGO_COLOR.png.8ee87523ad271355fd2dfd26be473736.png",TUDN
 
 http://tv.fullytv.com:8080/emontoya/6900/1105665
