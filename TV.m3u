@@ -231,7 +231,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a00079
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
 
 
-#EXTINF: -1 tvg-name="VEVO POP" tvg-logo="https://image.xumo.com/v1/channels/channel/99991391/600x337.webp?type=channelTile" group-title="Música",VEVO POP
+#EXTINF: -1 tvg-name="VEVO POP" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSzJIOtZRzCDPonacDukxvjvG9uuvyBHLBm-pjLV-qJwcLpa3M" group-title="Música",VEVO POP
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
 
