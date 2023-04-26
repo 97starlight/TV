@@ -236,6 +236,6 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/1653
 
 ---------------- Test ----------------
 
-#EXTINF: -1 ,
+#EXTINF: -1 group-title="Test", Channel
 
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/154049
