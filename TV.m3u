@@ -3,7 +3,7 @@
 
 #EXTINF: -1 tvg-name="Telemundo New York" tvg-logo="" group-title="EEUU/MX",Telemundo New York 
 
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/103683
+
 
 
 #EXTINF: -1 tvg-name="Las Estrellas" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="EEUU/MX",Las Estrellas
@@ -53,14 +53,9 @@ https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
-#EXTINF: -1 tvg-name="Telefe Rosario" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png" group-title="TV",Telefe Rosario
+#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png" group-title="TV",El Ocho TV
 
-https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1682095994~exp=1682272394~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=7d70aabb2bc901a33a6d46a5e47f7b979d931797931a817f044d0985a778547c
-
-
-#EXTINF: -1 tvg-name="Telefe Córdoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/512px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="TV",Telefe Córdoba
-
-https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1682095908~exp=1682272308~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=5167c8cabd1898f88cef9b039c60cb7f4191d27ffcee548c3e0181f751e059b7
+https://www.dailymotion.com/video/x8hvuj5
 
 
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="TV",El Trece
@@ -228,7 +223,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 
 #EXTINF: -1 tvg-name="TUDN" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_07/large.TUDN_LOGO_COLOR.png.8ee87523ad271355fd2dfd26be473736.png" group-title="Deportes",TUDN
 
-http://tv.fullytv.com:8080/emontoya/6900/1105665
+
 
 
 ---------------- Test ----------------
