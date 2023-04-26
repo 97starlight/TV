@@ -211,22 +211,22 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23livestitch/master.m3u8?advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&profilesFromStream=true
 
 
-#EXTINF: -1 tvg-name="VEVO 70'S" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/logo.png" group-title="Música",VEVO 70'S
+#EXTINF: -1 tvg-name="VEVO 70'S" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/36e783dc9cc9d46f4b17242eb3018f9b.png" group-title="Música",VEVO 70'S
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
 
 
-#EXTINF: -1 tvg-name="VEVO 80'S" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/logo.png" group-title="Música",VEVO 80'S
+#EXTINF: -1 tvg-name="VEVO 80'S" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/619c36afce30e4a48eaf2dafb5704dbb.png" group-title="Música",VEVO 80'S
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43501a2e-2968-4f0a-9974-5f5683f1f0db&userId=&serverSideAds=true
 
 
-#EXTINF: -1 tvg-name="VEVO 90'S" tvg-logo="" group-title="Música",VEVO 90'S
+#EXTINF: -1 tvg-name="VEVO 90'S" tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b0d49ce3139f33ebbcada224e6d5a5bc.png" group-title="Música",VEVO 90'S
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=350f636b-2a16-48a8-9dfd-208857d4c1a7&userId=&serverSideAds=true
 
 
-#EXTINF: -1 tvg-name="VEVO 2K" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/logo.png" group-title="Música",VEVO 2K
+#EXTINF: -1 tvg-name="VEVO 2K" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Música",VEVO 2K
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
 
@@ -236,22 +236,22 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
 
 
-#EXTINF: -1 tvg-name="VEVO R&B" tvg-logo="" group-title="Música",VEVO R&B
+#EXTINF: -1 tvg-name="VEVO R&B" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/fc3a95cd8ba1e4fae91ef9083b1028d2.png" group-title="Música",VEVO R&B
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
 
 
-#EXTINF: -1 tvg-name="VEVO COUNTRY" tvg-logo="" group-title="Música",VEVO COUNTRY
+#EXTINF: -1 tvg-name="VEVO COUNTRY" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ffbd0387a2f66f79857973691aeb0829.png" group-title="Música",VEVO COUNTRY
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&userId=&serverSideAds=true
 
 
-#EXTINF: -1 tvg-name="VEVO REGGAETÓN & TRAP" tvg-logo="" group-title="Música",VEVO REGGAETÓN & TRAP
+#EXTINF: -1 tvg-name="VEVO REGGAETÓN & TRAP" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d57bf55a94b4739b1edc1c85d1e07132.png" group-title="Música",VEVO REGGAETÓN & TRAP
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 
 
-#EXTINF: -1 tvg-name="VEVO LATINO" tvg-logo="" group-title="Música",VEVO LATINO
+#EXTINF: -1 tvg-name="VEVO LATINO" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/61280a95442961775568c8fcba1f618d.png" group-title="Música",VEVO LATINO
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
 
