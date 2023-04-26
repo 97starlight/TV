@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+#EXTINF: -1 tvg-name="Telemundo New York" tvg-logo="="EEUU/MX",Telemundo New York 
+
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/103683
+
+
 #EXTINF: -1 tvg-name="Las Estrellas" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="EEUU/MX",Las Estrellas
 
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
