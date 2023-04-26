@@ -22,12 +22,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF: -1 tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Cultura/mundo",Investigation Discovery
 
-http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJhhboLeH7OpDaXkfwWMKUY8/m3u8
+http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26898
 
-
-#EXTINF: -1 tvg-name="Investigation Discovery LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Cultura/mundo",Investigation Discovery LQ
-
-http://live.budtvlight.com:25461/Luna001/18dabf00/16567
 
 
 #EXTINF: -1 tvg-name="Cuatro" tvg-logo="https://i.imgur.io/NYLnABb_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Cultura/mundo",Cuatro
