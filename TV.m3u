@@ -26,7 +26,7 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lo
 http://45.5.118.226:8000/play/a054/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://181.189.243.254:8000/playlist/tvg-logo/a0td.png" group-title="EEUU/MX",Pasiones HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="EEUU/MX",Pasiones HD
 
 http://181.189.243.254:8000/play/a0td/index.m3u8
 
