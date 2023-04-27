@@ -281,12 +281,8 @@ http://181.78.7.92:6500/play/a01f/index.m3u8
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/25279
 
 
-#EXTINF: -1 group-title:="Deportes",FOX Sports
 
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/10959
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",LaLigaTV por M+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",ESP | LaLigaTV por M+
 
 http://45.5.118.226:8000/play/a051/index.m3u8
 
@@ -323,3 +319,4 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/203186
 
 #EXTINF: -1 group-title="Test",Test
 
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/157373
