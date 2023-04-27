@@ -232,10 +232,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 
 ---------------- Deportes ----------------
 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png",TNT SPORTS AR
+http://45.5.118.226:8000/play/a05b/index.m3u8
+
 
 #EXTINF: -1 tvg-name="TyC Sports Internacional" tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/large.gallery_1157_2_13515.png.14c8d3e00f0b5496c60e7468361d509f.png" group-title="Deportes",TyC Sports Internacional
 
 http://181.78.7.92:6500/play/a01f/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",LaLigaTV por M+
 
