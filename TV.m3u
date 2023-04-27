@@ -92,7 +92,7 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
 
-#EXTINF: -1 tvg-name="Telefe alt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe (alt)
+#EXTINF: -1 tvg-name="Telefe alt" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/04658f120869473.Y3JvcCw1NzU0LDQ1MDEsMTEyNSww.png" group-title="TV",Telefe (alt)
 
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1682596115~exp=1682603315~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=f5ac275c19b69306565d2ac40482f28b83faf4145a0ea0d338da65c2aaafaefd
 
