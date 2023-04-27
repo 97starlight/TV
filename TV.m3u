@@ -307,12 +307,12 @@ http://45.5.118.226:8000/play/a0ht/index.m3u8
 http://45.5.118.226:8000/play/a0kj/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",LaLigaTV por M+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",LaLigaTV por M+
 
 http://45.5.118.226:8000/play/a051/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="Deportes",TUDN
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="Deportes",TUDN
 
 http://45.182.21.251:33334/play/a07y/index.m3u8
 
@@ -320,20 +320,24 @@ http://45.182.21.251:33334/play/a07y/index.m3u8
 ---------------- DSports ----------------
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="DSports",DSports
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="DSports",DSports
 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/202157
 
 
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/612.png" group-title="DSports",DSports 2
+#EXTINF: -1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/612.png" group-title="DSports",DSports 2
 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/11025
 
 
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="DSports",DSports+
+#EXTINF: -1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="DSports",DSports+
 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/203186
 
+
+#EXTINF: -1,DSports MIX
+
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/202157
 
 ---------------- Test ----------------
 
