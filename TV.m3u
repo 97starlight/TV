@@ -80,7 +80,7 @@ http://45.5.118.226:8000/play/a0ih/index.m3u8
 
 http://45.5.118.226:8000/play/a0i4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png",Tru TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Entretenimiento",Tru TV
 
 http://181.189.243.254:8000/play/a0pe/index.m3u8
 
@@ -263,7 +263,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 http://45.5.118.226:8000/play/a05b/index.m3u8
 
 
-#EXTINF: -1 tvg-name="TyC Sports Internacional" tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/large.gallery_1157_2_13515.png.14c8d3e00f0b5496c60e7468361d509f.png" group-title="Deportes",TyC Sports Internacional
+#EXTINF: -1 tvg-name="TyC Sports Internacional" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_QFuLNpV7rUGqPAynaN0PSI4MY2-2HPLi1ECQVd3boc6wUuoudk64D5ix9bpRNO_gp_Fg1ICXP7ywhPDH5xgWUMmgpkbclwqpNWK-FltRq1oXNRXIU4gk9jDNv1sBcxcRTVBQQ6NaBwjkvI4K0ThO3Fhb6k0XVq7G-7TdnT2dE5u7LKEyhC58TiRVGQ/s900/image.png" group-title="Deportes",TyC Sports Internacional
 
 http://181.78.7.92:6500/play/a01f/index.m3u8
 
@@ -280,5 +280,3 @@ http://45.182.21.251:33334/play/a07y/index.m3u8
 ---------------- Test ----------------
 
 #EXTINF: -1 group-title="Test",Test
-
-http://179.1.68.20:8093/play/a0sy
