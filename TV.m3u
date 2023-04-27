@@ -78,9 +78,9 @@ http://45.5.118.226:8000/play/a0i4/index.m3u8
 http://181.189.243.254:8000/play/a0pe/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Entretenimiento",Food Network
+#EXTINF:-1 tvg-logo="http://45.5.118.226:8000/play/a0hh/index.m3u8" group-title="Entretenimiento",TLC
 
-http://38.43.140.97:8000/play/a00u/index.m3u8
+http://45.5.118.226:8000/play/a0hh/index.m3u8
 
 
 ---------------- TV ----------------
@@ -284,9 +284,6 @@ http://45.5.118.226:8000/play/a0ix/index.m3u8
 
 #EXTINF: -1,MX | ESPN Extra
 http://45.5.118.226:8000/play/a0gl/index.m3u8
-
-#EXTINF: -1,FOX SPORTS 1
-http://38.43.140.97:8000/play/a00h/index.m3u8
 
 #EXTINF: -1,FOX SPORTS 2
 http://45.5.118.226:8000/play/a0ht/index.m3u8
