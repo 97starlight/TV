@@ -229,6 +229,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 
 http://181.78.7.92:6500/play/a01f/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://45.5.118.226:8000/playlist/tvg-logo/a051.png" group-title="Deportes",MOVISTAR LA LIGA
+http://45.5.118.226:8000/play/a051/index.m3u8
+
 ---------------- Test ----------------
 
 #EXTINF: -1 group-title="Test",TLMD INTL
