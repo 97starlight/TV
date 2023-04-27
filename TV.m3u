@@ -252,6 +252,6 @@ http://45.5.118.226:8000/play/a051/index.m3u8
 
 ---------------- Test ----------------
 
-#EXTINF: -1 group-title="Test",TLMD INTL
+#EXTINF: -1 group-title="Test",Test
 
-http://200.41.79.165:8000/play/a067/index.m3u8
+http://45.5.118.226:8000/play/a0iy/index.m3u8
