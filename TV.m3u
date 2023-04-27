@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF: -1 tvg-name="Telemundo" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/4/16/Telemundo-Logo-White-360x300.png" group-title="EEUU/MX",Telemundo
 
 http://45.5.118.226:8000/play/a050/index.m3u8
@@ -10,13 +11,10 @@ http://45.5.118.226:8000/play/a050/index.m3u8
 http://45.5.118.226:8000/play/a0gv/index.m3u8
 
 
-
 #EXTINF: -1 tvg-name="Las Estrellas" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="EEUU/MX",Las Estrellas
 
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
-
-#EXTINF: -1 tvg-name="Telemundo Puerto Rico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/WKAQ_Logo_Telemundo_%282018-presente%29.png/revision/latest?cb=20200308213727&path-prefix=es" group-title="EEUU/MX",Telemundo Puerto Rico
 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
