@@ -59,6 +59,11 @@ http://45.5.118.226:8000/play/a0gt/index.m3u8
 
 http://45.5.118.226:8000/play/a0ih/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.139088045_UniversalCrime-Oscuro.png.96c4b094012fd66c70e7837081865a12.png" group-title="Entretenimiento",Universal Crime
+
+http://45.5.118.226:8000/play/a0i4/index.m3u8
+
 ---------------- TV ----------------
 
 
