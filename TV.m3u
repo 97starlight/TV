@@ -80,6 +80,11 @@ http://45.5.118.226:8000/play/a0ih/index.m3u8
 
 http://45.5.118.226:8000/play/a0i4/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png",Tru TV
+
+http://181.189.243.254:8000/play/a0pe/index.m3u8
+
+
 ---------------- TV ----------------
 
 
@@ -276,3 +281,4 @@ http://45.182.21.251:33334/play/a07y/index.m3u8
 
 #EXTINF: -1 group-title="Test",Test
 
+http://179.1.68.20:8093/play/a0sy
