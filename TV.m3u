@@ -50,7 +50,7 @@ https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
 http://200.41.79.165:8000/play/a04i/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E
 
 http://45.5.118.226:8000/play/a0gt/index.m3u8
 
