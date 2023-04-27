@@ -263,9 +263,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 
 ---------------- Deportes ----------------
 
-#EXTINF:-1 tvg-logo="https://dmdqet87i5rod.cloudfront.net/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="Deportes",TNT SPORTS AR
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT SPORTS
 
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155247
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/155677
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Deportes",ESPN Premium
