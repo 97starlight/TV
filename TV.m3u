@@ -24,36 +24,37 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 
 
----------------- Cultura/Mundo ----------------
+---------------- Entretenimiento ----------------
 
 
-#EXTINF: -1 tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Cultura/mundo",Investigation Discovery
+#EXTINF: -1 tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento",Investigation Discovery
 
 http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26898
 
 
 
-#EXTINF: -1 tvg-name="Cuatro" tvg-logo="https://i.imgur.io/NYLnABb_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Cultura/mundo",Cuatro
+#EXTINF: -1 tvg-name="Cuatro" tvg-logo="https://i.imgur.io/NYLnABb_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Entretenimiento",Cuatro
 
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
 
 
-#EXTINF: -1 tvg-name="Antena 3" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.Antena3-vect17.png.f837b89f65cce788ce97bd37b4d45910.png" group-title="Cultura/mundo",Antena 3
+#EXTINF: -1 tvg-name="Antena 3" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.Antena3-vect17.png.f837b89f65cce788ce97bd37b4d45910.png" group-title="Entretenimiento",Antena 3
 
 https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 
 
 
-#EXTINF: -1 tvg-name="Los Archivos del FBI" tvg-logo="" group-title="Cultura/mundo",Pluto | Los archivos del FBI
-
+#EXTINF: -1 tvg-name="Los Archivos del FBI" tvg-logo="" group-title="Entretenimiento",Pluto | Los archivos del FBI
 
 https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
 
 
-#EXTINF: -1 tvg-name="AXN" tvg-logo="" group-title="Cultura/Mundo",AXN
+
+#EXTINF: -1 tvg-name="AXN" tvg-logo="" group-title="Entretenimiento",AXN
 
 http://200.41.79.165:8000/play/a04i/index.m3u8
+
 
 
 ---------------- TV ----------------
