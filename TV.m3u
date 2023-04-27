@@ -130,6 +130,10 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8?auth-token=event=bFL1IVq9RNGlWQaqgiFuNw~exp=1682125972~hmac=eda1d68e001ffc2c3565f4b0950b43c5f6f30be3a58e18e41ed7b0f5024480cd
 
 
+#EXTINF: -1 tvg-name="CNN Chile" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/sml_gallery_11278_7_322.png" group-title="TV",CNN Chile
+
+http://200.41.79.165:8000/play/a04i/index.m3u8
+
 ---------------- Musica ----------------
 
 
