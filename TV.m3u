@@ -222,14 +222,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 ---------------- Deportes ----------------
 
 
-#EXTINF: -1 tvg-name="TUDN" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_07/large.TUDN_LOGO_COLOR.png.8ee87523ad271355fd2dfd26be473736.png" group-title="Deportes",TUDN
+#EXTINF: -1 tvg-name="TyC Sports Internacional" tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/large.gallery_1157_2_13515.png.14c8d3e00f0b5496c60e7468361d509f.png" group-title="Deportes",TyC Sports Internacional
 
-
-
-#EXTINF: -1 tvg-name="TyC Sports Internacional" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-cl-1246.png" group-title="Deportes",TyC Sports Internacional
-
-http://181.78.7.92:6500/play/a01f/index.m3u8
-
+http://200.41.79.165:8000/play/a05v/index.m3u8
 
 ---------------- Test ----------------
 
