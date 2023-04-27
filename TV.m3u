@@ -267,9 +267,19 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 http://45.5.118.226:8000/play/a05b/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Deportes",ESPN Premium
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121662
+
+
 #EXTINF: -1 tvg-name="TyC Sports Internacional" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_QFuLNpV7rUGqPAynaN0PSI4MY2-2HPLi1ECQVd3boc6wUuoudk64D5ix9bpRNO_gp_Fg1ICXP7ywhPDH5xgWUMmgpkbclwqpNWK-FltRq1oXNRXIU4gk9jDNv1sBcxcRTVBQQ6NaBwjkvI4K0ThO3Fhb6k0XVq7G-7TdnT2dE5u7LKEyhC58TiRVGQ/s900/image.png" group-title="Deportes",TyC Sports Internacional
 
 http://181.78.7.92:6500/play/a01f/index.m3u8
+
+
+EXTINF: -1 tvg-name="TyC Sports" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_QFuLNpV7rUGqPAynaN0PSI4MY2-2HPLi1ECQVd3boc6wUuoudk64D5ix9bpRNO_gp_Fg1ICXP7ywhPDH5xgWUMmgpkbclwqpNWK-FltRq1oXNRXIU4gk9jDNv1sBcxcRTVBQQ6NaBwjkvI4K0ThO3Fhb6k0XVq7G-7TdnT2dE5u7LKEyhC58TiRVGQ/s900/image.png" group-title="Deportes",TyC Sports
+
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/25279
+
 
 #EXTINF: -1, ESPN
 http://38.43.140.97:8000/play/a03x/index.m3u8
@@ -310,7 +320,6 @@ http://45.182.21.251:33334/play/a07y/index.m3u8
 
 #EXTINF: -1 group-title="Test",Test
 
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121662
 
 
 EXTINF: -1 tvg-name="AXN SD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/small.gallery_11278_7_9217.png.3275165635fee214f75338974c3d5624.png" group-title="Test",AXN SD
