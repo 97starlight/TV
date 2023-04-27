@@ -19,8 +19,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="EEUU/MX",Univision HD
 
-http://45.5.118.226:8000/play/a0k
-
 
 ---------------- Entretenimiento ----------------
 
@@ -267,4 +265,3 @@ http://45.182.21.251:33334/play/a07y/index.m3u8
 
 #EXTINF: -1 group-title="Test",Test
 
-http://45.5.118.226:8000/play/a0gv/index.m3u8
