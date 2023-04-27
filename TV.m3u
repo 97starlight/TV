@@ -23,7 +23,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF: -1 tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento",Investigation Discovery
 
-http://tv.multitv.live:39001/Martha11CA/I4bSzJfAzE/26898
+
 
 
 
@@ -50,12 +50,12 @@ https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
 http://200.41.79.165:8000/play/a04i/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png",A&E HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E HD
 
 http://45.5.118.226:8000/play/a0gt/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",Universal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Entretenimiento",Universal
 
 http://45.5.118.226:8000/play/a0ih/index.m3u8
 
@@ -233,7 +233,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 
 ---------------- Deportes ----------------
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png",TNT SPORTS AR
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title="Deportes",TNT SPORTS AR
 http://45.5.118.226:8000/play/a05b/index.m3u8
 
 
