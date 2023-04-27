@@ -50,13 +50,14 @@ https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
 http://200.41.79.165:8000/play/a04i/index.m3u8
 
 
-A&E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png",A&E HD
 
 http://45.5.118.226:8000/play/a0gt/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png",Universal
 
-
+http://45.5.118.226:8000/play/a0ih/index.m3u8
 
 ---------------- TV ----------------
 
