@@ -49,6 +49,11 @@ https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
 http://200.41.79.165:8000/play/a04i/index.m3u8
 
 
+#EXTINF: -1 tvg-name="AXN HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/small.gallery_11278_7_9217.png.3275165635fee214f75338974c3d5624.png" group-title="Entretenimiento",AXN HD
+
+http://45.5.118.226:8000/play/a0iy/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png" group-title="Entretenimiento",A&E
 
 http://45.5.118.226:8000/play/a0gt/index.m3u8
@@ -254,4 +259,3 @@ http://45.5.118.226:8000/play/a051/index.m3u8
 
 #EXTINF: -1 group-title="Test",Test
 
-http://45.5.118.226:8000/play/a0iy/index.m3u8
