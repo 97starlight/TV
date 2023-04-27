@@ -219,9 +219,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
 
 
-
-
 ---------------- Deportes ----------------
+
 
 #EXTINF: -1 tvg-name="TUDN" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_07/large.TUDN_LOGO_COLOR.png.8ee87523ad271355fd2dfd26be473736.png" group-title="Deportes",TUDN
 
