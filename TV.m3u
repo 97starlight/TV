@@ -19,7 +19,7 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="EEUU/MX",Univision HD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="EEUU/MX",Univision
 
 http://45.5.118.226:8000/play/a0kr/index.m3u8
 
@@ -29,7 +29,7 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lo
 http://45.5.118.226:8000/play/a054/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="EEUU/MX",Pasiones HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="EEUU/MX",Pasiones
 
 http://181.189.243.254:8000/play/a0td/index.m3u8
 
@@ -54,17 +54,7 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/mani
 
 
 
-#EXTINF: -1 tvg-name="Los Archivos del FBI" tvg-logo="" group-title="Entretenimiento",Pluto | Los archivos del FBI
-
-https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
-
-
-#EXTINF: -1 tvg-name="AXN" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/small.gallery_11278_7_9217.png.3275165635fee214f75338974c3d5624.png" group-title="Entretenimiento",AXN
-
-http://200.41.79.165:8000/play/a04i/index.m3u8
-
-
-#EXTINF: -1 tvg-name="AXN HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/small.gallery_11278_7_9217.png.3275165635fee214f75338974c3d5624.png" group-title="Entretenimiento",AXN HD
+#EXTINF: -1 tvg-name="AXN HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/small.gallery_11278_7_9217.png.3275165635fee214f75338974c3d5624.png" group-title="Entretenimiento",AXN
 
 http://45.5.118.226:8000/play/a0iy/index.m3u8
 
@@ -172,6 +162,7 @@ https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8?auth-toke
 
 http://200.41.79.165:8000/play/a045/index.m3u8
 
+
 ---------------- Musica ----------------
 
 
@@ -262,7 +253,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 
 ---------------- Deportes ----------------
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-0.png" group-title="Deportes",TNT SPORTS AR
+#EXTINF:-1 tvg-logo="https://dmdqet87i5rod.cloudfront.net/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="Deportes",TNT SPORTS AR
 http://45.5.118.226:8000/play/a05b/index.m3u8
 
 
@@ -306,4 +297,8 @@ http://45.182.21.251:33334/play/a07y/index.m3u8
 
 #EXTINF: -1 group-title="Test",Test
 
-http://ky-tv.cc:25461/live/ArturoAA/ArturoBB/514668.ts
+
+
+EXTINF: -1 tvg-name="AXN SD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/small.gallery_11278_7_9217.png.3275165635fee214f75338974c3d5624.png" group-title="Test",AXN SD
+
+http://200.41.79.165:8000/play/a04i/index.m3u8
