@@ -7,12 +7,6 @@ http://45.5.118.226:8000/play/a0gv/index.m3u8
 
 
 
-#EXTINF: -1 tvg-name="Telemundo Internacional SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubKygeTd_FehPf1ADdb2MaeU4r_QaKLwxQg&usqp=CAU" group-title="EEUU/MX",Telemundo Internacional SD
-
-http://200.41.79.165:8000/play/a067/index.m3u8
-
-
-
 #EXTINF: -1 tvg-name="Las Estrellas" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="EEUU/MX",Las Estrellas
 
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
@@ -240,7 +234,6 @@ http://181.78.7.92:6500/play/a01f/index.m3u8
 
 ---------------- Test ----------------
 
-#EXTINF: -1 group-title="Test",TyC
+#EXTINF: -1 group-title="Test",TLMD INTL
 
-
-
+http://200.41.79.165:8000/play/a067/index.m3u8
