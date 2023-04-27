@@ -45,10 +45,9 @@ https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
 
 
 
-#EXTINF: -1 tvg-name="AXN" tvg-logo="" group-title="Entretenimiento",AXN
+#EXTINF: -1 tvg-name="AXN" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/small.gallery_11278_7_9217.png.3275165635fee214f75338974c3d5624.png" group-title="Entretenimiento",AXN
 
 http://200.41.79.165:8000/play/a04i/index.m3u8
-
 
 
 ---------------- TV ----------------
