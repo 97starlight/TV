@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-name="Telemundo" tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2019/4/16/Telemundo-Logo-White-360x300.png" group-title="EEUU/MX",Telemundo
+#EXTINF: -1 tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/910px-Telemundo_logo_2018.svg.png" group-title="EEUU/MX",Telemundo
 
 http://45.5.118.226:8000/play/a050/index.m3u8
 
