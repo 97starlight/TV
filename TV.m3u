@@ -2,7 +2,6 @@
 
 
 #EXTINF: -1 tvg-name="Telemundo" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/04/Logo-Telemundo-rojo-1.png" group-title="EEUU/MX",Telemundo
-
 http://45.5.118.226:8000/play/a050/index.m3u8
 
 
@@ -265,7 +264,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT SPORTS
 
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155677
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/155247
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Deportes",ESPN Premium
