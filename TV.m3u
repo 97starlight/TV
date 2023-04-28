@@ -318,7 +318,7 @@ http://45.5.118.226:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT SPORTS
 
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155677
+http://45.5.118.226:8000/play/a05b/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Deportes",ESPN Premium
@@ -327,7 +327,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121662
 
 #EXTINF: -1 tvg-name="TyC Sports Internacional" tvg-logo="http://www.conversos.tycsports.com/views/layout/default/img/logo-tycsports.png" group-title="Deportes",TyC Sports Internacional
 
-http://181.78.7.92:6500/play/a01f/index.m3u8
+http://45.5.118.226:8000/play/a059/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1024px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
@@ -366,24 +366,9 @@ http://45.182.21.251:33334/play/a07y/index.m3u8
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/200284
 
 
-
----------------- Paramount+ ----------------
-
-
-#EXTINF: -1 tvg-logo="" group-title="Paramount+ Premier League",Channel 1
-
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2138719
-
-
-#EXTINF: -1 tvg-logo="" group-title="Paramount+ Premier League",Channel 2
-
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2138720
-
-
 ---------------- Test ----------------
 
 #EXTINF: -1 group-title="Test",TNT AR
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155247
 
 
 #EXTINF: -1 group-title="Test",TLMD TAMPA
