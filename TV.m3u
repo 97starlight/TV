@@ -342,43 +342,6 @@ http://45.182.21.251:33334/play/a07y/index.m3u8
 --------------------------------------
 
 
-#EXTINF: -1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/612.png" group-title="Deportes",DSports 2
-
-
-
-#EXTINF: -1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="Deportes",DSports+
-
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/640px-Espn_deportes.svg.png" group-title="Deportes",ESPN Deportes
-
-
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="Deportes",EEUU | FOX DEPORTES
-
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1024px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Deportes",ESPN Premium
-
-
-#EXTINF: -1 tvg-name="Telemundo 49" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/2/2c/Telemundo_49_2018.png/revision/latest?cb=20190613124247" group-title="EEUU/MX",Telemundo Tampa 
-  
-
-  
-  
- #EXTINF: -1 tvg-name="Telemundo 44" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Telemundo_44_%282018%29.svg/revision/latest/scale-to-width-down/200?cb=20210206140226" group-title="EEUU/MX",Telemundo Washington 
-  
-
-  
-  
- #EXTINF: -1 tvg-name="Telemundo 52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Telemundo_52_2018.png" group-title="EEUU/MX",Telemundo Los Ángeles 
-
-
 
 ---------------- Test ----------------
 
