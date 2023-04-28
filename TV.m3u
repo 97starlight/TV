@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-name="Telemundo" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/04/Logo-Telemundo-rojo-1.png" group-title="EEUU/MX",Telemundo
+#EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/04/Logo-Telemundo-rojo-1.png" group-title="EEUU/MX",Telemundo 51 Miami
 http://45.5.118.226:8000/play/a050/index.m3u8
 
 
