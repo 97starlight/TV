@@ -322,7 +322,8 @@ http://45.5.118.226:8000/play/a05b/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Deportes",ESPN Premium
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121662
+
+
 
 
 #EXTINF: -1 tvg-name="TyC Sports Internacional" tvg-logo="http://www.conversos.tycsports.com/views/layout/default/img/logo-tycsports.png" group-title="Deportes",TyC Sports Internacional
@@ -348,22 +349,22 @@ http://181.78.21.60:16123/play/ch19
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1024px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
 
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/25279
+
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",DSports
 
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/202157
+http://45.5.118.226:8000/play/a04q/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/612.png" group-title="Deportes",DSports 2
 
-http://45.5.118.226:8000/play/a04q/index.m3u8
+
 
 
 #EXTINF: -1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="Deportes",DSports+
 
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/203186
+
 
 
 
