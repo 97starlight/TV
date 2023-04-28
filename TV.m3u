@@ -260,6 +260,34 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
 
 
+#EXTINF: -1 group-title="Música",MTV
+http://45.5.118.226:8000/play/a0if/index.m3u8
+
+
+#EXTINF: -1 group-title="Música",MTV 00s
+http://45.5.118.226:8000/play/a0i0/index.m3u8
+
+
+#EXTINF: -1 group-title="Música",MTV 80s
+http://45.5.118.226:8000/play/a0ge/index.m3u8
+
+
+#EXTINF: -1 group-title="Música",MTV HD
+http://45.5.118.226:8000/play/a0gm/index.m3u8
+
+
+#EXTINF: -1 group-title="Música",MTV Hits
+http://45.5.118.226:8000/play/a0gd/index.m3u8
+
+
+#EXTINF: -1 group-title="Música",MTV SIM HD
+http://45.5.118.226:8000/play/a0hz/index.m3u8
+
+
+#EXTINF: -1 group-title="Música",Concert Channel
+http://45.5.118.226:8000/play/a02r/index.m3u8
+
+
 ---------------- Deportes ----------------
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT SPORTS
@@ -331,9 +359,3 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2138720
 #EXTINF: -1 group-title="Test",Test
 
 http://45.5.118.226:8000/play/a02r/index.m3u8
-
-
-#EXTINF:0,MTV 00s HD 
-#EXTVLCOPT:network-caching=1000
-
-http://45.5.118.226:8000/play/a0i0/index.m3u8
