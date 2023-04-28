@@ -182,11 +182,6 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8?auth-token=event=bFL1IVq9RNGlWQaqgiFuNw~exp=1682125972~hmac=eda1d68e001ffc2c3565f4b0950b43c5f6f30be3a58e18e41ed7b0f5024480cd
 
 
-#EXTINF: -1 tvg-name="CNN Chile" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/sml_gallery_11278_7_322.png" group-title="TV",CL | CNN Chile
-
-http://200.41.79.165:8000/play/a045/index.m3u8
-
-
 ---------------- Musica ----------------
 
 
@@ -195,7 +190,7 @@ http://200.41.79.165:8000/play/a045/index.m3u8
 http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="" group-title="Música",Concert
+#EXTINF: -1 tvg-logo="https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/278839312_357746493055871_8115069154337061014_n.png?_nc_cat=111&ccb=1-7&_nc_sid=85a577&_nc_ohc=aPX2518PDFcAX_ZQdYJ&_nc_ht=scontent.ftuc1-2.fna&oh=00_AfBiHnLbZj9LIFOQQcqPPZpyNyUvSA5pAPS4-l9viUdLZA&oe=6450C802" group-title="Música",Concert
 
 http://45.5.118.226:8000/play/a02r/index.m3u8
 
