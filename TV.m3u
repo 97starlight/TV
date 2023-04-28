@@ -358,7 +358,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/202157
 
 #EXTINF: -1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/612.png" group-title="Deportes",DSports 2
 
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/11025
+http://45.5.118.226:8000/play/a04q/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="Deportes",DSports+
