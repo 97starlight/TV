@@ -369,3 +369,11 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2138720
 #EXTINF: -1 group-title="Test",Test
 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2145673
+
+
+#EXTINF: -1 group-title="Test",TLMD SD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2150728
+
+
+#EXTINF: -1 group-title="Test",TLMD HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2150729
