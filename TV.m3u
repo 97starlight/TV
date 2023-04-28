@@ -1,22 +1,22 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="EEUU/MX",Telemundo 51 Miami
+#EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="EEUU/MX",Telemundo Miami
 
 http://45.5.118.226:8000/play/a050/index.m3u8
 
 
-#EXTINF: -1 tvg-name="Telemundo Tampa" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/2/2c/Telemundo_49_2018.png/revision/latest?cb=20190613124247" group-title="EEUU/MX",Telemundo Tampa
+#EXTINF: -1 tvg-name="Telemundo 49" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/2/2c/Telemundo_49_2018.png/revision/latest?cb=20190613124247" group-title="EEUU/MX",Telemundo Tampa
 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2141352
 
 
-#EXTINF: -1 tvg-name="Telemundo Washington" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Telemundo_44_%282018%29.svg/revision/latest/scale-to-width-down/200?cb=20210206140226" group-title="EEUU/MX",Telemundo Washington
+#EXTINF: -1 tvg-name="Telemundo 44" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Telemundo_44_%282018%29.svg/revision/latest/scale-to-width-down/200?cb=20210206140226" group-title="EEUU/MX",Telemundo Washington
 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/215768
 
 
-#EXTINF: -1 tvg-name="Telemundo 52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Telemundo_52_2018.png" group-title="EEUU/MX",Telemundo 52 Los Ángeles
+#EXTINF: -1 tvg-name="Telemundo 52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Telemundo_52_2018.png" group-title="EEUU/MX",Telemundo Los Ángeles
 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10894
 
