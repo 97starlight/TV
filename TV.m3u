@@ -366,14 +366,12 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2138720
 
 ---------------- Test ----------------
 
-#EXTINF: -1 group-title="Test",Test
-
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2145673
-
-
-#EXTINF: -1 group-title="Test",TLMD SD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2150728
+#EXTINF: -1 group-title="Test",TLMD AR
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2147952
 
 
-#EXTINF: -1 group-title="Test",TLMD HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2150729
+#EXTINF: -1 group-title="Test",TLMD TAMPA
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2141352
+
+#EXTINF: -1 group-title="Test",TLMD WASHINGTON
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/215768
