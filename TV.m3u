@@ -44,7 +44,7 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lo
 http://45.5.118.226:8000/play/a054/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="EEUU/MX",Pasiones
+#EXTINF:-1 tvg-logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="EEUU/MX",Pasiones
 
 http://181.189.243.254:8000/play/a0td/index.m3u8
 
