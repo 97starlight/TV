@@ -281,6 +281,21 @@ http://181.78.7.92:6500/play/a01f/index.m3u8
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/25279
 
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Deportes",DSports
+
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/202157
+
+
+#EXTINF: -1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/612.png" group-title="Deportes",DSports 2
+
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/11025
+
+
+#EXTINF: -1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="Deportes",DSports+
+
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/203186
+
+
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",ESP | LaLigaTV por M+
 
@@ -296,23 +311,6 @@ http://45.182.21.251:33334/play/a07y/index.m3u8
 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/200284
 
-
----------------- DSports ----------------
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="DSports",DSports
-
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/202157
-
-
-#EXTINF: -1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/612.png" group-title="DSports",DSports 2
-
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/11025
-
-
-#EXTINF: -1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="DSports",DSports+
-
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/203186
 
 
 ---------------- Paramount+ ----------------
