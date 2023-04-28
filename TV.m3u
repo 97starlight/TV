@@ -348,3 +348,9 @@ http://45.5.118.226:8000/play/a051/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Deportes",Sky Sports
 
 http://45.5.118.226:8000/play/a053/index.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="" group-title="Deportes",ESPN Premium 
+
+https://edge-vod03-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
