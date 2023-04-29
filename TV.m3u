@@ -34,7 +34,7 @@ http://45.5.118.226:8000/play/a054/index.m3u8
 http://181.189.243.254:8000/play/a0td/index.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/621px-Canal_5_Mexico_logo_2014.svg.png" group-title="EEUU/MX",Canal 5
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Canal_5_2016.svg/638px-Canal_5_2016.svg.png" group-title="EEUU/MX",Canal 5
 
 http://45.5.118.226:8000/play/a04x/index.m3u8
 
