@@ -358,6 +358,7 @@ http://45.5.118.226:8000/play/a053/index.m3u8
 
 
 
-#EXTINF: -1, ESPN
+#EXTINF: -1 group-title="Test" , ESPN
 
-https://1125-vos.dtvott.com/DASH/stream_06/Segment-3839518415792746.m4v
+https://edge-vod01-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD-mp4a_145200_eng=20001-scale=48000-init.mp4
+https://edge-vod01-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD-avc1_4999936=10000-scale=30000-init.mp4
