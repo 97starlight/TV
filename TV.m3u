@@ -122,8 +122,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b606e12a67b0007c9e3
 ---------------- TV ----------------
 
 
-#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png" group-title="TV",El Ocho TV (Tucumán)
-https://www.dailymotion.com/cdn/live/video/x8hvuj5.m3u8?sec=JALxrjMAev4E9s8Lwv9hFMh-th1AqMaUKnLSKt_rkbCrJKnqcET8qkQm_wV6QEXevDYVVcJqPV4F30ohyTyExQ&dmTs=545008&dmV1st=21e25faf-50b1-4c7a-9af4-6f46f68ac70b
+#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png" group-title="TV",El Ocho TV (Tucumán) 
+https://www.dailymotion.com/cdn/live/video/x8hvuj5.m3u8?sec=JALxrjMAev4E9s8Lwv9hFEsg-wFvLYi9ABm5jwgJlV6HKwOsogV8eJz4MKOoDTxKlOdLRCBNKvZ8-BXlhZ7rQg&dmTs=594449&dmV1st=352f20ce-bcc4-427f-8ed3-62efdc2cf531
 
 
 #EXTINF: -1 tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
