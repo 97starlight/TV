@@ -127,6 +127,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b606e12a67b0007c9e3
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
+#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png" group-title="TV",El Ocho TV
+https://www.dailymotion.com/cdn/live/video/x8hvuj5.m3u8?sec=JALxrjMAev4E9s8Lwv9hFMh-th1AqMaUKnLSKt_rkbCrJKnqcET8qkQm_wV6QEXevDYVVcJqPV4F30ohyTyExQ&dmTs=545008&dmV1st=21e25faf-50b1-4c7a-9af4-6f46f68ac70b
+
+
 #EXTINF: -1 tvg-name="Canal 8 Mar del Plata (Telefe)" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png" group-title="TV",Canal 8 Mar del Plata (Telefe)
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
