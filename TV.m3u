@@ -57,171 +57,134 @@ https://dai2-playlistserver.aws.syncbak.com/cpl/20979933/dai2v5/1.0/7b2264657669
 ---------------- Entretenimiento ----------------
 
 
-#EXTINF: -1 tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento",Investigation Discovery
 
+#EXTINF: -1 tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento",Investigation Discovery
 http://45.5.118.226:8000/play/a0ks/index.m3u8
 
 
 #EXTINF: -1 tvg-name="Cuatro" tvg-logo="https://i.imgur.io/NYLnABb_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Entretenimiento",Cuatro
-
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
 
-
 #EXTINF: -1 tvg-name="Antena 3" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.Antena3-vect17.png.f837b89f65cce788ce97bd37b4d45910.png" group-title="Entretenimiento",Antena 3
-
 https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 
 
-
 #EXTINF: -1 tvg-name="AXN HD" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="Entretenimiento",AXN
-
 http://45.5.118.226:8000/play/a0iy/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png" group-title="Entretenimiento",A&E
-
 http://45.5.118.226:8000/play/a0gt/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Entretenimiento",Universal
-
 http://45.5.118.226:8000/play/a0ih/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.3d4d66da49a1f994538e8a81b24abde3.png" group-title="Entretenimiento",Universal Crime
-
 http://45.5.118.226:8000/play/a0i4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Entretenimiento",Tru TV
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Entretenimiento",Tru TV
 http://181.189.243.254:8000/play/a0pe/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="Entretenimiento",TLC
-
 http://45.5.118.226:8000/play/a0hh/index.m3u8
 
 
-
 #EXTINF: -1 tvg-logo="" group-title="Entretenimiento",El Gourmet
-
 http://181.189.243.254:8000/play/a0r8/index.m3u8
+
+
 
 ---------------- TV ----------------
 
 
-#EXTINF: -1 tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
 
+#EXTINF: -1 tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
-
-#EXTINF: -1 tvg-name="Telefe alt" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/04658f120869473.Y3JvcCw1NzU0LDQ1MDEsMTEyNSww.png" group-title="TV",Telefe (alt)
-
-
-
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="TV",El Trece
-
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
 #EXTINF: -1 tvg-name="El Nueve" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG" group-title="TV",El Nueve
-
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 
 #EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://i.imgur.io/IhJ0BjF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",NET TV
-
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
-
 #EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV",America TV
-
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 
 #EXTINF: -1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://i.imgur.io/vFwPhPS_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",TN
-
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 
 #EXTINF: -1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_03/large.566331441_A24(2019-2).png.2d4fb254c630d2951845fae6880b273f.png" group-title="TV",A24
-
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 
 #EXTINF: -1 #EXTINF: -1 tvg-id="AmericaTucuman.ar" tvg-name="América Tucumán" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_03/large.408825104_AmricaTucumnCanal28.1(2019-2).png.83a92a7137db77767f7d2d71c88418e8.png" group-title="TV",América Tucumán
-
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
 
 #EXTINF: -1 tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="TV",Canal 26
-
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 
 #EXTINF: -1 tvg-name="Canal 8 Mar del Plata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/C8MDP.png" group-title="TV",Canal 8 Mar del Plata
-
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 
 #EXTINF: -1 tvg-name="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png/800px-Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="TV",Cronica TV
-
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 
 
 #EXTINF: -1 tvg-id="IPNoticias.ar" tvg-name="IP Noticias" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_03/large.imagen_2023-03-21_001530950-modified.png.114408377875a9a7e8aa5b67ba71ddeb.png" group-title="TV",IP Noticias
-
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 
 #EXTINF: -1 tvg-id="LaNacionPlus.ar" tvg-name="La Nación +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="TV",La Nación +
-
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 
 #EXTINF: -1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small_TVP.png.35f53f740c7a098b15f0de93df95cfeb.png" group-title="TV",TV Pública
-
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
-
-#EXTINF: -1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/970px-Emblema_del_Canal_13_Chile.svg.png" group-title="TV",CL | Canal 13
-
-https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8?auth-token=event=bFL1IVq9RNGlWQaqgiFuNw~exp=1682125972~hmac=eda1d68e001ffc2c3565f4b0950b43c5f6f30be3a58e18e41ed7b0f5024480cd
 
 
 ---------------- Musica ----------------
 
 
-#EXTINF: -1 tvg-id="CMElCanaldelaMusica.ar" tvg-name="CM El Canal de la Musica" tvg-logo="https://i.imgur.io/gwpETyS_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Música",CM El Canal de la Musica
 
+#EXTINF: -1 tvg-id="CMElCanaldelaMusica.ar" tvg-name="CM El Canal de la Musica" tvg-logo="https://i.imgur.io/gwpETyS_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Música",CM El Canal de la Musica
 http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/278839312_357746493055871_8115069154337061014_n.png?_nc_cat=111&ccb=1-7&_nc_sid=85a577&_nc_ohc=aPX2518PDFcAX_ZQdYJ&_nc_ht=scontent.ftuc1-2.fna&oh=00_AfBiHnLbZj9LIFOQQcqPPZpyNyUvSA5pAPS4-l9viUdLZA&oe=6450C802" group-title="Música",Concert
-
 http://45.5.118.226:8000/play/a02r/index.m3u8
 
 
 #EXTINF: -1 tvg-id="MasFM.ar" tvg-name="Más FM" tvg-logo="https://i.imgur.io/TJ4gWQM_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Música",Más FM
-
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
 
 #EXTINF: -1 tvg-id="MasMusicaTV.ar" tvg-name="Más Música TV" tvg-logo="https://i.imgur.io/RcbIgA0_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Música",Más Música TV
-
 https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
 
 
 #EXTINF: -1 tvg-id="MusicTop.ar" tvg-name="MusicTop" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.2033856469_MusicTop(2020).png.46e944f5e47c956b015143efd5bc5723.png" group-title="Música",MusicTop
-
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 
 #EXTINF: -1 tvg-id="Vorterix.ar" tvg-name="Vorterix" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_04/large.934964214_Vorterix(6).png.6c3890b6eb92d15113bbf42b067e10b1.png" group-title="Música",Vorterix
-
 https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 
 
@@ -285,50 +248,37 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
 
 
-
-#EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Música",MTV
-
-http://45.5.118.226:8000/play/a0if/index.m3u8
-
-
 #EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Música",MTV HD
-
 http://45.5.118.226:8000/play/a0gm/index.m3u8
 
 
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="Música",MTV 80s
-
 http://45.5.118.226:8000/play/a0ge/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/150px-MTV_00s_remaster.png" group-title="Música",MTV 00s
-
 http://45.5.118.226:8000/play/a0i0/index.m3u8
 
 
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1078px-MTV_Hits_2021.svg.png" group-title="Música",MTV Hits
-
 http://45.5.118.226:8000/play/a0gd/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png" group-title="Música",MTV Live
-
 http://45.5.118.226:8000/play/a0hz/index.m3u8
 
 
 
 ---------------- Deportes ----------------
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT SPORTS
 
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT SPORTS
 http://45.5.118.226:8000/play/a05b/index.m3u8
 
 
-
 #EXTINF: -1 tvg-name="TyC Sports Internacional" tvg-logo="http://www.conversos.tycsports.com/views/layout/default/img/logo-tycsports.png" group-title="Deportes",TyC Sports Internacional
-
 http://45.5.118.226:8000/play/a059/index.m3u8
 
 
@@ -350,26 +300,21 @@ http://181.78.21.60:16123/play/ch19
 
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="Deportes",DSports
-
 http://45.5.118.226:8000/play/a04q/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="Deportes",MX | TUDN
-
 http://45.5.118.226:8000/play/a04z/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",ESP | LaLigaTV por M+
-
 http://45.5.118.226:8000/play/a051/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Deportes",Sky Sports
-
 http://45.5.118.226:8000/play/a053/index.m3u8
 
 
 
 #EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaJca0Fm03_P2g2iApb-zP1je1jsQ4fErzPWDhMRKQo8iEcAG3CBOLrQXRForyAlUOB1wNrPdRnw01krDDxBdXy9Ptko015mTZzhOY5frWLcyEvnDsEmhxDl7UGhT1TzTHYfRk-2lQE46fLS9tOuz1Cu_cA8DcbfmcZNajyYiFwJw3oIvVtg/s1200/GolazoNetwork_Logo-1.jpg" group-title="Deportes",CBS Sports
-
 https://dai.google.com/linear/hls/pa/event/GxrCGmwST0ixsrc_QgB6qw/stream/37f27c18-49d5-4e10-acd2-4cc4c17dcd40:SCL/master.m3u8
