@@ -6,7 +6,7 @@ http://45.5.118.226:8000/play/a050/index.m3u8
 
 
 #EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/large.TelemundoIntl2018.png.cabcb63374fc3ce2e8e59fd38fd6d72d.png" group-title="EEUU/MX",Telemundo Internacional
-http://45.5.118.226:8000/play/a0gv/index.m3u8
+http://45.228.234.162:24000/play/a04e/index.m3u8
 
 
 #EXTINF: -1 tvg-name="Las Estrellas" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="EEUU/MX",Las Estrellas
