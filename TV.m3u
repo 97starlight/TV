@@ -30,6 +30,12 @@ http://181.189.243.254:8000/play/a0td/index.m3u8
 
 
 
+el dicho https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=1024
+
+
+la Rosa https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=1024
+
+
 -----------------------------------------------------------
 
 
@@ -269,19 +275,19 @@ http://45.5.118.226:8000/play/a0gd/index.m3u8
 http://45.5.118.226:8000/play/a0hz/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vevo_logo.svg/1024px-Vevo_logo.svg.png" group-title="Música", VEVO 1
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/63618edb1210019a75485555/3b8a6710e1c937921c3b6bcb18d5281b?tr=q-80&w=1024", VEVO 1
 https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vevo_logo.svg/1024px-Vevo_logo.svg.png" group-title="Música", VEVO 2
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/63618dda5055d209cdc327c2/065f4b9b3c0c99e12a5b2c92bc25823c?tr=q-80&w=1024" group-title="Música", VEVO 2
 https://linear-495.frequency.stream/495/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vevo_logo.svg/1024px-Vevo_logo.svg.png" group-title="Música", VEVO 3
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62e806089518b714868b039c/9bb348f16ce7a0523c0cb4d1c4a43abc?tr=q-80&w=1024" group-title="Música", VEVO 3
 https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vevo_logo.svg/1024px-Vevo_logo.svg.png" group-title="Música", VEVO 4
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62e80650e405b576bd43753f/a0311262a9d115f95df154882af1978b?tr=q-80&w=1024" group-title="Música", VEVO 4
 https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
 
 
