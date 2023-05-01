@@ -116,7 +116,7 @@ http://181.189.243.254:8000/play/a0r8/index.m3u8
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
-#EXTINF: -1 tvg-name="Canal 8 Mar del Plata (Telefe)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/C8MDP.png" group-title="TV",Canal 8 Mar del Plata (Telefe)
+#EXTINF: -1 tvg-name="Canal 8 Mar del Plata (Telefe)" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png" group-title="TV",Canal 8 Mar del Plata (Telefe)
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 
