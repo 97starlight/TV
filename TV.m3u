@@ -277,7 +277,7 @@ http://45.5.118.226:8000/play/a0gd/index.m3u8
 http://45.5.118.226:8000/play/a0hz/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/63618edb1210019a75485555/3b8a6710e1c937921c3b6bcb18d5281b?tr=q-80&w=1024", VEVO 1
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/63618edb1210019a75485555/3b8a6710e1c937921c3b6bcb18d5281b?tr=q-80&w=1024" group-title="Música", VEVO 1
 https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
 
 
