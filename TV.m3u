@@ -2,43 +2,34 @@
 
 
 #EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="EEUU/MX",Telemundo Miami
-
 http://45.5.118.226:8000/play/a050/index.m3u8
 
 
-
 #EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/large.TelemundoIntl2018.png.cabcb63374fc3ce2e8e59fd38fd6d72d.png" group-title="EEUU/MX",Telemundo Internacional
-
 http://45.5.118.226:8000/play/a0gv/index.m3u8
 
 
-
 #EXTINF: -1 tvg-name="Las Estrellas" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="EEUU/MX",Las Estrellas
-
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 
-
-#EXTINF: -1 tvg-name="Las Estrellas Latinoamérica" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="EEUU/MX",Las Estrellas (Latinoamericana)
-
+#EXTINF: -1 tvg-name="Las Estrellas Latinoamérica" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="EEUU/MX",Las Estrellas (Latinoamérica)
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
 
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="EEUU/MX",Univision
-
 http://45.5.118.226:8000/play/a0kr/index.m3u8
 
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="EEUU/MX",Univision (Latinoamérica)
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/2445px-Logo_tlnovelas_feb2019.png" group-title="EEUU/MX",Tlnovelas
-
 http://45.5.118.226:8000/play/a054/index.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="EEUU/MX",Pasiones
-
 http://181.189.243.254:8000/play/a0td/index.m3u8
 
 
