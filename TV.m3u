@@ -116,6 +116,10 @@ http://181.189.243.254:8000/play/a0r8/index.m3u8
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
+#EXTINF: -1 tvg-name="Canal 8 Mar del Plata (Telefe)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/C8MDP.png" group-title="TV",Canal 8 Mar del Plata (Telefe)
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+
+
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="TV",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
@@ -146,10 +150,6 @@ https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
 #EXTINF: -1 tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="TV",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-
-
-#EXTINF: -1 tvg-name="Canal 8 Mar del Plata" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/C8MDP.png" group-title="TV",Canal 8 Mar del Plata
-https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 
 #EXTINF: -1 tvg-name="Cronica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png/800px-Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="TV",Cronica TV
