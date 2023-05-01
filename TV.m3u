@@ -358,6 +358,6 @@ http://45.5.118.226:8000/play/a053/index.m3u8
 
 
 
-#EXTINF: -1 group-title="Test",Pluto TV Golazo
+#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaJca0Fm03_P2g2iApb-zP1je1jsQ4fErzPWDhMRKQo8iEcAG3CBOLrQXRForyAlUOB1wNrPdRnw01krDDxBdXy9Ptko015mTZzhOY5frWLcyEvnDsEmhxDl7UGhT1TzTHYfRk-2lQE46fLS9tOuz1Cu_cA8DcbfmcZNajyYiFwJw3oIvVtg/s1200/GolazoNetwork_Logo-1.jpg" group-title="Deportes",CBS Sports
 
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?advertisingId=&appName=web&appVersion=6.12.0-f0d96ffee2cf8f5e97a2080a7de151de1d1ed6df&app_name=web&clientDeviceType=0&clientID=1ab26ca9-42f8-4069-bc55-fb7d986474c5&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=1ab26ca9-42f8-4069-bc55-fb7d986474c5&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=112.0.5615&marketingRegion=US&serverSideAds=true
+https://dai.google.com/linear/hls/pa/event/GxrCGmwST0ixsrc_QgB6qw/stream/37f27c18-49d5-4e10-acd2-4cc4c17dcd40:SCL/master.m3u8
