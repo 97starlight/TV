@@ -5,6 +5,10 @@
 http://45.5.118.226:8000/play/a050/index.m3u8
 
 
+#EXTINF: -1 tvg-name="Telemundo 51(op 2)" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/telemundo-mediano.png" group-title="EEUU/MX",Telemundo Miami (op 2)
+http://45.190.13.50:8002/play/a00u/index.m3u8
+
+
 #EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_10/large.TelemundoIntl2018.png.cabcb63374fc3ce2e8e59fd38fd6d72d.png" group-title="EEUU/MX",Telemundo Internacional
 http://45.228.234.162:24000/play/a04e/index.m3u8
 
@@ -394,7 +398,3 @@ http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=5
 
 #EXTINF: -1 group-title="test",Telemundo
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia
-
-
-#EXTINF:-1 tvg-id="USA | Telemundo" tvg-name="USA | Telemundo" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png" group-title="test", 1113 | Telemundo || ESTADOS UNIDOS DE AMÉRICA
-http://45.190.13.50:8002/play/a00u/index.m3u8
