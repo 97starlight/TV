@@ -33,6 +33,11 @@ http://45.5.118.226:8000/play/a054/index.m3u8
 http://181.189.243.254:8000/play/a0td/index.m3u8
 
 
+
+-----------------------------------------------------------
+
+
+
 #EXTINF:-1 group-title="Telemundo Gray", Telemundo Atlanta GA
 https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8
 
@@ -268,9 +273,24 @@ http://45.5.118.226:8000/play/a0gd/index.m3u8
 http://45.5.118.226:8000/play/a0hz/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vevo_logo.svg/1024px-Vevo_logo.svg.png" group-title="Música", VEVO 1
+https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vevo_logo.svg/1024px-Vevo_logo.svg.png" group-title="Música", VEVO 2
+https://linear-495.frequency.stream/495/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vevo_logo.svg/1024px-Vevo_logo.svg.png" group-title="Música", VEVO 3
+https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vevo_logo.svg/1024px-Vevo_logo.svg.png" group-title="Música", VEVO 4
+https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
+
+
 
 ---------------- Deportes ----------------
-
 
 
 
