@@ -13,7 +13,7 @@ http://45.5.118.226:8000/play/a0gv/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
 
-#EXTINF: -1 tvg-name="Las Estrellas Latinoamérica" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="EEUU/MX",Las Estrellas (Latinoamérica)
+#EXTINF: -1 tvg-name="Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/818px-Las_Estrellas.svg.png" group-title="EEUU/MX",Las Estrellas (Latinoamérica)
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
 
