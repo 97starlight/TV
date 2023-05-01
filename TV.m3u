@@ -131,10 +131,6 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://www.dailymotion.com/cdn/live/video/x8hvuj5.m3u8?sec=JALxrjMAev4E9s8Lwv9hFMh-th1AqMaUKnLSKt_rkbCrJKnqcET8qkQm_wV6QEXevDYVVcJqPV4F30ohyTyExQ&dmTs=545008&dmV1st=21e25faf-50b1-4c7a-9af4-6f46f68ac70b
 
 
-#EXTINF: -1 tvg-name="Canal 8 Mar del Plata (Telefe)" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png" group-title="TV",Canal 8 Mar del Plata (Telefe)
-https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
-
-
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="TV",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
@@ -182,6 +178,9 @@ https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF: -1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small_TVP.png.35f53f740c7a098b15f0de93df95cfeb.png" group-title="TV",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
+
+#EXTINF: -1 tvg-name="Canal 8 Mar del Plata (Telefe)" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png" group-title="TV",Canal 8 Mar del Plata (Telefe)
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 
 ---------------- Musica ----------------
