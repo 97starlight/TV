@@ -33,6 +33,9 @@ http://181.189.243.254:8000/play/a0td/index.m3u8
 https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
 
 
+#EXTINF:-1 group-title="EEUU/MX",Universo (ttv)
+http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/88.ts
+
 
 
 la Rosa https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=1024
