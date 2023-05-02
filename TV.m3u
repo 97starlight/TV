@@ -41,6 +41,24 @@ https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
 http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/88.ts
 
 
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f83680771641ece747bada/2be1ed9ee95b850da79c61a42e426d3d?tr=q-80&w=750" group-title="EEUU/MX",Noticias Univision 24/7
+https://linear-254.frequency.stream/254/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="EEUU/MX",ATV+
+https://linear-258.frequency.stream/258/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="EEUU/MX",ForoTV
+https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" group-title="EEUU/MX",N+ Media
+https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
+
+
+
+
 
 la Rosa https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=1024
 
