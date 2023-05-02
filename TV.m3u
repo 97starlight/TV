@@ -196,7 +196,7 @@ https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 
-#EXTINF: -1 tvg-name="Canal 8 Mar del Plata (Telefe)" tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2022/07/logo-c8mdp-horizontal-x2.png" group-title="TV",Canal 8 Mar del Plata (Telefe)
+#EXTINF: -1 tvg-name="Canal 8 Mar del Plata (Telefe)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/C8MDP.png" group-title="TV",Canal 8 Mar del Plata (Telefe)
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 
