@@ -128,22 +128,22 @@ https://cotesma02.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1  group-title="Entretenimiento",Paramount Network 
 https://cotesma02.cdn.rcs.net.ar/mnp/paramount/output.mpd
 
-#EXTINF:-1  group-title="Entretenimiento",SONY
+#EXTINF:-1  group-title="Entretenimiento",Sony
 https://cotesma02.cdn.rcs.net.ar/mnp/sony/output.mpd
 
 #EXTINF:-1  group-title="Entretenimiento",TBS
 https://cotesma02.cdn.rcs.net.ar/mnp/tbs/output.mpd
 
-#EXTINF:-1  group-title="Entretenimiento",WARNER
+#EXTINF:-1  group-title="Entretenimiento",Warner
 https://cotesma02.cdn.rcs.net.ar/mnp/warner/output.mpd
 
 #EXTINF:-1  group-title="Entretenimiento",TCM
 https://cotesma02.cdn.rcs.net.ar/mnp/tcm/output.mpd
 
-#EXTINF:-1  group-title="Entretenimiento",DISCOVERY
+#EXTINF:-1  group-title="Entretenimiento",Discovery
 https://cotesma02.cdn.rcs.net.ar/mnp/discovery/output.mpd
 
-#EXTINF:-1  group-title="Entretenimiento",ISAT
+#EXTINF:-1  group-title="Entretenimiento",I.Sat
 https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
 
 
