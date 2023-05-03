@@ -298,6 +298,9 @@ https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
 ---------------- Deportes ----------------
 
 
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2022_05/large.1596478674_ESPNPremium.png.5cf469a3d44b66226dcc85a3a9a25de7.png" group-title="Deportes", ESPN Premium
+https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT SPORTS
 http://45.5.118.226:8000/play/a05b/index.m3u8
