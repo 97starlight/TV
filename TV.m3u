@@ -45,46 +45,8 @@ http://ttv.bz:80/live/Kenwyn/TJGm5d9YlP/88.ts
 https://linear-254.frequency.stream/254/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="EEUU/MX",ATV+
-https://linear-258.frequency.stream/258/hls/master/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="EEUU/MX",ForoTV
-https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" group-title="EEUU/MX",N+ Media
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
-
-
-
-
-
-la Rosa https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=1024
-
-
-----------------------------------------------------------
-
-
-
-#EXTINF:-1 group-title="Telemundo Gray", Telemundo Atlanta GA
-https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8
-
-
-#EXTINF:-1 group-title="Telemundo Gray", Telemundo Laredo TX
-https://dai2-playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTE2NDc1MDIsImlzcyI6IldMUyIsIm1kNSI6IjQwMWRkMDY2YjUyOGEwZWIxYzcxMzMxNjBhNDgyMGE5IiwibWlkIjoiMTMzNTUxOTgifQ.piLwptYMsquOvh5kVgvpuj2wYSd6SDOblXdfIXGk7PE
-
-
-#EXTINF:-1 group-title="Telemundo Gray", Telemundo 20 Odessa TX
-https://dai2-playlistserver.aws.syncbak.com/playlist/19106378/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxOTEwNjM3OCIsImNpZCI6MTgwMjMsInNpZCI6MTU4LCJtZDUiOiIyMmMxY2M4MTVmMmY1YzJmMjZhZDEzYmQ2MTI1NjFhYSIsImlhdCI6MTY0NDM1Njk4MSwiZXhwIjoxNjc1ODkyOTgxLCJpc3MiOiJTeW5jYmFrIChURykifQ.FluzuQn2DLfJeSKreT0h2OHKpoBGNSkmeu7RKb3O2h0
-
-
-#EXTINF:-1 group-title="Telemundo Gray", NBC 3 Jackson MS (WLBT)
-https://dai2-playlistserver.aws.syncbak.com/cpl/20965226/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDk2NTIyNiIsImNpZCI6MjE4ODgsInNpZCI6MTU4LCJtZDUiOiJjYTU5Nzc4YjUxZjZkNTZjODFmOWZiZjJjZmQzNDNiMiIsImlhdCI6MTY2MDkyOTM0NywiZXhwIjoxNjkyNDY1MzQ3LCJpc3MiOiJTeW5jYmFrIChURykifQ.5heNHIgDbrnFzfBjH4qmNs3sFGUl1iewhcB-Iru-4ok
-
-
-#EXTINF:-1 group-title="Telemundo Gray", NBC 7 Lake Charles LA (KPLC)
-https://dai2-playlistserver.aws.syncbak.com/cpl/20979933/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDk3OTkzMyIsImNpZCI6MjE5MDAsInNpZCI6MTU4LCJtZDUiOiJmNDhkOTMzZGZiNWQyY2RjNWU1NTcyNjQ3MmQ1YjFlNSIsImlhdCI6MTY2MTQ0NjY2OCwiZXhwIjoxNjkyOTgyNjY4LCJpc3MiOiJTeW5jYmFrIChURykifQ.C51yBQc-ZSAkhWe0zCXWP3tUJ8MzijUNOaes6Zddk0w
 
 
 
@@ -208,7 +170,7 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://scontent.ftuc1-2.fna.fbcdn.net/v/t39.30808-6/278839312_357746493055871_8115069154337061014_n.png?_nc_cat=111&ccb=1-7&_nc_sid=85a577&_nc_ohc=aPX2518PDFcAX_ZQdYJ&_nc_ht=scontent.ftuc1-2.fna&oh=00_AfBiHnLbZj9LIFOQQcqPPZpyNyUvSA5pAPS4-l9viUdLZA&oe=6450C802" group-title="Música",Concert
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest?cb=20210423194157&path-prefix=es" group-title="Música",Concert
 http://45.5.118.226:8000/play/a02r/index.m3u8
 
 
