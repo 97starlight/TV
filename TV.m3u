@@ -356,7 +356,7 @@ https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
 ---------------- Deportes ----------------
 
 
-#EXTINF:-1 tvg-logo="logo-tv/ESPN_Premium_logo.png" group-title="Deportes", ESPN Premium
+#EXTINF:-1 tvg-logo="https://github.com/97starlight/TV/blob/8f4d9f99d37bb81e8d454a5493cede1a3b76c425/logo-tv/ESPN_Premium_logo.png" group-title="Deportes", ESPN Premium
 https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
