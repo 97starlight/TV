@@ -2,7 +2,7 @@
 
 
 #EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="EEUU/MX",Telemundo Miami
-http://45.5.118.226:8000/play/a050/index.m3u8
+
 
 
 #EXTINF: -1 tvg-name="Telemundo 51(op 2)" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/04/Logo-Telemundo-rojo.png" group-title="EEUU/MX",Telemundo Miami (op 2)
@@ -306,7 +306,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT SPORTS
-http://45.5.118.226:8000/play/a05b/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_13515.png" group-title="Deportes", TYC Sports
@@ -314,7 +314,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 
 
 #EXTINF: -1 tvg-name="TyC Sports Internacional" tvg-logo="http://www.conversos.tycsports.com/views/layout/default/img/logo-tycsports.png" group-title="Deportes",TyC Sports Internacional
-http://45.5.118.226:8000/play/a059/index.m3u8
+
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="Deportes",CO | ESPN
@@ -335,24 +335,15 @@ http://181.78.21.60:16123/play/ch19
 
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="Deportes",DSports
-http://45.5.118.226:8000/play/a04q/index.m3u8
+
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="Deportes",MX | TUDN
-http://45.5.118.226:8000/play/a04z/index.m3u8
+
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",ESP | LaLigaTV por M+
-http://45.5.118.226:8000/play/a051/index.m3u8
 
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sky_Sports_UK_logo_2020.png" group-title="Deportes",Sky Sports
-http://45.5.118.226:8000/play/a053/index.m3u8
-
-
-
-#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaJca0Fm03_P2g2iApb-zP1je1jsQ4fErzPWDhMRKQo8iEcAG3CBOLrQXRForyAlUOB1wNrPdRnw01krDDxBdXy9Ptko015mTZzhOY5frWLcyEvnDsEmhxDl7UGhT1TzTHYfRk-2lQE46fLS9tOuz1Cu_cA8DcbfmcZNajyYiFwJw3oIvVtg/s1200/GolazoNetwork_Logo-1.jpg" group-title="Deportes",CBS Sports
-https://dai.google.com/linear/hls/pa/event/GxrCGmwST0ixsrc_QgB6qw/stream/37f27c18-49d5-4e10-acd2-4cc4c17dcd40:SCL/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png" group-title="Deportes",FX SPORTS
@@ -363,7 +354,7 @@ https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/ind
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 
 
-#EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-chno="725" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Deportes",Pluto TV Sports
+#EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-chno="725" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Deportes",Pluto TV: CBS Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
