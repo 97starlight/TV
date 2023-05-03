@@ -96,7 +96,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
 http://45.5.118.226:8000/play/a0hh/index.m3u8
 
 
-#EXTINF: -1 tvg-logo="" group-title="Entretenimiento",El Gourmet
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Elgourmet_23.svg/revision/latest/scale-to-width-down/230?cb=20230410230610&path-prefix=es" group-title="Entretenimiento",El Gourmet
 https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 
 
