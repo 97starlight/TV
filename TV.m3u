@@ -112,7 +112,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 https://cotesma02.cdn.rcs.net.ar/mnp/tnt/output.mpd
 
 
-#EXTINF:-1  group-title="Entretenimiento",TNT Series
+#EXTINF:-1 tvg-logo="https://github.com/97starlight/97starlight/blob/main/logos-TV/TNT_Series_Logo_2016.png" group-title="Entretenimiento",TNT Series
 https://cotesma02.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 
 
