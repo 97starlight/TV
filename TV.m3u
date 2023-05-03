@@ -388,6 +388,26 @@ http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
 
 
 
+________________________________________________
+
+
+
+EXTINF:-1  group-title="Bics Extra", DISNEY CHANNEL
+https://cotesma02.cdn.rcs.net.ar/mnp/disney/output.mpd
+
+#EXTINF:-1  group-title="Bics Extra", DISNEY JUNIOR 
+https://cotesma02.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+
+#EXTINF:-1  group-title="Bics Extra", NICK
+https://cotesma02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+
+#EXTINF:-1  group-title="Bics Extra", NICK JR 
+https://cotesma02.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+
+#EXTINF:-1  group-title="Bics Extra", TOONCAST 
+https://cotesma02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+
+
 
 ------------------------------------------------
 
