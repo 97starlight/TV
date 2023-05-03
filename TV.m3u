@@ -9,7 +9,7 @@ http://45.5.118.226:8000/play/a050/index.m3u8
 http://45.190.13.50:8002/play/a00u/index.m3u8
 
 
-EXTINF:-1 group-title="EEUU/MX", Telemundo California
+#EXTINF:-1 tvg-logo="" group-title="EEUU/MX", Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
@@ -166,6 +166,9 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/1024px-C5N_2017_Alternate.svg.png" group-title="TV", C5N
+https://cotesma02.cdn.rcs.net.ar/mnp/c5n/output.mpd
+
 ---------------- Musica ----------------
 
 
@@ -304,6 +307,10 @@ https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT SPORTS
 http://45.5.118.226:8000/play/a05b/index.m3u8
+
+
+#EXTINF:-1 group-title="Deportes", TYC Sports
+https://cotesma02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 
 
 #EXTINF: -1 tvg-name="TyC Sports Internacional" tvg-logo="http://www.conversos.tycsports.com/views/layout/default/img/logo-tycsports.png" group-title="Deportes",TyC Sports Internacional
