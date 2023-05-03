@@ -9,6 +9,10 @@ http://45.5.118.226:8000/play/a050/index.m3u8
 http://45.190.13.50:8002/play/a00u/index.m3u8
 
 
+EXTINF:-1 group-title="EEUU/MX", Telemundo California
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+
 #EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png" group-title="EEUU/MX",Telemundo Internacional
 http://45.228.234.162:24000/play/a04e/index.m3u8
 
