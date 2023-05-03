@@ -305,7 +305,7 @@ https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
 https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT SPORTS
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT SPORTS
 
 
 
@@ -313,7 +313,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 https://cotesma02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 
 
-#EXTINF: -1 tvg-name="TyC Sports Internacional" tvg-logo="http://www.conversos.tycsports.com/views/layout/default/img/logo-tycsports.png" group-title="Deportes",TyC Sports Internacional
+EXTINF: -1 tvg-name="TyC Sports Internacional" tvg-logo="http://www.conversos.tycsports.com/views/layout/default/img/logo-tycsports.png" group-title="Deportes",TyC Sports Internacional
 
 
 
@@ -334,15 +334,15 @@ http://181.78.21.60:16123/play/ch19
 
 
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="Deportes",DSports
+EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="Deportes",DSports
 
 
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="Deportes",MX | TUDN
+EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="Deportes",MX | TUDN
 
 
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",ESP | LaLigaTV por M+
+EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",ESP | LaLigaTV por M+
 
 
 
