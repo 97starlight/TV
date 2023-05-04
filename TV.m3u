@@ -1,16 +1,9 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telemundo_51_2018.png" group-title="EEUU/MX",Telemundo Miami
 
-
-
-#EXTINF: -1 tvg-name="Telemundo 51(op 2)" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/04/Logo-Telemundo-rojo.png" group-title="EEUU/MX",Telemundo Miami (op 2)
+#EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/04/Logo-Telemundo-rojo.png" group-title="EEUU/MX",Telemundo Miami
 http://45.190.13.50:8002/play/a00u/index.m3u8
-
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Telemundo_52_2018.png" group-title="EEUU/MX", Telemundo California
-
 
 
 #EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png" group-title="EEUU/MX",Telemundo Internacional
@@ -55,8 +48,12 @@ https://linear-254.frequency.stream/254/hls/master/playlist.m3u8
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
 
+#EXTINF: -1 group-title="test",Telemundo al día
+https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia
 
----------------- Entretenimiento ----------------
+
+
+                    *******************
 
 
 
@@ -148,7 +145,8 @@ https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
 
 
 
----------------- TV ----------------
+                   *******************
+
 
 
 EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png" group-title="TV",El Ocho TV (Tucumán) 
@@ -217,7 +215,10 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/1024px-C5N_2017_Alternate.svg.png" group-title="TV", C5N
 https://cotesma02.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
----------------- Musica ----------------
+
+
+                   *******************
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="Música",HTV
@@ -352,7 +353,8 @@ https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
 
 
 
----------------- Deportes ----------------
+                   *******************
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ESPN_Premium_logo.png" group-title="Deportes", ESPN Premium
@@ -387,19 +389,6 @@ http://181.78.21.60:16123/play/ch18
 http://181.78.21.60:16123/play/ch19
 
 
-
-EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest/scale-to-width-down/250?cb=20180301233804" group-title="Deportes",DSports
-
-
-
-EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="Deportes",MX | TUDN
-
-
-
-EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes",ESP | LaLigaTV por M+
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1024px-FOX_Sports_logo.svg.png" group-title="Deportes",MX | FOX Sports
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
@@ -425,8 +414,7 @@ http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
 
 
 
-________________________________________________
-
+                   *******************
 
 
 
@@ -441,8 +429,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 
 
 
-------------------------------------------------
-
+                   *******************
 
 
 
@@ -452,9 +439,3 @@ http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=5
 
 #EXTINF:-1  group-title="Internacional",BBC 2
 http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577273
-
-
-
-
-#EXTINF: -1 group-title="test",Telemundo
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia
