@@ -451,3 +451,7 @@ http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
 
 #EXTINF:-1  group-title="Bics Extra", GLOBAL PE
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=775952547&_cdn_timestamp=1683436800&_cdn_token=7989fad495116a654c26fa5bfb7be1f0b99dd4c3
+
+
+#EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
