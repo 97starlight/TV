@@ -6,6 +6,10 @@
 http://45.190.13.50:8002/play/a00u/index.m3u8
 
 
+#EXTINF: -1 tvg-name="Telemundo" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/04/Logo-Telemundo-rojo.png" group-title="EEUU/MX",Telemundo
+https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8
+
+
 #EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png" group-title="EEUU/MX",Telemundo Internacional
 http://45.228.234.162:24000/play/a04e/index.m3u8
 
