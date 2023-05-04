@@ -360,15 +360,11 @@ https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
 https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="Deportes", TNT Sports AR 
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="Deportes",AR | TNT Sports
 http://168.228.194.32:58001/play/a0bw/index.m3u8
 
 
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNT_Sports_2021.png/revision/latest?cb=20210117160858&path-prefix=es" group-title="Deportes",TNT SPORTS
-
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_13515.png" group-title="Deportes", TYC Sports
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_13515.png" group-title="Deportes",TYC Sports
 https://cotesma02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 
 
