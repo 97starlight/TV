@@ -360,7 +360,7 @@ https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
 https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="Deportes", TNT Sports AR
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="Deportes", TNT Sports AR 
 http://168.228.194.32:58001/play/a0bw/index.m3u8
 
 
@@ -434,11 +434,6 @@ ________________________________________________
 
 
 
-#EXTINF:-1  group-title="Bics Extra", DISNEY CHANNEL
-https://cotesma02.cdn.rcs.net.ar/mnp/disney/output.mpd
-
-#EXTINF:-1  group-title="Bics Extra", DISNEY JUNIOR 
-https://cotesma02.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 
 #EXTINF:-1  group-title="Bics Extra", NICK
 https://cotesma02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
