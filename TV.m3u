@@ -62,25 +62,24 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
                     *******************
 
 
-
-#EXTINF: -1 tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento",Investigation Discovery
-http://45.5.118.226:8000/play/a0ks/index.m3u8
-
-
 #EXTINF: -1 tvg-name="Cuatro" tvg-logo="https://i.imgur.io/NYLnABb_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Entretenimiento",Cuatro
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
-
-
-#EXTINF: -1 tvg-name="Antena 3" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.Antena3-vect17.png.f837b89f65cce788ce97bd37b4d45910.png" group-title="Entretenimiento",Antena 3
-https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 
 
 #EXTINF: -1 tvg-name="AXN HD" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="Entretenimiento",AXN
 https://cotesma02.cdn.rcs.net.ar/mnp/axn/output.mpd
 
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png" group-title="Entretenimiento",A&E
+#EXTINF:-1 tvg-name="A&E" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png" group-title="Entretenimiento",A&E
 https://cotesma02.cdn.rcs.net.ar/mnp/ae/output.mpd
+
+
+#EXTINF: -1 tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento",Investigation Discovery
+http://45.5.118.226:8000/play/a0ks/index.m3u8
+
+
+#EXTINF: -1 tvg-name="Antena 3" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.Antena3-vect17.png.f837b89f65cce788ce97bd37b4d45910.png" group-title="Entretenimiento",Antena 3
+https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Entretenimiento",Universal
@@ -91,16 +90,12 @@ http://45.5.118.226:8000/play/a0ih/index.m3u8
 http://45.5.118.226:8000/play/a0i4/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Entretenimiento",Tru TV
-https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" group-title="Entretenimiento",TLC
-http://45.5.118.226:8000/play/a0hh/index.m3u8
-
-
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Elgourmet_23.svg/revision/latest/scale-to-width-down/230?cb=20230410230610&path-prefix=es" group-title="Entretenimiento",El Gourmet
 https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Entretenimiento",Tru TV
+https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
 
 
 #EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="Entretenimiento",CSI NY
