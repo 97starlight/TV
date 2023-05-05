@@ -46,10 +46,6 @@ https://linear-254.frequency.stream/254/hls/master/playlist.m3u8
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
 
-#EXTINF: -1 group-title="EEUU/MX",Telemundo al día
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia
-
-
 #EXTINF:-1 group-title="EEUU/MX",EEUU | ESTRELLA TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
@@ -357,17 +353,11 @@ https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
 https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
 
 
-
                    *******************
-
 
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ESPN_Premium_logo.png" group-title="Deportes", ESPN Premium 
 https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
-
-
-*EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="Deportes",AR | TNT Sports
-
 
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_13515.png" group-title="Deportes",TYC Sports 
@@ -410,20 +400,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfea
 #EXTINF:-1  group-title="Deportes 2",MX | FOX SPORTS
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
-EXTINF:-1  group-title="Deportes 2", FOX SPORTS MX
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
 #EXTINF:-1  group-title="Deportes 2",MX | FOX SPORTS 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 
-EXTINF:-1  group-title="Deportes 2", FOX SPORTS 2 MX
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 
 #EXTINF:-1  group-title="Deportes 2",MX | FOX SPORTS 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-EXTINF:-1  group-title="Deportes 2", FOX SPORTS 3 MX
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd 
 
 #EXTINF:-1  group-title="Deportes 2", FS Premium
 http://45.190.13.50:8002/play/a002/index.m3u8
@@ -465,21 +449,6 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 
 
 
-EXTINF:-1  group-title="Bics Extra", NICK
-https://cotesma02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
-
-EXTINF:-1  group-title="Bics Extra", NICK JR 
-https://cotesma02.cdn.rcs.net.ar/mnp/nickjr/output.mpd
-
-EXTINF:-1  group-title="Bics Extra", TOONCAST 
-https://cotesma02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
-
-
-
-                   *******************
-
-
-
 #EXTINF:-1  group-title="Internacional",BBC 1
 http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577275
 
@@ -506,6 +475,3 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8
 
 #EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
-
-
-                   *******************
