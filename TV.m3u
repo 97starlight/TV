@@ -26,7 +26,6 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="EEUU/MX",Pasiones
 http://181.189.243.254:8000/play/a0td/index.m3u8
 
@@ -154,7 +153,8 @@ https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
 
 
 
-EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png" group-title="TV",El Ocho TV (Tucumán) 
+#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png" group-title="TV",El Ocho TV (Tucumán)
+https://www.dailymotion.com/cdn/manifest/video/x8k9c4r.m3u8?sec=Ekqmc-MSmG7PMyLhDXkL1-s62LfNwmJQwFq7QKXuy-wUzwWbqIa9wdNyUO243A4C&dmTs=594449&dmV1st=352f20ce-bcc4-427f-8ed3-62efdc2cf531
 
 
 #EXTINF: -1 tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
