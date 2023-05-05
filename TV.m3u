@@ -376,57 +376,54 @@ https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/ind
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 
 
-#EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-chno="725" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Deportes",Pluto TV: CBS Sports
+#EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Deportes",Pluto TV: CBS Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-                   *******************
-
-
-#EXTINF: -1 group-title="Deportes 2",MX | FOX Sports
+#EXTINF: -1 group-title="Deportes",MX | FOX Sports
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
 
-#EXTINF: -1 group-title="Deportes 2",MX | FOX Sports 2
+#EXTINF: -1 group-title="Deportes",MX | FOX Sports 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 
 
-#EXTINF: -1 group-title="Deportes 2",MX | FOX Sports 3
+#EXTINF: -1 group-title="Deportes",MX | FOX Sports 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 
-#EXTINF: -1 group-title="Deportes 2",MX | FS Premium
+#EXTINF: -1 group-title="Deportes",MX | FS Premium
 http://45.190.13.50:8002/play/a002/index.m3u8
 
-#EXTINF:-1  group-title="Deportes 2",LAT | Fox Sports 2
+#EXTINF:-1  group-title="Deportes",LAT | Fox Sports 2
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=776004707&_cdn_timestamp=1683438804&_cdn_token=16e2b5074abc138c81523c6759f91467e3b06e07
 
-#EXTINF:-1  group-title="Deportes 2",LAT | Fox Sports 3
+#EXTINF:-1  group-title="Deportes",LAT | Fox Sports 3
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=776004971&_cdn_timestamp=1683438817&_cdn_token=7575a8ddd14f926ce52e859e67193a4cb5021463
 
-#EXTINF:-1  group-title="Deportes 2", FOX DEPORTES USA
+#EXTINF:-1  group-title="Deportes", FOX DEPORTES USA
 https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 
-#EXTINF:-1  group-title="Deportes 2", ESPN
+#EXTINF:-1  group-title="Deportes", ESPN
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=776006443&_cdn_timestamp=1683438872&_cdn_token=6f3a71e50c8c0ca7d548bfa966fcdba3ee08b5f1
 
-#EXTINF:-1  group-title="Deportes 2", ESPN 2
+#EXTINF:-1  group-title="Deportes", ESPN 2
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=776006571&_cdn_timestamp=1683438879&_cdn_token=06fbe713d1bc4b6622dc7b3b5a802ad6fcac3fc3
 
-#EXTINF:-1  group-title="Deportes 2", ESPN 3
+#EXTINF:-1  group-title="Deportes", ESPN 3
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=776006867&_cdn_timestamp=1683438894&_cdn_token=df87fc051feba87d84871a48b588fe7ff4d15199
 
-#EXTINF:-1  group-title="Deportes 2", ESPN 4
+#EXTINF:-1  group-title="Deportes", ESPN 4
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=776007163&_cdn_timestamp=1683438907&_cdn_token=9ed0d4bfeed0ed74620636ec81d0bad6f330c693
 
-#EXTINF:-1  group-title="Deportes 2", ESPN Extra
+#EXTINF:-1  group-title="Deportes", ESPN Extra
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=767036419&_cdn_timestamp=1683210090&_cdn_token=a31918a8d87f7cc4ed4f9dadc648d71ec75c0d09
 
-#EXTINF:-1  group-title="Deportes 2", ESPN 2 || GUATEMALA
+#EXTINF:-1  group-title="Deportes", ESPN 2 || GUATEMALA
 http://45.190.13.50:8003/play/a01g/index.m3u8
 
-#EXTINF: -1 group-title="Deportes 2",City Sports
+#EXTINF: -1 group-title="Deportes",City Sports
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 
 
