@@ -407,55 +407,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfea
 
 
 
-
                    *******************
 
-
-
-#EXTINF:-1  group-title="Bics Extra", NICK
-https://cotesma02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
-
-#EXTINF:-1  group-title="Bics Extra", NICK JR 
-https://cotesma02.cdn.rcs.net.ar/mnp/nickjr/output.mpd
-
-#EXTINF:-1  group-title="Bics Extra", TOONCAST 
-https://cotesma02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
-
-
-
-                   *******************
-
-
-
-#EXTINF:-1  group-title="Internacional",BBC 1
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577275
-
-
-#EXTINF:-1  group-title="Internacional",BBC 2
-http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577273
-
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="Internacional",True Premier Football 1 (tvt)
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
-
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="Internacional",True Premier Football 2 (tvt)
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
-
-
-#EXTINF:-1 group-title="Internacional",bt 1 (obs)
-http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
-
-
-#EXTINF:-1  group-title="Bics Extra", GLOBAL PE
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=775952547&_cdn_timestamp=1683436800&_cdn_token=7989fad495116a654c26fa5bfb7be1f0b99dd4c3
-
-
-#EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
-
-
-                   *******************
 
 
 #EXTINF:-1  group-title="Deportes 2",MX | FOX SPORTS
@@ -509,3 +462,54 @@ http://45.190.13.50:8003/play/a01g/index.m3u8
 
 #EXTINF: -1 group-title="Deportes 2",City Sports
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
+
+
+
+                   *******************
+
+
+
+EXTINF:-1  group-title="Bics Extra", NICK
+https://cotesma02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+
+EXTINF:-1  group-title="Bics Extra", NICK JR 
+https://cotesma02.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+
+EXTINF:-1  group-title="Bics Extra", TOONCAST 
+https://cotesma02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+
+
+
+                   *******************
+
+
+
+#EXTINF:-1  group-title="Internacional",BBC 1
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577275
+
+
+#EXTINF:-1  group-title="Internacional",BBC 2
+http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577273
+
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_original.png" group-title="Internacional",True Premier Football 1 (tvt)
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115758&extension=ts&play_token=ZleOAq2r3y
+
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="Internacional",True Premier Football 2 (tvt)
+http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=115762&extension=ts&play_token=f15SJHghJH
+
+
+#EXTINF:-1 group-title="Internacional",bt 1 (obs)
+http://obsfullhd.tv:25461/live/OBSKYSHARE/2222DnsYWsFxHksB/2107.ts
+
+
+#EXTINF:-1  group-title="Bics Extra", GLOBAL PE
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=775952547&_cdn_timestamp=1683436800&_cdn_token=7989fad495116a654c26fa5bfb7be1f0b99dd4c3
+
+
+#EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+
+
+                   *******************
