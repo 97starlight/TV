@@ -458,31 +458,31 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
                    *******************
 
 
-#EXTINF:-1  group-title="Deportes 2", FOX SPORTS
+#EXTINF:-1  group-title="Deportes 2",MX | FOX SPORTS
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
-#EXTINF:-1  group-title="Deportes 2", FOX SPORTS MX
+EXTINF:-1  group-title="Deportes 2", FOX SPORTS MX
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
-#EXTINF:-1  group-title="Deportes 2", FOX SPORTS 2
+#EXTINF:-1  group-title="Deportes 2",MX | FOX SPORTS 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 
-#EXTINF:-1  group-title="Deportes 2", FOX SPORTS 2 MX
+EXTINF:-1  group-title="Deportes 2", FOX SPORTS 2 MX
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 
-#EXTINF:-1  group-title="Deportes 2", FOX SPORTS 3
+#EXTINF:-1  group-title="Deportes 2",MX | FOX SPORTS 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-#EXTINF:-1  group-title="Deportes 2", FOX SPORTS 3 MX
+EXTINF:-1  group-title="Deportes 2", FOX SPORTS 3 MX
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd 
 
-#EXTINF:-1  group-title="Deportes 2", Fox Sports Premium
+#EXTINF:-1  group-title="Deportes 2", FS Premium
 http://45.190.13.50:8002/play/a002/index.m3u8
 
-#EXTINF:-1  group-title="Deportes 2",  Fox Sports 2
+#EXTINF:-1  group-title="Deportes 2",LAT | Fox Sports 2
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=776004707&_cdn_timestamp=1683438804&_cdn_token=16e2b5074abc138c81523c6759f91467e3b06e07
 
-#EXTINF:-1  group-title="Deportes 2", Fox Sports 3
+#EXTINF:-1  group-title="Deportes 2",LAT | Fox Sports 3
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=776004971&_cdn_timestamp=1683438817&_cdn_token=7575a8ddd14f926ce52e859e67193a4cb5021463
 
 #EXTINF:-1  group-title="Deportes 2", FOX DEPORTES USA
