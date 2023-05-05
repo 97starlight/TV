@@ -362,7 +362,7 @@ https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ESPN_Premium_logo.png" group-title="Deportes", ESPN Premium 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ESPN_Premium_logo.png" group-title="Deportes", ESPN Premium 
 https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
@@ -372,10 +372,6 @@ https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_13515.png" group-title="Deportes",TYC Sports 
 https://cotesma02.cdn.rcs.net.ar/mnp/tyc/output.mpd
-
-
-EXTINF: -1 tvg-name="TyC Sports Internacional" tvg-logo="http://www.conversos.tycsports.com/views/layout/default/img/logo-tycsports.png" group-title="Deportes",TyC Sports Internacional
-
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="Deportes",CO | ESPN
