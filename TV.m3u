@@ -134,7 +134,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
 
 
 #EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png" group-title="TV",El Ocho TV (Tucumán)
-https://www.dailymotion.com/cdn/live/video/x8hvuj5.m3u8?sec=rQLONpNU0Z67U089ocLe9v2gYFndiCnBXhAY4S0rIU-kUm-DG4gzXDD0urjmg4c7&dmTs=594449&dmV1st=352f20ce-bcc4-427f-8ed3-62efdc2cf531
+https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
 
 
 #EXTINF: -1 tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
