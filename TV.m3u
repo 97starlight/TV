@@ -403,6 +403,14 @@ http://45.190.13.50:8003/play/a01g/index.m3u8
 
                    *******************
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",AR | FOX Sports
+https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/323px-Fox_Sports_2_Argentina_2023.svg.png" group-title="Deportes",AR | FOX Sports 2
+https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/323px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Deportes",AR | FOX Sports 3
+https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 
 
