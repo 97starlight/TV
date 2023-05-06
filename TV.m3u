@@ -217,6 +217,10 @@ https://cotesma02.cdn.rcs.net.ar/mnp/htv/output.mpd
 https://cotesma02.cdn.rcs.net.ar/mnp/mtv/output.mpd
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/105-MuchMusic.png" group-title="Música", Much Music
+https://cotesma02.cdn.rcs.net.ar/mnp/much_music/output.mpd
+
+
 #EXTINF: -1 tvg-id="CMElCanaldelaMusica.ar" tvg-name="CM El Canal de la Musica" tvg-logo="https://i.imgur.io/gwpETyS_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Música",CM El Canal de la Musica
 http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
 
