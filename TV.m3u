@@ -10,10 +10,6 @@ http://45.190.13.50:8002/play/a00u/index.m3u8
 https://cotesma02.cdn.rcs.net.ar/mnp/telemundo/output.mpd
 
 
-#EXTINF:-1 group-title="EEUU/MX", TELEMUNDO CA
-https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-
 #EXTINF: -1 tvg-name="Las Estrellas" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="EEUU/MX",MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
@@ -225,7 +221,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/mtv/output.mpd
 http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest?cb=20210423194157&path-prefix=es" group-title="Música",Concert
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest?cb=20210423194157&path-prefix=es" group-title="Música",Concert 
 http://45.5.118.226:8000/play/a02r/index.m3u8
 
 
@@ -397,9 +393,6 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.
 #EXTINF:-1  group-title="Deportes",LAT | Fox Sports 3
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=776004971&_cdn_timestamp=1683438817&_cdn_token=7575a8ddd14f926ce52e859e67193a4cb5021463
 
-#EXTINF:-1  group-title="Deportes", FOX Deportes USA
-https://csm-e-cetubiausw2live204-02912d69bd42cf040.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-
 
 #EXTINF:-1  group-title="Deportes", ESPN
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=776006443&_cdn_timestamp=1683438872&_cdn_token=6f3a71e50c8c0ca7d548bfa966fcdba3ee08b5f1
@@ -445,8 +438,3 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8
 
 #EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
-
-
-
-#EXTINF: -1 group-title="TEST",TLMD MIAMI
-http://nocable.cc:8080/Debra/Debra/56410
