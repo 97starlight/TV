@@ -221,10 +221,6 @@ https://cotesma02.cdn.rcs.net.ar/mnp/mtv/output.mpd
 http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
 
 
-#EXTINF: -1 tvg-logo="" group-title="Música",Concert 
-http://45.5.118.226:8000/play/a02r/index.m3u8
-
-
 #EXTINF: -1 tvg-id="MasFM.ar" tvg-name="Más FM" tvg-logo="https://i.imgur.io/TJ4gWQM_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Música",Más FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
@@ -307,22 +303,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a6200096
 
 #EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Música",MTV HD
 http://45.5.118.226:8000/play/a0gm/index.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="Música",MTV 80s
-http://45.5.118.226:8000/play/a0ge/index.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/150px-MTV_00s_remaster.png" group-title="Música",MTV 00s
-http://45.5.118.226:8000/play/a0i0/index.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1078px-MTV_Hits_2021.svg.png" group-title="Música",MTV Hits
-http://45.5.118.226:8000/play/a0gd/index.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png" group-title="Música",MTV Live
-http://45.5.118.226:8000/play/a0hz/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/63618edb1210019a75485555/3b8a6710e1c937921c3b6bcb18d5281b?tr=q-80&w=1024" group-title="Música", VEVO: Regional Mexicano
