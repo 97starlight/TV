@@ -336,6 +336,10 @@ https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 
 
+EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="Deportes", NEO TV Digital 16.1
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_13515.png" group-title="Deportes",TYC Sports 
 https://cotesma02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 
