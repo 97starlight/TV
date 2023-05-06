@@ -393,7 +393,7 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 
 
 
-EXTINF:-1 group-title="TyC Sports Play", EVENTOS TyC PLAY 1
+#EXTINF:-1 group-title="TyC Sports Play", EVENTOS TyC PLAY 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
 
 #EXTINF:-1 group-title="TyC Sports Play", EVENTOS TyC PLAY 2
