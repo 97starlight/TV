@@ -324,6 +324,10 @@ https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
 https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
+#EXTINF: -1 group-title="Deportes",City Sports
+https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_13515.png" group-title="Deportes",TYC Sports 
 https://cotesma02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 
@@ -387,9 +391,6 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u
 
 #EXTINF:-1  group-title="Deportes", ESPN 2 || GUATEMALA
 http://45.190.13.50:8003/play/a01g/index.m3u8
-
-#EXTINF: -1 group-title="Deportes",City Sports
-https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 
 
 
