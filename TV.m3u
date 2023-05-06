@@ -336,11 +336,6 @@ https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8  
 
 
-#EXTINF: -1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="Deportes", NEO TV Digital 16.1
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="Deportes", Ciudad Mágica TV  
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 
@@ -429,6 +424,10 @@ https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Deportes",Pluto TV: La Liga Premier Paramount+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+
+
+#EXTINF: -1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="Deportes", NEO TV Digital 16.1
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
                    *******************
