@@ -420,6 +420,19 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=776004971&_cdn_timestamp=1683438817&_cdn_token=7575a8ddd14f926ce52e859e67193a4cb5021463
 
 
+#EXTINF:-1  group-title="Deportes",AR | ESPN
+https://cotesma02.cdn.rcs.net.ar/mnp/espn/output.mpd
+
+#EXTINF:-1  group-title="Deportes",AR | ESPN 2 AR
+https://cotesma02.cdn.rcs.net.ar/mnp/espn2/output.mpd
+
+#EXTINF:-1  group-title="Deportes",AR | ESPN 3 AR
+https://cotesma02.cdn.rcs.net.ar/mnp/espn3/output.mpd
+
+#EXTINF:-1  group-title="Deportes",AR | ESPN EXTRA AR
+https://cotesma02.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Deportes",Pluto TV: La Liga Premier Paramount+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
