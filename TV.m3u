@@ -6,15 +6,15 @@
 http://45.190.13.50:8002/play/a00u/index.m3u8
 
 
-#EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png" group-title="EEUU/MX",AR | Telemundo Internacional
+#EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/telemundo-intl.png" group-title="EEUU/MX",AR | Telemundo Internacional
 https://cotesma02.cdn.rcs.net.ar/mnp/telemundo/output.mpd
 
 
-#EXTINF: -1 tvg-name="Las Estrellas" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_06/large.74835190079.png.30874eb351d73fbcbab8fc011e20d257.png" group-title="EEUU/MX",MX | Las Estrellas
+#EXTINF: -1 tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/las-estrellas-mx.png" group-title="EEUU/MX",MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
 
-#EXTINF: -1 tvg-name="Las Estrellas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/818px-Las_Estrellas.svg.png" group-title="EEUU/MX",Las Estrellas (Latinoamérica)
+#EXTINF: -1 tvg-name="Las Estrellas Latinoamérica" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/las-estrellas-latam.png" group-title="EEUU/MX",Las Estrellas (Latinoamérica)
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
 
@@ -49,11 +49,11 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
 
-#EXTINF: -1 tvg-name="AXN HD" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="Entretenimiento",AXN
+#EXTINF: -1 tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/axn.png" group-title="Entretenimiento",AXN
 https://cotesma02.cdn.rcs.net.ar/mnp/axn/output.mpd
 
 
-#EXTINF:-1 tvg-name="A&E" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png" group-title="Entretenimiento",A&E
+#EXTINF:-1 tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ae.png" group-title="Entretenimiento",A&E
 https://cotesma02.cdn.rcs.net.ar/mnp/ae/output.mpd
 
 
@@ -93,7 +93,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 https://cotesma02.cdn.rcs.net.ar/mnp/tnt/output.mpd
 
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",TNT Series
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/tnt-series.png" group-title="Entretenimiento",TNT Series
 https://cotesma02.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 
 
@@ -133,27 +133,27 @@ https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
 
 
 
-#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Elocho_TV_nuevo_logo.png" group-title="TV",El Ocho TV (Tucumán)
+#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-ocho-tv.png" group-title="TV",El Ocho TV (Tucumán)
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
 
 
-#EXTINF: -1 tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/telefe%201.png" group-title="TV",Telefe
+#EXTINF: -1 tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-telefe-1.png" group-title="TV",Telefe
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/telefe%202.png" group-title="TV",TELEFE (op 2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-telefe-2.png" group-title="TV",Telefe (op 2)
 https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
 
 
-#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/el%20trece%201.png" group-title="TV",El Trece
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-trece-1.png" group-title="TV",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
-#EXTINF:-1 tvg-name="El Trece op 2" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/el%20trece%202.png" group-title="TV",El Trece (op 2)
+#EXTINF:-1 tvg-name="El Trece op 2" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-trece-2.png" group-title="TV",El Trece (op 2)
 https://cotesma02.cdn.rcs.net.ar/mnp/el13/output.mpd 
 
 
-#EXTINF: -1 tvg-name="El Nueve" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG" group-title="TV",El Nueve
+#EXTINF: -1 tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-nueve.png" group-title="TV",El Nueve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 
@@ -161,15 +161,15 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 https://cotesma02.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 
-#EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://i.imgur.io/IhJ0BjF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",NET TV
+#EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-net-tv.png" group-title="TV",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
-#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="TV",America TV
+#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-america-2.png" group-title="TV",America TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 
-#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="" group-title="TV",America TV HD 36.1
+#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-america-2.png" group-title="TV",America TV HD 36.1
 https://cotesma02.cdn.rcs.net.ar/mnp/america/output.mpd
 
 
@@ -348,7 +348,7 @@ https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
                    *******************
 
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ESPN_Premium_logo.png" group-title="Deportes", ESPN Premium 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-espn-premium.png" group-title="Deportes", ESPN Premium 
 https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
@@ -360,11 +360,11 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_13515.png" group-title="Deportes",TYC Sports 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports.png" group-title="Deportes",TyC Sports 
 https://cotesma02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_13515.png" group-title="Deportes",TYC Sports International
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports-int.png" group-title="Deportes",TyC Sports Internacional
 http://186.96.111.23:8000/play/a016
 
 
@@ -431,13 +431,13 @@ http://45.190.13.50:8003/play/a01g/index.m3u8
 
                    *******************
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",AR | FOX Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-fox-sports.png" group-title="Deportes",AR | FOX Sports
 https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/323px-Fox_Sports_2_Argentina_2023.svg.png" group-title="Deportes",AR | FOX Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-fox-sports-2.png" group-title="Deportes",AR | FOX Sports 2
 https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/323px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Deportes",AR | FOX Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-fox-sports-3.png" group-title="Deportes",AR | FOX Sports 3
 https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 
