@@ -137,6 +137,10 @@ https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
 
 
+#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="" group-title="TV",El Ocho TV (Tucumán) op 2
+https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+
+
 #EXTINF: -1 tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="TV",Telefe
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
@@ -157,6 +161,10 @@ https://cotesma02.cdn.rcs.net.ar/mnp/el13/output.mpd
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 
+#EXTINF: -1 tvg-name="El Nueve" tvg-logo="" group-title="TV",El Nueve 35.1
+https://cotesma02.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+
+
 #EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://i.imgur.io/IhJ0BjF_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -165,8 +173,20 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 
+#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="" group-title="TV",America TV HD 36.1
+https://cotesma02.cdn.rcs.net.ar/mnp/america/output.mpd
+
+
 #EXTINF: -1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://i.imgur.io/vFwPhPS_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="TV", TN (op 2)
+https://cotesma02.cdn.rcs.net.ar/mnp/tn/output.mpd
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171440347508920320/7pwThQbq_400x400.jpg" group-title="TV",KZO
+https://ythls.onrender.com/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 
 
 #EXTINF: -1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_03/large.566331441_A24(2019-2).png.2d4fb254c630d2951845fae6880b273f.png" group-title="TV",A24
@@ -187,6 +207,10 @@ https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all
 
 #EXTINF: -1 tvg-id="IPNoticias.ar" tvg-name="IP Noticias" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_03/large.imagen_2023-03-21_001530950-modified.png.114408377875a9a7e8aa5b67ba71ddeb.png" group-title="TV",IP Noticias
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="TV", IP Noticias 24.5
+https://cotesma02.cdn.rcs.net.ar/mnp/ip/output.mpd
 
 
 #EXTINF: -1 tvg-id="LaNacionPlus.ar" tvg-name="La Nación +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="TV",La Nación +
