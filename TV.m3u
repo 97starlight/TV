@@ -423,13 +423,13 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.
 #EXTINF:-1  group-title="Deportes",AR | ESPN
 https://cotesma02.cdn.rcs.net.ar/mnp/espn/output.mpd
 
-#EXTINF:-1  group-title="Deportes",AR | ESPN 2 AR
+#EXTINF:-1  group-title="Deportes",AR | ESPN 2
 https://cotesma02.cdn.rcs.net.ar/mnp/espn2/output.mpd
 
-#EXTINF:-1  group-title="Deportes",AR | ESPN 3 AR
+#EXTINF:-1  group-title="Deportes",AR | ESPN 3
 https://cotesma02.cdn.rcs.net.ar/mnp/espn3/output.mpd
 
-#EXTINF:-1  group-title="Deportes",AR | ESPN EXTRA AR
+#EXTINF:-1  group-title="Deportes",AR | ESPN EXTRA
 https://cotesma02.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
 
 
@@ -477,14 +477,3 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 
 #EXTINF:-1 group-title="TyC Sports Play", EVENTOS TyC PLAY 11
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
-
-
-                   *******************
-
-
-#EXTINF:-1  group-title="Bics Extra", GLOBAL PE
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=775952547&_cdn_timestamp=1683436800&_cdn_token=7989fad495116a654c26fa5bfb7be1f0b99dd4c3
-
-
-#EXTINF:-1 group-title="Bics Extra", RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
