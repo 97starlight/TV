@@ -368,6 +368,16 @@ https://cotesma02.cdn.rcs.net.ar/mnp/tyc/output.mpd
 http://186.96.111.23:8000/play/a016
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-fox-sports.png" group-title="Deportes",AR | FOX Sports
+https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-fox-sports-2.png" group-title="Deportes",AR | FOX Sports 2
+https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-fox-sports-3.png" group-title="Deportes",AR | FOX Sports 3
+https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="Deportes",CO | ESPN
 http://181.78.21.60:16123/play/ch16
 
@@ -408,37 +418,6 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.
 
 #EXTINF:-1  group-title="Deportes",LAT | Fox Sports 3
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=776004971&_cdn_timestamp=1683438817&_cdn_token=7575a8ddd14f926ce52e859e67193a4cb5021463
-
-
-#EXTINF:-1  group-title="Deportes", ESPN
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=776006443&_cdn_timestamp=1683438872&_cdn_token=6f3a71e50c8c0ca7d548bfa966fcdba3ee08b5f1
-
-#EXTINF:-1  group-title="Deportes", ESPN 2
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=776006571&_cdn_timestamp=1683438879&_cdn_token=06fbe713d1bc4b6622dc7b3b5a802ad6fcac3fc3
-
-#EXTINF:-1  group-title="Deportes", ESPN 3
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=776006867&_cdn_timestamp=1683438894&_cdn_token=df87fc051feba87d84871a48b588fe7ff4d15199
-
-#EXTINF:-1  group-title="Deportes", ESPN 4
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=776007163&_cdn_timestamp=1683438907&_cdn_token=9ed0d4bfeed0ed74620636ec81d0bad6f330c693
-
-#EXTINF:-1  group-title="Deportes", ESPN Extra
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=767036419&_cdn_timestamp=1683210090&_cdn_token=a31918a8d87f7cc4ed4f9dadc648d71ec75c0d09
-
-#EXTINF:-1  group-title="Deportes", ESPN 2 || GUATEMALA
-http://45.190.13.50:8003/play/a01g/index.m3u8
-
-
-                   *******************
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-fox-sports.png" group-title="Deportes",AR | FOX Sports
-https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-fox-sports-2.png" group-title="Deportes",AR | FOX Sports 2
-https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-fox-sports-3.png" group-title="Deportes",AR | FOX Sports 3
-https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Deportes",Pluto TV: La Liga Premier Paramount+
