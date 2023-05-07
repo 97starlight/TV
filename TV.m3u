@@ -26,8 +26,16 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 http://181.189.243.254:8000/play/a0td/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=1024" group-title="EEUU/MX",Como dice el Dicho
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=750" group-title="EEUU/MX",Vix: Como dice el dicho
 https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=750" group-title="EEUU/MX",Vix: La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="EEUU",Vix: Videos Chistosos 
+https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" group-title="EEUU/MX",MX | N+ Media
@@ -40,6 +48,10 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="EEUU/MX",MX | FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb79a9e887494aeb7b53d7/e22297a85b98822efbb3ad61ec2ae898?tr=q-80&w=1920" group-title="EEUU/MX",N+
+https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 
 
                     *******************
@@ -116,6 +128,16 @@ https://cotesma02.cdn.rcs.net.ar/mnp/discovery/output.mpd
 https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Entretenimiento",ViX: Golden Multiplex -1 hora
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Entretenimiento",ViX: Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Entretenimiento",ViX: Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
+
 
                    *******************
 
@@ -123,6 +145,11 @@ https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
 
 #EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-ocho-tv.png" group-title="TV",El Ocho TV (Tucumán)
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
+
+
+#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-ocho-tv.png" group-title="TV",El Ocho TV (Tucumán) op 2
+https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+
 
 
 #EXTINF: -1 tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-telefe-1.png" group-title="TV",Telefe
