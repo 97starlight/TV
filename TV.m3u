@@ -229,7 +229,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/ip/output.mpd
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 
-#EXTINF: -1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_12/small_TVP.png.35f53f740c7a098b15f0de93df95cfeb.png" group-title="TV",TV Pública
+#EXTINF: -1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tvp.png" group-title="TV",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 
