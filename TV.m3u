@@ -185,7 +185,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 
-#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-america-2.png" group-title="TV",America TV HD 36.1
+#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-america-2-2.png" group-title="TV",America TV HD 36.1
 https://cotesma02.cdn.rcs.net.ar/mnp/america/output.mpd
 
 
@@ -201,7 +201,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/tn/output.mpd
 https://ythls.onrender.com/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 
 
-#EXTINF: -1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_03/large.566331441_A24(2019-2).png.2d4fb254c630d2951845fae6880b273f.png" group-title="TV",A24
+#EXTINF: -1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-a24.png" group-title="TV",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 
