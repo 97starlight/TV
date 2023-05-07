@@ -57,20 +57,8 @@ https://cotesma02.cdn.rcs.net.ar/mnp/axn/output.mpd
 https://cotesma02.cdn.rcs.net.ar/mnp/ae/output.mpd
 
 
-#EXTINF: -1 tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento",Investigation Discovery
-http://45.5.118.226:8000/play/a0ks/index.m3u8
-
-
 #EXTINF: -1 tvg-name="Antena 3" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.Antena3-vect17.png.f837b89f65cce788ce97bd37b4d45910.png" group-title="Entretenimiento",Antena 3
 https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Entretenimiento",Universal
-http://45.5.118.226:8000/play/a0ih/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.3d4d66da49a1f994538e8a81b24abde3.png" group-title="Entretenimiento",Universal Crime
-http://45.5.118.226:8000/play/a0i4/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Elgourmet_23.svg/revision/latest/scale-to-width-down/230?cb=20230410230610&path-prefix=es" group-title="Entretenimiento",El Gourmet
