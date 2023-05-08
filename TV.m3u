@@ -62,14 +62,6 @@ https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
 
-#EXTINF: -1 tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/axn.png" group-title="Entretenimiento",AXN
-https://router.cdn.rcs.net.ar/mnp/axn/output.mpd
-
-
-#EXTINF:-1 tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ae.png" group-title="Entretenimiento",A&E
-https://cotesma02.cdn.rcs.net.ar/mnp/ae/output.mpd
-
-
 #EXTINF: -1 tvg-name="Antena 3" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.Antena3-vect17.png.f837b89f65cce788ce97bd37b4d45910.png" group-title="Entretenimiento",Antena 3
 https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 
