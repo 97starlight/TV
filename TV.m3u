@@ -171,10 +171,6 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
 
-#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-america-2-2.png" group-title="TV",America TV HD 36.1
-https://cotesma02.cdn.rcs.net.ar/mnp/america/output.mpd
-
-
 #EXTINF: -1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://i.imgur.io/vFwPhPS_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
