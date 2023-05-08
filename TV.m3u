@@ -148,11 +148,6 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
 
 
-#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-ocho-tv.png" group-title="TV",El Ocho TV (Tucumán) op 2
-https://ythls.onrender.com/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
-
-
-
 #EXTINF: -1 tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-telefe-1.png" group-title="TV",Telefe
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
