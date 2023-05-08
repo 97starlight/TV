@@ -646,3 +646,10 @@ https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-6202ab549654c800076ee13f" tvg-id="6202ab549654c800076ee13f" tvg-chno="733" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="Pluto TV" , Nickelodeon Rocket Power
 https://i.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="otros", EL CHAVO
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
