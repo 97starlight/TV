@@ -580,3 +580,30 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i43l93j.png" group-title="Paisajes", Waterfalls Live
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 channel-id="pluto-5dcde27ffae9520009c0c75a" tvg-id="5dcde27ffae9520009c0c75a" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="Pluto TV" , Pluto TV Investiga
+https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-6109a9f5531b840007a4a187" tvg-id="6109a9f5531b840007a4a187" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="Pluto TV" , Cazador de Homicidas
+https://i.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-5e67d41b93312100076f3fca" tvg-id="5e67d41b93312100076f3fca" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="Pluto TV" , Los archivos del FBI
+https://i.mjh.nz/PlutoTV/5e67d41b93312100076f3fca-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-5efb8c19b2678b000780d032" tvg-id="5efb8c19b2678b000780d032" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png" group-title="Pluto TV" , Archivos Forenses
+https://i.mjh.nz/PlutoTV/5efb8c19b2678b000780d032-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-5ea71d48af1d0b0007d837f4" tvg-id="5ea71d48af1d0b0007d837f4" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="Pluto TV" , The New Detectives
+https://i.mjh.nz/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Pluto TV" , Misterios sin Resolver
+https://i.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
