@@ -94,6 +94,10 @@ https://i.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8
 https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
 
 
+#EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Entretenimiento" , NCIS
+https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
+
+
 #EXTINF:-1  group-title="Entretenimiento",Cinecanal 
 https://cotesma02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 
