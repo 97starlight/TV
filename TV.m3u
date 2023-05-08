@@ -209,10 +209,6 @@ https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
 https://i.mjh.nz/PlutoTV/60f16986acb81b0007c384ac-alt.m3u8
 
 
-#EXTINF:-1 channel-id="pluto-604b91e0692f770007d9f33f" tvg-id="604b91e0692f770007d9f33f" tvg-chno="905" tvg-logo="https://images.pluto.tv/channels/604b91e0692f770007d9f33f/colorLogoPNG.png" group-title="Música" ,BR | Pluto TV Shows por Stingray
-https://i.mjh.nz/PlutoTV/604b91e0692f770007d9f33f-alt.m3u8
-
-
 #EXTINF: -1 tvg-name="VEVO 70'S" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/36e783dc9cc9d46f4b17242eb3018f9b.png" group-title="Música",VEVO 70'S
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
@@ -233,8 +229,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a00079
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="Música",Pluto TV: K-Pop
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceType=samsung-tvplus&dev
+#EXTINF:-1 channel-id="pluto-61560abb6ae4b60007300555" tvg-id="61560abb6ae4b60007300555" tvg-logo="https://images.pluto.tv/channels/61560abb6ae4b60007300555/colorLogoPNG.png" group-title="Música" ,UK | Pluto TV K-Pop
+https://i.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
 
 
 #EXTINF:-1 channel-id="pluto-6076cd1df8576d0007c82193" tvg-id="6076cd1df8576d0007c82193" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Música" , VH1 Classics
