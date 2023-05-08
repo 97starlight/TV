@@ -163,10 +163,6 @@ https://cotesma02.cdn.rcs.net.ar/mnp/el13/output.mpd
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 
-#EXTINF: -1 tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-nueve-2.png" group-title="TV",El Nueve 35.1
-https://cotesma02.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-
-
 #EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-net-tv.png" group-title="TV",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
@@ -181,14 +177,6 @@ https://cotesma02.cdn.rcs.net.ar/mnp/america/output.mpd
 
 #EXTINF: -1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://i.imgur.io/vFwPhPS_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="TV",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="TV", TN (op 2)
-https://cotesma02.cdn.rcs.net.ar/mnp/tn/output.mpd
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171440347508920320/7pwThQbq_400x400.jpg" group-title="TV",KZO
-https://ythls.onrender.com/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 
 
 #EXTINF: -1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-a24.png" group-title="TV",A24
@@ -211,10 +199,6 @@ https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="TV", IP Noticias 24.5
-https://cotesma02.cdn.rcs.net.ar/mnp/ip/output.mpd
-
-
 #EXTINF: -1 tvg-id="LaNacionPlus.ar" tvg-name="La Nación +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="TV",La Nación +
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
@@ -225,10 +209,6 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 
 #EXTINF: -1 tvg-name="Canal 8 Mar del Plata (Telefe)" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-canal-8-mdp.png" group-title="TV",Canal 8 Mar del Plata (Telefe)
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-c5n.png" group-title="TV", C5N
-https://cotesma02.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
 
 
