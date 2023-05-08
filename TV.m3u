@@ -74,57 +74,6 @@ https://cotesma02.cdn.rcs.net.ar/mnp/ae/output.mpd
 https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Elgourmet_23.svg/revision/latest/scale-to-width-down/230?cb=20230410230610&path-prefix=es" group-title="Entretenimiento",El Gourmet
-https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="Entretenimiento",Tru TV
-https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
-
-
-#EXTINF:-1  group-title="Entretenimiento",Cinecanal 
-https://cotesma02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
-
-
-#EXTINF:-1  group-title="Entretenimiento",TNT
-https://cotesma02.cdn.rcs.net.ar/mnp/tnt/output.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/tnt-series.png" group-title="Entretenimiento",TNT Series
-https://cotesma02.cdn.rcs.net.ar/mnp/tntseries/output.mpd
-
-
-#EXTINF:-1  group-title="Entretenimiento",SyFy
-https://cotesma02.cdn.rcs.net.ar/mnp/syfy/output.mpd
-
-#EXTINF:-1  group-title="Entretenimiento",FX
-https://cotesma02.cdn.rcs.net.ar/mnp/fx/output.mpd
-
-#EXTINF:-1  group-title="Entretenimiento",Space
-https://cotesma02.cdn.rcs.net.ar/mnp/space/output.mpd
-
-#EXTINF:-1  group-title="Entretenimiento",Paramount Network 
-https://cotesma02.cdn.rcs.net.ar/mnp/paramount/output.mpd
-
-#EXTINF:-1  group-title="Entretenimiento",Sony
-https://cotesma02.cdn.rcs.net.ar/mnp/sony/output.mpd
-
-#EXTINF:-1  group-title="Entretenimiento",TBS
-https://cotesma02.cdn.rcs.net.ar/mnp/tbs/output.mpd
-
-#EXTINF:-1  group-title="Entretenimiento",Warner
-https://cotesma02.cdn.rcs.net.ar/mnp/warner/output.mpd
-
-#EXTINF:-1  group-title="Entretenimiento",TCM
-https://cotesma02.cdn.rcs.net.ar/mnp/tcm/output.mpd
-
-#EXTINF:-1  group-title="Entretenimiento",Discovery
-https://cotesma02.cdn.rcs.net.ar/mnp/discovery/output.mpd
-
-#EXTINF:-1  group-title="Entretenimiento",I.Sat
-https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Entretenimiento",ViX: Golden Multiplex -1 hora
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 
