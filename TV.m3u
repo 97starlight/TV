@@ -139,10 +139,6 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Entretenimiento",Pluto TV: Paisajes por Stingray
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&dev
-
-
 
 
 
@@ -537,3 +533,38 @@ https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/in
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports Play", Eventos 12
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Paisajes",Pluto TV: Paisajes por Stingray
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=samsung-tvplus&dev
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vNrFKse.png" group-title="Paisajes", Aurora Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NKW3gW7.png" group-title="Paisajes", Forest Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ijurD8t.png" group-title="Paisajes", Lakes Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XthH1RM.png" group-title="Paisajes", Mountains Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rIbV7e.png" group-title="Paisajes", Beaches Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ii2IDmA.png" group-title="Paisajes", Rivers Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K4GaruD.png" group-title="Paisajes", Sunset Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8F9qPbt.png" group-title="Paisajes", Tropics Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i43l93j.png" group-title="Paisajes", Waterfalls Live
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
