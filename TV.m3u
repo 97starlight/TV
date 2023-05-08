@@ -611,3 +611,27 @@ https://i.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5ebaccf1734aaf0007142c86" tvg-id="5ebaccf1734aaf0007142c86" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Pluto TV" , FailArmy
 https://i.mjh.nz/PlutoTV/5ebaccf1734aaf0007142c86-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Pluto TV" , Bob Esponja Pantalones Cuadrados
+https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-6322099c822bbc00074857db" tvg-id="6322099c822bbc00074857db" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="Pluto TV" , Los Padrinos Mágicos
+https://i.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-63dd5d7a4e83e700088fbca8" tvg-id="63dd5d7a4e83e700088fbca8" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="Pluto TV" , Las Tortugas Ninja
+https://i.mjh.nz/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-5ddd7c348520b40009c347e2" tvg-id="5ddd7c348520b40009c347e2" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Pluto TV" , Nick Clásico
+https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-5ea7215005d66d0007e8128a" tvg-id="5ea7215005d66d0007e8128a" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Pluto TV" , Rugrats
+https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-6202ab549654c800076ee13f" tvg-id="6202ab549654c800076ee13f" tvg-chno="733" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="Pluto TV" , Nickelodeon Rocket Power
+https://i.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
