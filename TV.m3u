@@ -250,7 +250,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/c5n/output.mpd
 https://cotesma02.cdn.rcs.net.ar/mnp/htv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_04/large.MTV-Logo_svg.png.7227c3af5b0508a4a9ca620c49633db0.png" group-title="Música",MTV
-https://cotesma02.cdn.rcs.net.ar/mnp/mtv/output.mpd
+https://router.cdn.rcs.net.ar/mnp/mtv/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/105-MuchMusic.png" group-title="Música", Much Music
