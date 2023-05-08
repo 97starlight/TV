@@ -158,7 +158,7 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-telefe-2.png" group-title="TV",Telefe (op 2)
-https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+https://router.cdn.rcs.net.ar/mnp/telefe/output.mpd
 
 
 #EXTINF:-1 tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-trece-1.png" group-title="TV",El Trece
