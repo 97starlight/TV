@@ -82,22 +82,6 @@ https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
 
 
-#EXTINF:-1 channel-id="pluto-604928d54a4f730007ff76bc" tvg-id="604928d54a4f730007ff76bc" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="Entretenimiento" , CSI en Español
-https://i.mjh.nz/PlutoTV/604928d54a4f730007ff76bc-alt.m3u8
-
-
-#EXTINF:-1 channel-id="pluto-632b5950b515b000079e6b81" tvg-id="632b5950b515b000079e6b81" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png" group-title="Entretenimiento" , CSI: Miami en Español
-https://i.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8
-
-
-#EXTINF:-1 channel-id="pluto-632b606e12a67b0007c9e371" tvg-id="632b606e12a67b0007c9e371" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="Entretenimiento" , CSI: NY en Español
-https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
-
-
-#EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Entretenimiento" , NCIS
-https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-
-
 #EXTINF:-1  group-title="Entretenimiento",Cinecanal 
 https://cotesma02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 
@@ -582,6 +566,22 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 
 
+
+
+#EXTINF:-1 channel-id="pluto-604928d54a4f730007ff76bc" tvg-id="604928d54a4f730007ff76bc" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="Pluto TV" , CSI en Español
+https://i.mjh.nz/PlutoTV/604928d54a4f730007ff76bc-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-632b5950b515b000079e6b81" tvg-id="632b5950b515b000079e6b81" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png" group-title="Pluto TV" , CSI: Miami en Español
+https://i.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-632b606e12a67b0007c9e371" tvg-id="632b606e12a67b0007c9e371" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="Pluto TV" , CSI: NY en Español
+https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Pluto TV" , NCIS
+https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 
 
