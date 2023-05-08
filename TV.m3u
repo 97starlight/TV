@@ -63,7 +63,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manife
 
 
 #EXTINF: -1 tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/axn.png" group-title="Entretenimiento",AXN
-https://cotesma02.cdn.rcs.net.ar/mnp/axn/output.mpd
+https://router.cdn.rcs.net.ar/mnp/axn/output.mpd
 
 
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ae.png" group-title="Entretenimiento",A&E
