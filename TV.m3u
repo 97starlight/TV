@@ -82,8 +82,16 @@ https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
 
 
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="Entretenimiento",CSI NY
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b606e12a67b0007c9e371/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-604928d54a4f730007ff76bc" tvg-id="604928d54a4f730007ff76bc" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="Entretenimiento" , CSI en Español
+https://i.mjh.nz/PlutoTV/604928d54a4f730007ff76bc-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-632b5950b515b000079e6b81" tvg-id="632b5950b515b000079e6b81" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png" group-title="Entretenimiento" , CSI: Miami en Español
+https://i.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-632b606e12a67b0007c9e371" tvg-id="632b606e12a67b0007c9e371" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="Entretenimiento" , CSI: NY en Español
+https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
 
 
 #EXTINF:-1  group-title="Entretenimiento",Cinecanal 
