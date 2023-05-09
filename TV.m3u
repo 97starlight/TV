@@ -84,7 +84,8 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/axn.png" group-title="Entretenimiento", AXN
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=796225179&_cdn_timestamp=1683979182&_cdn_token=278ceed9e0825df8540fe34f4ee83ddd529942c5
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/160px-Elgourmetlogo2015.png" group-title="Entretenimiento",elGourmet
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=796246155&_cdn_timestamp=1683979803&_cdn_token=effb20810d6410a099fce9224ab0209c3680f8f8
 
 
 
