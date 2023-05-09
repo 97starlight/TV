@@ -219,18 +219,6 @@ https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60f16986acb81b0007c384ac" tvg-id="60f16986acb81b0007c384ac" tvg-logo="https://images.pluto.tv/channels/60f16986acb81b0007c384ac/colorLogoPNG.png" group-title="Música" ,ES | Qello Concerts
 https://i.mjh.nz/PlutoTV/60f16986acb81b0007c384ac-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f32f26bcd8aea00071240e5" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Música" , Vevo '70s
-https://i.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5fd7b8bf927e090007685853" tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Música" , Vevo '80s
-https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5fd7bb1f86d94a000796e2c2" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-chno="2495" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Música" , Vevo '90s
-https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Música" , Vevo 2K
-https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5f68f53eb1e5800007390bf8" tvg-id="5f68f53eb1e5800007390bf8" tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="Música" , CMT Equal Play
 https://i.mjh.nz/PlutoTV/5f68f53eb1e5800007390bf8-alt.m3u8
 
@@ -243,6 +231,18 @@ https://i.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6076cd1df8576d0007c82193" tvg-id="6076cd1df8576d0007c82193" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Música" , VH1 Classics
 https://i.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-5f32f26bcd8aea00071240e5" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Música" , Vevo '70s
+https://i.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5fd7b8bf927e090007685853" tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Música" , Vevo '80s
+https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5fd7bb1f86d94a000796e2c2" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-chno="2495" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Música" , Vevo '90s
+https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Música" , Vevo 2K
+https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-5d93b635b43dd1a399b39eee" tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Música" , Vevo Pop
 https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
 
@@ -254,29 +254,25 @@ https://i.mjh.nz/PlutoTV/5da0d83f66c9700009b96d0e-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5da0d75e84830900098a1ea0" tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Música" , Vevo Country
 https://i.mjh.nz/PlutoTV/5da0d75e84830900098a1ea0-alt.m3u8
 
-
 #EXTINF:-1 channel-id="pluto-5f32f397795b750007706448" tvg-id="5f32f397795b750007706448" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Música" , Vevo Reggaeton & Trap
 https://i.mjh.nz/PlutoTV/5f32f397795b750007706448-alt.m3u8
-
 
 #EXTINF:-1 channel-id="pluto-5da0d64d0e8a62000964ebe4" tvg-id="5da0d64d0e8a62000964ebe4" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" group-title="Música" , Vevo Latino
 https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/63618edb1210019a75485555/3b8a6710e1c937921c3b6bcb18d5281b?tr=q-80&w=1024" group-title="Música", VEVO: Regional Mexicano
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/63618edb1210019a75485555/3b8a6710e1c937921c3b6bcb18d5281b?tr=q-80&w=1024" group-title="Música", ViX | VEVO: Regional Mexicano
 https://linear-494.frequency.stream/494/hls/master/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/63618dda5055d209cdc327c2/065f4b9b3c0c99e12a5b2c92bc25823c?tr=q-80&w=1024" group-title="Música", VEVO: Íconos Latinos
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/63618dda5055d209cdc327c2/065f4b9b3c0c99e12a5b2c92bc25823c?tr=q-80&w=1024" group-title="Música",ViX | VEVO: Íconos Latinos
 https://linear-495.frequency.stream/495/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62e806089518b714868b039c/9bb348f16ce7a0523c0cb4d1c4a43abc?tr=q-80&w=1024" group-title="Música", VEVO: Latino
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62e806089518b714868b039c/9bb348f16ce7a0523c0cb4d1c4a43abc?tr=q-80&w=1024" group-title="Música",ViX | VEVO: Latino
 https://linear-388.frequency.stream/388/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62e80650e405b576bd43753f/a0311262a9d115f95df154882af1978b?tr=q-80&w=1024" group-title="Música", VEVO: Reggaeton & Trap
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62e80650e405b576bd43753f/a0311262a9d115f95df154882af1978b?tr=q-80&w=1024" group-title="Música",ViX | VEVO: Reggaeton & Trap
 https://linear-389.frequency.stream/389/hls/master/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/stingray-music.png" group-title="Música", Stingray Holiday Hits
 https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
@@ -293,7 +289,7 @@ https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/stingray-music.png" group-title="Música", Stingray Today's Latin Pop
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1024035969358553094/NaTy9l1M_400x400.jpg" group-title="Música", Stingray Urban Beats
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/stingray-music.png" group-title="Música", Stingray Urban Beats
 https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f779951372da90007fd45e8" tvg-id="5f779951372da90007fd45e8" tvg-logo="https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Música" , Classica
