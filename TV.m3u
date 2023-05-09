@@ -138,11 +138,11 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-me
 https://cotesma02.cdn.rcs.net.ar/mnp/el13/output.mpd 
 
 
-#EXTINF: -1 tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-nueve.png" group-title="AR-TV",El Nueve
+#EXTINF: -1 tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-nueve.png" group-title="AR-TV",elnueve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 
-#EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-net-tv.png" group-title="AR-TV",NET TV
+#EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-net-tv.png" group-title="AR-TV",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 
