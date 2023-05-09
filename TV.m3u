@@ -371,23 +371,26 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfea
 #EXTINF: -1 group-title="Deportes",MX | FOX Sports
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
-
 #EXTINF: -1 group-title="Deportes",MX | FOX Sports 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
-
 
 #EXTINF: -1 group-title="Deportes",MX | FOX Sports 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-
 #EXTINF: -1 group-title="Deportes",MX | FS Premium
 http://45.190.13.50:8002/play/a002/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Deportes",Pluto TV: La Liga Premier Paramount+
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-5ebc8688f3697d00072f7cf8" tvg-id="5ebc8688f3697d00072f7cf8" tvg-chno="2170" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Deportes" , Bellator MMA
+https://i.mjh.nz/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5df975e2b27cf5000921c102" tvg-id="5df975e2b27cf5000921c102" tvg-chno="2190" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Deportes" , beIN SPORTS XTRA
+https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60492fdd9989d30007ccd30a" tvg-id="60492fdd9989d30007ccd30a" tvg-chno="3060" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="Deportes" , beIN SPORTS XTRA en español
+https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 
 
