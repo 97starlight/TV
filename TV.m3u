@@ -128,10 +128,10 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://router.cdn.rcs.net.ar/mnp/telefe/output.mpd
 
 
-#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-trece-1.png" group-title="AR-TV",El Trece
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png" group-title="AR-TV",El Trece Internacional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png" group-title="AR-TV", eltrece internacional
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=788289051&_cdn_timestamp=1683755971&_cdn_token=0c107c0739163654b2667aee51d4301c7696c5d3
 
 #EXTINF:-1 tvg-name="El Trece op 2" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-trece-2.png" group-title="AR-TV",El Trece (op 2)
