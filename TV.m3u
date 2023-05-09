@@ -75,9 +75,6 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Entretenimiento",ViX: Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="pluto-605e479d5b8229000763e697" tvg-id="605e479d5b8229000763e697" tvg-chno="2850" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" group-title="Entretenimiento" ,US | Sony Canal Escape Perfecto
-https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
-
 
 
 
@@ -495,6 +492,11 @@ https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
 #EXTINF:-1 channel-id="pluto-588128d17d64bc0d0f385c34" tvg-id="588128d17d64bc0d0f385c34" tvg-logo="https://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="Pluto TV" ,US | Fear Factor
 https://i.mjh.nz/PlutoTV/588128d17d64bc0d0f385c34-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-60492a9bbca75b0007b1bfd5" tvg-id="60492a9bbca75b0007b1bfd5" tvg-chno="2995" tvg-logo="https://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png" group-title="Pluto TV" , Mundo paranormal
+https://i.mjh.nz/PlutoTV/60492a9bbca75b0007b1bfd5-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-612ce5214bb5790007ad3016" tvg-id="612ce5214bb5790007ad3016" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" group-title="Pluto TV" , Pluto TV Paranormal
+https://i.mjh.nz/PlutoTV/612ce5214bb5790007ad3016-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dcde27ffae9520009c0c75a" tvg-id="5dcde27ffae9520009c0c75a" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png" group-title="Pluto TV" , Pluto TV Investiga
 https://i.mjh.nz/PlutoTV/5dcde27ffae9520009c0c75a-alt.m3u8
@@ -519,36 +521,48 @@ https://i.mjh.nz/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Pluto TV" , Misterios sin Resolver
 https://i.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
 
-
-#EXTINF:-1 channel-id="pluto-612ce5214bb5790007ad3016" tvg-id="612ce5214bb5790007ad3016" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png" group-title="Pluto TV" , Pluto TV Paranormal
-https://i.mjh.nz/PlutoTV/612ce5214bb5790007ad3016-alt.m3u8
-
-
 #EXTINF:-1 channel-id="pluto-5ebaccf1734aaf0007142c86" tvg-id="5ebaccf1734aaf0007142c86" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Pluto TV" , FailArmy
 https://i.mjh.nz/PlutoTV/5ebaccf1734aaf0007142c86-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-5bb1ad55268cae539bcedb08" tvg-id="5bb1ad55268cae539bcedb08" tvg-chno="1880" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Pluto TV" , The Pet Collective
+https://i.mjh.nz/PlutoTV/5bb1ad55268cae539bcedb08-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Pluto TV" , Bob Esponja Pantalones Cuadrados
+#EXTINF:-1 channel-id="pluto-5b329e0a7b9d8872aeb49ceb" tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-chno="1885" tvg-logo="https://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Pluto TV" , Dogs 24/7
+https://i.mjh.nz/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-599375885ceaac3cabccbed7" tvg-id="599375885ceaac3cabccbed7" tvg-chno="1890" tvg-logo="https://images.pluto.tv/channels/599375885ceaac3cabccbed7/colorLogoPNG.png" group-title="Pluto TV" , Cats 24/7
+https://i.mjh.nz/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f5bd769ccef5c000781c342" tvg-id="5f5bd769ccef5c000781c342" tvg-chno="2310" tvg-logo="https://images.pluto.tv/channels/5f5bd769ccef5c000781c342/colorLogoPNG.png" group-title="Pluto TV" , Gameplay: Fortnite
+https://i.mjh.nz/PlutoTV/5f5bd769ccef5c000781c342-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-605e479d5b8229000763e697" tvg-id="605e479d5b8229000763e697" tvg-chno="2850" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" group-title="Pluto TV" ,US | Sony Canal Escape Perfecto
+https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60492b2794116800073e32dc" tvg-id="60492b2794116800073e32dc" tvg-chno="2960" tvg-logo="https://images.pluto.tv/channels/60492b2794116800073e32dc/colorLogoPNG.png" group-title="Pluto TV" , Hell's Kitchen en español
+https://i.mjh.nz/PlutoTV/60492b2794116800073e32dc-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Pluto TV Kids" , Bob Esponja Pantalones Cuadrados
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
 
-#EXTINF:-1 channel-id="pluto-6322099c822bbc00074857db" tvg-id="6322099c822bbc00074857db" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="Pluto TV" , Los Padrinos Mágicos
+#EXTINF:-1 channel-id="pluto-6322099c822bbc00074857db" tvg-id="6322099c822bbc00074857db" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="Pluto TV Kids" , Los Padrinos Mágicos
 https://i.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
 
 
-#EXTINF:-1 channel-id="pluto-63dd5d7a4e83e700088fbca8" tvg-id="63dd5d7a4e83e700088fbca8" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="Pluto TV" , Las Tortugas Ninja
+#EXTINF:-1 channel-id="pluto-63dd5d7a4e83e700088fbca8" tvg-id="63dd5d7a4e83e700088fbca8" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="Pluto TV Kids" , Las Tortugas Ninja
 https://i.mjh.nz/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
 
 
-#EXTINF:-1 channel-id="pluto-5ddd7c348520b40009c347e2" tvg-id="5ddd7c348520b40009c347e2" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Pluto TV" , Nick Clásico
+#EXTINF:-1 channel-id="pluto-5ddd7c348520b40009c347e2" tvg-id="5ddd7c348520b40009c347e2" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Pluto TV Kids" , Nick Clásico
 https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
 
 
-#EXTINF:-1 channel-id="pluto-5ea7215005d66d0007e8128a" tvg-id="5ea7215005d66d0007e8128a" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Pluto TV" , Rugrats
+#EXTINF:-1 channel-id="pluto-5ea7215005d66d0007e8128a" tvg-id="5ea7215005d66d0007e8128a" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Pluto TV Kids" , Rugrats
 https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
 
 
-#EXTINF:-1 channel-id="pluto-6202ab549654c800076ee13f" tvg-id="6202ab549654c800076ee13f" tvg-chno="733" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="Pluto TV" , Nickelodeon Rocket Power
+#EXTINF:-1 channel-id="pluto-6202ab549654c800076ee13f" tvg-id="6202ab549654c800076ee13f" tvg-chno="733" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="Pluto TV Kids" , Nickelodeon Rocket Power
 https://i.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
 
 
