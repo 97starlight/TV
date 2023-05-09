@@ -319,8 +319,6 @@ https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-espn-premium.png" group-title="Deportes", ESPN Premium 
-https://cotesma02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
 #EXTINF: -1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png" group-title="Deportes", City Sports TV
