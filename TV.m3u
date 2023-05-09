@@ -75,9 +75,14 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Entretenimiento",ViX: Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF: -1 group-title="Entretenimiento", Investigation Discovery 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="Entretenimiento ",Investigation Discovery
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=796223947&_cdn_timestamp=1683979141&_cdn_token=089601d557a83f8ad51e87e16a54a85850133367
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Entretenimiento ",A&E
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=796224171&_cdn_timestamp=1683979147&_cdn_token=f55849e409fd86dd60f9bf9df70a92d160d7464e
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="Entretenimiento", AXN
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=796225179&_cdn_timestamp=1683979182&_cdn_token=278ceed9e0825df8540fe34f4ee83ddd529942c5
 
 
 
