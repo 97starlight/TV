@@ -344,27 +344,20 @@ https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
 #EXTINF: -1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png" group-title="Deportes", City Sports TV
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8  
 
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="Deportes", Ciudad Mágica TV  
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
-
 
 #EXTINF: -1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="Deportes", NEO TV Digital 16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="Deportes", Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports.png" group-title="Deportes",TyC Sports 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports-int.png" group-title="Deportes",TyC Sports Internacional
 http://186.96.111.23:8000/play/a016
-
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="Deportes", DIRECTV Sports
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
@@ -417,6 +410,21 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 
 #EXTINF: -1 group-title="Deportes",MX | FS Premium
 http://45.190.13.50:8002/play/a002/index.m3u8
+
+#EXTINF:-1  group-title="Deportes",AR | ESPN
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=776006443&_cdn_timestamp=1683438872&_cdn_token=6f3a71e50c8c0ca7d548bfa966fcdba3ee08b5f1
+
+#EXTINF:-1  group-title="Deportes",AR | ESPN 2
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=776006571&_cdn_timestamp=1683438879&_cdn_token=06fbe713d1bc4b6622dc7b3b5a802ad6fcac3fc3
+
+#EXTINF:-1  group-title="Deportes",AR | ESPN 3
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=776006867&_cdn_timestamp=1683438894&_cdn_token=df87fc051feba87d84871a48b588fe7ff4d15199
+
+#EXTINF:-1  group-title="Deportes",AR | ESPN 4
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=776007163&_cdn_timestamp=1683438907&_cdn_token=9ed0d4bfeed0ed74620636ec81d0bad6f330c693
+
+#EXTINF:-1  group-title="Deportes",AR | ESPN Extra
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPNMAS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPNMAS2_stream_l4&_cdn_session=767036419&_cdn_timestamp=1683210090&_cdn_token=a31918a8d87f7cc4ed4f9dadc648d71ec75c0d09
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Deportes",Pluto TV: La Liga Premier Paramount+
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
