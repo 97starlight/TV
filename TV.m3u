@@ -75,6 +75,9 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Entretenimiento",ViX: Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
+#EXTINF:-1 channel-id="pluto-605e479d5b8229000763e697" tvg-id="605e479d5b8229000763e697" tvg-chno="2850" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" group-title="Entretenimiento" ,US | Sony Canal Escape Perfecto
+https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
+
 
 
 
@@ -176,12 +179,11 @@ https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.io/UKMR625_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Música",Dance TV
 https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
 
-#EXTINF: -1 tvg-id="PlutoTVMTVEnVivo.us" tvg-name="Pluto TV MTV En Vivo" tvg-logo="https://i.imgur.io/Dvr5KFa_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Música",Pluto TV: MTV En Vivo
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6130d6f3f3f7bb0007dbd092/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 channel-id="pluto-6130d6f3f3f7bb0007dbd092" tvg-id="6130d6f3f3f7bb0007dbd092" tvg-chno="604" tvg-logo="https://images.pluto.tv/channels/6130d6f3f3f7bb0007dbd092/colorLogoPNG.png" group-title="Música" ,ES | MTV En Vivo
+https://i.mjh.nz/PlutoTV/6130d6f3f3f7bb0007dbd092-alt.m3u8
 
-
-#EXTINF: -1 tvg-id="PlutoTVMTVLatino.us" tvg-name="Pluto TV: MTV Latino" tvg-logo="https://i.imgur.io/mioQAZS_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Música",Pluto TV: MTV Latino
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
+#EXTINF:-1 channel-id="pluto-5cf96d351652631e36d4331f" tvg-id="5cf96d351652631e36d4331f" tvg-chno="2845" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG-1641928405432.png" group-title="Música" , MTV en español
+https://i.mjh.nz/PlutoTV/5cf96d351652631e36d4331f-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5d14fc31252d35decbc4080b" tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Música" , Yo! MTV
 https://i.mjh.nz/PlutoTV/5d14fc31252d35decbc4080b-alt.m3u8
@@ -206,6 +208,9 @@ https://i.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Música",MTV HD
 http://45.5.118.226:8000/play/a0gm/index.m3u8
+
+#EXTINF:-1 channel-id="pluto-62ac44b44f1912000705274c" tvg-id="62ac44b44f1912000705274c" tvg-chno="854" tvg-logo="https://images.pluto.tv/channels/62ac44b44f1912000705274c/colorLogoPNG.png" group-title="Música" ,UK | MTV Queens of Pop
+https://i.mjh.nz/PlutoTV/62ac44b44f1912000705274c-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Música" ,MX | Conciertos por Stingray
 https://i.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
