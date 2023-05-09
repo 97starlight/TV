@@ -416,6 +416,9 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 #EXTINF: -1 group-title="Deportes",MX | FS Premium
 http://45.190.13.50:8002/play/a002/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/250px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Deportes", LaLigaTV por M+
+http://45.5.118.226:8000/play/a051/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Deportes",Pluto TV: La Liga Premier Paramount+
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 
