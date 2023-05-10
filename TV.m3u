@@ -57,7 +57,7 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 http://45.190.13.50:8002/play/a00u/index.m3u8
 
 #EXTINF:-1 group-title="EEUU/MX", Telemundo 
-https://cdn.sportcast.life/nginx.php?id=131
+https://ddy1.salamus1.lol/ddy1/premium131/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/telemundo-intl.png" group-title="EEUU/MX",AR | Telemundo Internacional
 https://router.cdn.rcs.net.ar/mnp/telemundo/output.mpd
