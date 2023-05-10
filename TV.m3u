@@ -70,13 +70,13 @@ http://45.190.13.50:8002/play/a00u/index.m3u8
 #EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/telemundo-intl.png" group-title="EEUU/MX",AR | Telemundo Internacional
 https://router.cdn.rcs.net.ar/mnp/telemundo/output.mpd
 
-#EXTINF: -1 tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/las-estrellas-mx.png" group-title="EEUU/MX",MX | Las Estrellas
+#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/las-estrellas-mx.png" group-title="EEUU/MX",MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
-#EXTINF: -1 tvg-name="Las Estrellas Latinoamérica" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/las-estrellas-latam.png" group-title="EEUU/MX",Las Estrellas (Latinoamérica)
+#EXTINF: -1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/las-estrellas-latam.png" group-title="EEUU/MX",Las Estrellas (Latinoamérica)
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="EEUU/MX",Univision (Latinoamérica)
+#EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="EEUU/MX",Univision (Latinoamérica)
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="EEUU/MX",Pasiones
@@ -108,11 +108,11 @@ https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 
 
 
-#EXTINF: -1 tvg-name="Cuatro" tvg-logo="https://i.imgur.io/NYLnABb_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="C-TV",Cuatro
+#EXTINF: -1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://i.imgur.io/NYLnABb_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="C-TV",Cuatro
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
 
-#EXTINF: -1 tvg-name="Antena 3" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.Antena3-vect17.png.f837b89f65cce788ce97bd37b4d45910.png" group-title="C-TV",Antena 3
+#EXTINF: -1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.Antena3-vect17.png.f837b89f65cce788ce97bd37b4d45910.png" group-title="C-TV",Antena 3
 https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 
 
@@ -125,10 +125,10 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="C-TV",ViX: Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="C-TV",Investigation Discovery
+#EXTINF:-1 tvg-id="InvestigationDiscoveryMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="C-TV",Investigation Discovery
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=796223947&_cdn_timestamp=1683979141&_cdn_token=089601d557a83f8ad51e87e16a54a85850133367
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ae.png" group-title="C-TV",A&E
+#EXTINF:-1 tvg-id="AEChile.cl" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ae.png" group-title="C-TV",A&E
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=796224171&_cdn_timestamp=1683979147&_cdn_token=f55849e409fd86dd60f9bf9df70a92d160d7464e
 
 #EXTINF:-1 tvg-id="AXNChile.cl" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/axn.png" group-title="C-TV", AXN
