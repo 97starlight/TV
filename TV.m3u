@@ -2,6 +2,74 @@
 
 
 
+#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-ocho-tv.png" group-title="AR-TV",El Ocho TV (Tucumán)
+https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
+
+#EXTINF: -1 tvg-id="Telefehttps://gatotv.com" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-telefe-1.png" group-title="AR-TV",Telefe
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png" group-title="AR-TV", eltrece internacional
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=788289051&_cdn_timestamp=1683755971&_cdn_token=0c107c0739163654b2667aee51d4301c7696c5d3
+
+#EXTINF:-1 tvg-name="El Trece op 2" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-trece-2.png" group-title="AR-TV",El Trece (op 2)
+https://cotesma02.cdn.rcs.net.ar/mnp/el13/output.mpd 
+
+
+#EXTINF: -1 tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-nueve.png" group-title="AR-TV",elnueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+
+
+#EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-net-tv.png" group-title="AR-TV",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+
+#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-america-2.png" group-title="AR-TV",America TV
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+
+
+#EXTINF: -1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://i.imgur.io/vFwPhPS_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="AR-TV",TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+
+#EXTINF: -1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-a24.png" group-title="AR-TV",A24
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+
+#EXTINF: -1 #EXTINF: -1 tvg-id="AmericaTucuman.ar" tvg-name="América Tucumán" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-america-tucuman.png" group-title="AR-TV",América Tucumán
+https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+
+
+#EXTINF: -1 tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-canal-26.png" group-title="AR-TV",Canal 26
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+
+
+#EXTINF: -1 tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-cronica.png" group-title="AR-TV",Cronica TV
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+
+
+#EXTINF: -1 tvg-id="IPNoticias.ar" tvg-name="IP Noticias" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_03/large.imagen_2023-03-21_001530950-modified.png.114408377875a9a7e8aa5b67ba71ddeb.png" group-title="AR-TV",IP Noticias
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
+
+#EXTINF: -1 tvg-id="LaNacionPlus.ar" tvg-name="La Nación +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="AR-TV",La Nación +
+https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
+
+
+#EXTINF: -1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tvp.png" group-title="AR-TV",TV Pública
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
+
+#EXTINF: -1 tvg-name="Canal 8 Mar del Plata (Telefe)" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-canal-8-mdp.png" group-title="AR-TV",Canal 8 Mar del Plata (Telefe)
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+
+
+
+
+
+
 #EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/04/Logo-Telemundo-rojo.png" group-title="EEUU/MX",Telemundo Miami
 http://45.190.13.50:8002/play/a00u/index.m3u8
 
@@ -98,75 +166,6 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="C-TV",TLC
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TLC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=796243739&_cdn_timestamp=1683979731&_cdn_token=f7848c8356ab0dc86a1820f70355b8b6509e763b
-
-
-
-
-
-
-#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-ocho-tv.png" group-title="AR-TV",El Ocho TV (Tucumán)
-https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
-
-#EXTINF: -1 tvg-id="Telefehttps://gatotv.com" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-telefe-1.png" group-title="AR-TV",Telefe
-https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-
-#EXTINF:-1 tvg-name="El Trece" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Isotipo_eltrece_2016.png/120px-Isotipo_eltrece_2016.png" group-title="AR-TV", eltrece internacional
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=788289051&_cdn_timestamp=1683755971&_cdn_token=0c107c0739163654b2667aee51d4301c7696c5d3
-
-#EXTINF:-1 tvg-name="El Trece op 2" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-trece-2.png" group-title="AR-TV",El Trece (op 2)
-https://cotesma02.cdn.rcs.net.ar/mnp/el13/output.mpd 
-
-
-#EXTINF: -1 tvg-name="El Nueve" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-nueve.png" group-title="AR-TV",elnueve
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-
-
-#EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-net-tv.png" group-title="AR-TV",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-
-#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-america-2.png" group-title="AR-TV",America TV
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
-
-
-#EXTINF: -1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://i.imgur.io/vFwPhPS_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="AR-TV",TN
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
-
-#EXTINF: -1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-a24.png" group-title="AR-TV",A24
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
-
-
-#EXTINF: -1 #EXTINF: -1 tvg-id="AmericaTucuman.ar" tvg-name="América Tucumán" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-america-tucuman.png" group-title="AR-TV",América Tucumán
-https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-
-
-#EXTINF: -1 tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-canal-26.png" group-title="AR-TV",Canal 26
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-
-
-#EXTINF: -1 tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-cronica.png" group-title="AR-TV",Cronica TV
-https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
-
-
-#EXTINF: -1 tvg-id="IPNoticias.ar" tvg-name="IP Noticias" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_03/large.imagen_2023-03-21_001530950-modified.png.114408377875a9a7e8aa5b67ba71ddeb.png" group-title="AR-TV",IP Noticias
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-
-
-#EXTINF: -1 tvg-id="LaNacionPlus.ar" tvg-name="La Nación +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="AR-TV",La Nación +
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-
-
-#EXTINF: -1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tvp.png" group-title="AR-TV",TV Pública
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-
-
-#EXTINF: -1 tvg-name="Canal 8 Mar del Plata (Telefe)" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-canal-8-mdp.png" group-title="AR-TV",Canal 8 Mar del Plata (Telefe)
-https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
-
 
 
 
