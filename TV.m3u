@@ -131,7 +131,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ae.png" group-title="C-TV",A&E
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=796224171&_cdn_timestamp=1683979147&_cdn_token=f55849e409fd86dd60f9bf9df70a92d160d7464e
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/axn.png" group-title="C-TV", AXN
+#EXTINF:-1 tvg-id="AXNChile.cl" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/axn.png" group-title="C-TV", AXN
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=796225179&_cdn_timestamp=1683979182&_cdn_token=278ceed9e0825df8540fe34f4ee83ddd529942c5
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/167px-Universal_TV_logo.svg.png" group-title="C-TV",Universal TV
