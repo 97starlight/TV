@@ -15,46 +15,35 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-me
 #EXTINF: -1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-nueve.png" group-title="AR-TV",elnueve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
-
 #EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-net-tv.png" group-title="AR-TV",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
 
 #EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-america-2.png" group-title="AR-TV",America TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
-
 #EXTINF: -1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://i.imgur.io/vFwPhPS_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="AR-TV",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
 
 #EXTINF: -1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-a24.png" group-title="AR-TV",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
-
 #EXTINF: -1 #EXTINF: -1 tvg-id="AmericaTucuman.ar" tvg-name="América Tucumán" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-america-tucuman.png" group-title="AR-TV",América Tucumán
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
-
 
 #EXTINF: -1 tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-canal-26.png" group-title="AR-TV",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
-
 #EXTINF: -1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-cronica.png" group-title="AR-TV",Cronica TV
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
-
 
 #EXTINF: -1 tvg-id="IPNoticias.ar" tvg-name="IP Noticias" tvg-logo="https://www.foromedios.com/uploads/monthly_2023_03/large.imagen_2023-03-21_001530950-modified.png.114408377875a9a7e8aa5b67ba71ddeb.png" group-title="AR-TV",IP Noticias
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
-
 #EXTINF: -1 tvg-id="LaNacionPlus.ar" tvg-name="La Nación +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="AR-TV",La Nación +
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
-
 #EXTINF: -1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tvp.png" group-title="AR-TV",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-
 
 #EXTINF: -1 tvg-name="Canal 8 Mar del Plata (Telefe)" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-canal-8-mdp.png" group-title="AR-TV",Canal 8 Mar del Plata (Telefe)
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
@@ -79,8 +68,8 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="EEUU/MX",Univision (Latinoamérica)
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://latam.tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png" group-title="EEUU/MX",Pasiones
-http://181.189.243.254:8000/play/a0td/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="EEUU/MX",Pasiones
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=796221107&_cdn_timestamp=1683979063&_cdn_token=e2bb2ec318ff1aa447442c90d600e74515a4206a
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=750" group-title="EEUU/MX",Vix: Como dice el dicho
 https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
@@ -248,6 +237,21 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TELEHITLATINO/20-hls/live-med
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Telehit_M%C3%BAsica_logo.png/145px-Telehit_M%C3%BAsica_logo.png" group-title="Música", Telehit Música
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEHITMUSICA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEHITMUSICA_stream_21&_cdn_session=796256699&_cdn_timestamp=1683980134&_cdn_token=3e1ed2308c405b37d0d4d735f0657eb72b981ea0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/125px-MTV-2021.svg.png" group-title="Música",MTV
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/MTV/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DMTV_stream_3f&_cdn_session=796253419&_cdn_timestamp=1683980033&_cdn_token=2d09ca476fa3973ac6fc5dafc8510e25935b02f4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.sincroguia.tv/uploads/images/5/4/z/xmtv-80.jpg.pagespeed.ic.iXMVwGV__4.jpg" group-title="Música",MTV 80s
+http://181.189.243.254:8000/play/a0po/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/150px-MTV_00s_remaster.png" group-title="Música",MTV 00s
+http://181.189.243.254:8000/play/a0sw/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/125px-MTV_Hits_2021.svg.png" group-title="Música",MTV Hits
+http://181.189.243.254:8000/play/a0pn/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Música",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
 
 #EXTINF:-1 channel-id="pluto-5f32f26bcd8aea00071240e5" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Música" , Vevo '70s
 https://i.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8
