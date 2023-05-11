@@ -141,47 +141,50 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6231ede1be5b460007f91b
 
 
 
-#EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/04/Logo-Telemundo-rojo.png" group-title="EEUU/MX",Telemundo Miami
+#EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/04/Logo-Telemundo-rojo.png" group-title="EEUU-MX",Telemundo Miami
 http://45.190.13.50:8002/play/a00u/index.m3u8
 
-#EXTINF:-1 group-title="EEUU/MX", Telemundo 
+#EXTINF:-1 group-title="EEUU-MX", Telemundo 
 https://ddy1.salamus1.lol/ddy1/premium131/playlist.m3u8
 
-#EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/telemundo-intl.png" group-title="EEUU/MX",AR | Telemundo Internacional
+#EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/telemundo-intl.png" group-title="EEUU-MX",AR | Telemundo Internacional
 https://router.cdn.rcs.net.ar/mnp/telemundo/output.mpd
 
-#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/las-estrellas-mx.png" group-title="EEUU/MX",MX | Las Estrellas
+#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/las-estrellas-mx.png" group-title="EEUU-MX",MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
-#EXTINF: -1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/las-estrellas-latam.png" group-title="EEUU/MX",Las Estrellas (Latinoamérica)
+#EXTINF: -1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/las-estrellas-latam.png" group-title="EEUU-MX",Las Estrellas (Latinoamérica)
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
-#EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="EEUU/MX",Univision (Latinoamérica)
+#EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="EEUU-MX",Univision (Latinoamérica)
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="EEUU/MX",Pasiones
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQgm8S3Mil5Ktp0FUdBBNl7hfDdzPq3eIrNKWgy=s900-c-k-c0x00ffffff-no-rj" group-title="EEUU-MX",Pasiones
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=796221107&_cdn_timestamp=1683979063&_cdn_token=e2bb2ec318ff1aa447442c90d600e74515a4206a
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=750" group-title="EEUU/MX",Vix: Como dice el dicho
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=750" group-title="EEUU-MX",Vix: Como dice el dicho
 https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=750" group-title="EEUU/MX",Vix: La Rosa de Guadalupe
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=750" group-title="EEUU-MX",Vix: La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="EEUU/MX",Vix: Videos Chistosos 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="EEUU-MX",Vix: Videos Chistosos 
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" group-title="EEUU/MX",MX | N+ Media
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" group-title="EEUU-MX",MX | N+ Media
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="EEUU/MX",EEUU | ESTRELLA TV
+#EXTINF:-1 group-title="EEUU-MX",EEUU | ESTRELLA TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="EEUU/MX",MX | FORO TV
+#EXTINF:-1 group-title="EEUU-MX",MX | FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="EEUU/MX",N+ Las Estrellas 
+#EXTINF:-1 tvg-logo="" group-title="EEUU-MX",N+ Las Estrellas 
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3n3cqN/estrellatv.jpg" group-title="EEUU-MX",MX | ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 
 
