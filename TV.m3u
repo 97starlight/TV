@@ -54,6 +54,9 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF: -1 tvg-name="Canal 8 Mar del Plata (Telefe)" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-canal-8-mdp.png" group-title="AR-TV",Canal 8 Mar del Plata (Telefe)
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/gnpgx7YYP2NfIXXkc11ejmyH4gFJmgAz69TQ1h94TWuxPAS_Qv8c_n_6k7NLtreFCqheZNxW=s176-c-k-c0x00ffffff-no-rj" group-title="AR-TV ",LAT | DNEWS
+https://ythls.onrender.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
+
 
 
 
