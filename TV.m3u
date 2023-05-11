@@ -541,13 +541,14 @@ https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
 #EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Pluto TV" , NCIS
 https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
-
 #EXTINF:-1 channel-id="pluto-631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="Pluto TV" , Hechizada
 https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
 
-
 #EXTINF:-1 channel-id="pluto-588128d17d64bc0d0f385c34" tvg-id="588128d17d64bc0d0f385c34" tvg-logo="https://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="Pluto TV" ,US | Fear Factor
 https://i.mjh.nz/PlutoTV/588128d17d64bc0d0f385c34-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-627d355aa95efd00077afcc7" tvg-id="627d355aa95efd00077afcc7" tvg-chno="837" tvg-logo="https://images.pluto.tv/channels/627d355aa95efd00077afcc7/colorLogoPNG.png" group-title="Pluto TV" ,US | Cheaters
+https://i.mjh.nz/PlutoTV/627d355aa95efd00077afcc7-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-60492a9bbca75b0007b1bfd5" tvg-id="60492a9bbca75b0007b1bfd5" tvg-chno="2995" tvg-logo="https://images.pluto.tv/channels/60492a9bbca75b0007b1bfd5/colorLogoPNG.png" group-title="Pluto TV" , Mundo paranormal
 https://i.mjh.nz/PlutoTV/60492a9bbca75b0007b1bfd5-alt.m3u8
