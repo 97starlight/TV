@@ -210,6 +210,9 @@ https://i.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62444f34ea3ade0007ade6ac" tvg-id="62444f34ea3ade0007ade6ac" tvg-logo="https://images.pluto.tv/channels/62444f34ea3ade0007ade6ac/colorLogoPNG.png" group-title="Música" , MTV Urban Music
 https://i.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-5de91b7ea86ee60009d89e75" tvg-id="5de91b7ea86ee60009d89e75" tvg-chno="157" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG-1677602317994.png" group-title="Música" , MTV Classic
+https://i.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
+
 #EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Música",MTV HD
 http://45.5.118.226:8000/play/a0gm/index.m3u8
 
@@ -579,6 +582,9 @@ https://i.mjh.nz/PlutoTV/5ea71d48af1d0b0007d837f4-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f610042272f68000867685b" tvg-id="5f610042272f68000867685b" tvg-logo="https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png" group-title="Pluto TV" , Misterios sin Resolver
 https://i.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-5e98a911c881310007d7aae2" tvg-id="5e98a911c881310007d7aae2" tvg-chno="160" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png" group-title="Pluto TV" , MTV Ridiculousness
+https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-5ebaccf1734aaf0007142c86" tvg-id="5ebaccf1734aaf0007142c86" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Pluto TV" , FailArmy
 https://i.mjh.nz/PlutoTV/5ebaccf1734aaf0007142c86-alt.m3u8
 
@@ -622,6 +628,9 @@ https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-6202ab549654c800076ee13f" tvg-id="6202ab549654c800076ee13f" tvg-chno="733" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="Pluto TV Kids" , Nickelodeon Rocket Power
 https://i.mjh.nz/PlutoTV/6202ab549654c800076ee13f-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60142258a54aeb0007751c15" tvg-id="60142258a54aeb0007751c15" tvg-chno="109" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="Pluto TV Kids" , Pluto TV Retro Cartoons
+https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
 
 
