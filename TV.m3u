@@ -85,14 +85,14 @@ https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=750" group-title="EEUU-MX",Vix: La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
+#EXTINF:-1 channel-id="pluto-60d393e5579a420007ee553c" tvg-id="60d393e5579a420007ee553c" tvg-chno="2925" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="EEUU-MX" , Casos de la Dra. Polo
+https://i.mjh.nz/PlutoTV/60d393e5579a420007ee553c-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="EEUU-MX",Vix: Videos Chistosos 
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="EEUU-MX",EEUU | ESTRELLA TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="EEUU-MX",MX | FORO TV
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S3n3cqN/estrellatv.jpg" group-title="EEUU-MX",MX | ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
@@ -116,6 +116,9 @@ https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS-INTL-TV", Noticiero Univision 
 https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="EEUU-MX",MX | FORO TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NEWS-INTL-TV",VE | TELESUR  25.4
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8  
@@ -622,23 +625,17 @@ https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 channel-id="pluto-604928d54a4f730007ff76bc" tvg-id="604928d54a4f730007ff76bc" tvg-logo="https://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="Pluto TV" , CSI en Español
 https://i.mjh.nz/PlutoTV/604928d54a4f730007ff76bc-alt.m3u8
 
-
 #EXTINF:-1 channel-id="pluto-632b5950b515b000079e6b81" tvg-id="632b5950b515b000079e6b81" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG.png" group-title="Pluto TV" , CSI: Miami en Español
 https://i.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8
 
-
 #EXTINF:-1 channel-id="pluto-632b606e12a67b0007c9e371" tvg-id="632b606e12a67b0007c9e371" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG.png" group-title="Pluto TV" , CSI: NY en Español
 https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
-
 
 #EXTINF:-1 channel-id="pluto-63eb947c4e83e70008ab877b" tvg-id="63eb947c4e83e70008ab877b" tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="Pluto TV" , NCIS
 https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-631fb6be21b7440007b9f606" tvg-id="631fb6be21b7440007b9f606" tvg-logo="https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png" group-title="Pluto TV" , Hechizada
 https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60d393e5579a420007ee553c" tvg-id="60d393e5579a420007ee553c" tvg-chno="2925" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="Pluto TV" , Casos de la Dra. Polo
-https://i.mjh.nz/PlutoTV/60d393e5579a420007ee553c-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-588128d17d64bc0d0f385c34" tvg-id="588128d17d64bc0d0f385c34" tvg-logo="https://images.pluto.tv/channels/588128d17d64bc0d0f385c34/colorLogoPNG.png" group-title="Pluto TV" ,US | Fear Factor
 https://i.mjh.nz/PlutoTV/588128d17d64bc0d0f385c34-alt.m3u8
