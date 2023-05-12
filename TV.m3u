@@ -284,7 +284,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="C-TV",TLC
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TLC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=796243739&_cdn_timestamp=1683979731&_cdn_token=f7848c8356ab0dc86a1820f70355b8b6509e763b
 
-#EXTINF:-1 tvg-id="" tvg-name="ES | AXN Movies" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SET" group-title="C-TV",ES | AXN White
+#EXTINF:-1 tvg-id="" tvg-name="ES | AXN Movies" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SET" group-title="C-TV",ES | AXN Movies
 http://51.91.8.161:18000/AXN_White/hls/playlist.m3u8
 
 
