@@ -12,9 +12,6 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece (op 2)
-https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
-
 #EXTINF:-1 tvg-id="ElTreceInternacionalLatinAmerica.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-el-trece-2.png" group-title="AR-TV", eltrece internacional
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TRECEARGENTINA/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRECEARGENTINA_stream_e4&_cdn_session=796275515&_cdn_timestamp=1683980679&_cdn_token=49aefcc49c40bfc85e00ce6a7553f810ac38d413
 
@@ -226,8 +223,6 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CNBC/40-hls/live-media.m3u8?_
 #EXTINF:-1 tvg-id="USA | Fox News Channel" tvg-name="USA | Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/120px-Fox_News_Channel_logo.svg.png" group-title="NEWS-INTL-TV ",USA | Fox News Channel
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXNEWS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXNEWS_stream_kw&_cdn_session=807367019&_cdn_timestamp=1684303899&_cdn_token=e15aac6f386fa648825087f491f9bc4f03cd01d2
 
-#EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="NEWS-INTL-TV",CL | Canal 24 Horas
-https://marine2.miplay.cl/24horas/playlist.m3u8
 
 
 
