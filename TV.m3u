@@ -60,42 +60,48 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 
 
-#EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/04/Logo-Telemundo-rojo.png" group-title="EEUU-MX",Telemundo Miami
+#EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/04/Logo-Telemundo-rojo.png" group-title="Internacional",Telemundo Miami
 http://45.190.13.50:8002/play/a00u/index.m3u8
 
-#EXTINF:-1 group-title="EEUU-MX", Telemundo Tucson
+#EXTINF:-1 group-title="Internacional", Telemundo Tucson
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41875
 
-#EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/telemundo-intl.png" group-title="EEUU-MX",AR | Telemundo Internacional
+#EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/telemundo-intl.png" group-title="Internacional",AR | Telemundo Internacional
 http://190.60.39.62:8000/play/a02g
 
-#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/las-estrellas-mx.png" group-title="EEUU-MX",MX | Las Estrellas
+#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/las-estrellas-mx.png" group-title="Internacional",MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
-#EXTINF: -1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/las-estrellas-latam.png" group-title="EEUU-MX",Las Estrellas (Latinoamérica)
+#EXTINF: -1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/las-estrellas-latam.png" group-title="Internacional",Las Estrellas (Latinoamérica)
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
-#EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="EEUU-MX",Univision (Latinoamérica)
+#EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/929px-Logo_Univision_2019.svg.png" group-title="Internacional",Univision (Latinoamérica)
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=750" group-title="EEUU-MX",Vix: Como dice el dicho
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=750" group-title="Internacional",Vix: Como dice el dicho
 https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=750" group-title="EEUU-MX",Vix: La Rosa de Guadalupe
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=750" group-title="Internacional",Vix: La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="pluto-60d393e5579a420007ee553c" tvg-id="60d393e5579a420007ee553c" tvg-chno="2925" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="EEUU-MX" , Casos de la Dra. Polo
+#EXTINF:-1 channel-id="pluto-60d393e5579a420007ee553c" tvg-id="60d393e5579a420007ee553c" tvg-chno="2925" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="Internacional" , Casos de la Dra. Polo
 https://i.mjh.nz/PlutoTV/60d393e5579a420007ee553c-alt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="EEUU-MX",Vix: Videos Chistosos 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Internacional",Vix: Videos Chistosos 
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="EEUU-MX",EEUU | ESTRELLA TV
+#EXTINF:-1 group-title="Internacional",EEUU | ESTRELLA TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S3n3cqN/estrellatv.jpg" group-title="EEUU-MX",MX | ESTRELLA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3n3cqN/estrellatv.jpg" group-title="Internacional",MX | ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="Internacional", PE | Latina Televisión
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=801741779&_cdn_timestamp=1684128688&_cdn_token=926bfbb94d4ae7207c53230550e058fafb2b61a6
+
+#EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="Internacional", PE | América Televisión
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AMERIK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERIK_stream_s1&_cdn_session=801741475&_cdn_timestamp=1684128676&_cdn_token=6544c33d59a80cdfcc80f0b46ebe6bd359b46f36
 
 
 
@@ -254,7 +260,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="C-TV",TLC
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TLC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=796243739&_cdn_timestamp=1683979731&_cdn_token=f7848c8356ab0dc86a1820f70355b8b6509e763b
 
-#EXTINF:-1 tvg-id="" tvg-name="ES | AXN White" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SET" group-title="C-TV",ES | AXN White
+#EXTINF:-1 tvg-id="" tvg-name="ES | AXN Movies" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SET" group-title="C-TV",ES | AXN White
 http://51.91.8.161:18000/AXN_White/hls/playlist.m3u8
 
 
