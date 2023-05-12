@@ -220,6 +220,12 @@ http://181.189.243.254:8000/play/a0o7/index.m3u8
 #EXTINF:-1 tvg-id="UK | BBC World News" tvg-name="UK | BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="NEWS-INTL-TV", BBC World News
 http://181.189.243.254:8000/play/a0pt/index.m3u8
 
+#EXTINF:-1 tvg-id="USA | CNBC" tvg-name="USA | CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/125px-CNBC_logo.svg.png" group-title="NEWS-INTL-TV ", USA | CNBC
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CNBC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNBC_stream_0b&_cdn_session=807367835&_cdn_timestamp=1684303945&_cdn_token=e147202f8a4b1670b2bc6316a099096f3a619a8c
+
+#EXTINF:-1 tvg-id="USA | Fox News Channel" tvg-name="USA | Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/120px-Fox_News_Channel_logo.svg.png" group-title="NEWS-INTL-TV ",USA | Fox News Channel
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXNEWS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXNEWS_stream_kw&_cdn_session=807367019&_cdn_timestamp=1684303899&_cdn_token=e15aac6f386fa648825087f491f9bc4f03cd01d2
+
 #EXTINF:-1 tvg-id="CL | Canal 24 Horas" tvg-name="CL | Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logotipo_de_24_Horas_TVN.png/150px-Logotipo_de_24_Horas_TVN.png" group-title="NEWS-INTL-TV",CL | Canal 24 Horas
 https://marine2.miplay.cl/24horas/playlist.m3u8
 
