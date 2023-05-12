@@ -111,9 +111,11 @@ https://ythls.onrender.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS-INTL-TV",MX | N+ Las Estrellas 
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" group-title="EEUU-MX",MX | N+ Media
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" group-title="NEWS-INTL-TV",MX | N+ Media
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="NEWS-INTL-TV", Noticiero Univision 
+https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NEWS-INTL-TV",VE | TELESUR  25.4
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8  
