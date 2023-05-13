@@ -763,3 +763,11 @@ https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="otros",Tom y Jerry TV
 https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
+
+
+
+
+
+
+#EXTINF: 0 group-title="vídeo", ESDLC8
+https://ok6-8.vkuser.net/expires/1684040174256/srcIp/181.105.53.231/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/2/sig/pSas7CH9QN4/ct/8/urls/185.226.53.32%3B45.136.22.70/clientType/0/zs/43/id/4298201762338/video/
