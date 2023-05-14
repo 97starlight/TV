@@ -522,7 +522,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=796248659&_cdn_timestamp=1683979875&_cdn_token=36993769e3b0aaf88fe61bec673a683dd719fc22
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=796249691&_cdn_timestamp=1683979907&_cdn_token=b77305583ed6ab5db4cc48342258b25c5399d892
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=796249939&_cdn_timestamp=1683979914&_cdn_token=b852314a442f7d5464cede300518a135b4f1757d
@@ -560,11 +560,7 @@ http://190.119.178.46:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png" group-title="Deportes",DSports Fight
 http://190.119.178.46:8000/play/a036/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="Deportes", SSIPTV ARG SPORTS 
-https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="Deportes", SSIPTV ARG SPORTS 2
-https://stitcher.pluto.tv/stitch/hls/channel/63c6e37e636b7e0007ccb635/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=847de5e0-a85c-11ed-a617-56aedc2a3c0a
 
 
 
@@ -728,6 +724,11 @@ https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60492b2794116800073e32dc" tvg-id="60492b2794116800073e32dc" tvg-chno="2960" tvg-logo="https://images.pluto.tv/channels/60492b2794116800073e32dc/colorLogoPNG.png" group-title="Pluto TV" , Hell's Kitchen en español
 https://i.mjh.nz/PlutoTV/60492b2794116800073e32dc-alt.m3u8
 
+
+
+
+
+
 #EXTINF:-1 channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Pluto TV Kids" , Bob Esponja Pantalones Cuadrados
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
@@ -764,10 +765,3 @@ https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="otros",Tom y Jerry TV
 https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
 
-
-
-
-
-
-#EXTINF: 0 group-title="vídeo", ESDLC8
-https://ok6-8.vkuser.net/expires/1684040174256/srcIp/181.105.53.231/srcAg/CHROME_ANDROID/ms/95.142.206.135/type/2/sig/pSas7CH9QN4/ct/8/urls/185.226.53.32%3B45.136.22.70/clientType/0/zs/43/id/4298201762338/video/
