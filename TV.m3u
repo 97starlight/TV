@@ -246,7 +246,7 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cd
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=796224171&_cdn_timestamp=1683979147&_cdn_token=f55849e409fd86dd60f9bf9df70a92d160d7464e
 
 #EXTINF:-1 tvg-id="AXNSouth.us" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/axn.png" group-title="C-TV", AXN
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=796225179&_cdn_timestamp=1683979182&_cdn_token=278ceed9e0825df8540fe34f4ee83ddd529942c5
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AXN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=807310755&_cdn_timestamp=1684301475&_cdn_token=fe6b277bf22971e7956df7338bf0b12b91e8fac4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/universal-tv.png" group-title="C-TV",Universal TV
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=796232755&_cdn_timestamp=1683979412&_cdn_token=2c7a3c3d77b31641f77e60adf687e811f3a7f02c
