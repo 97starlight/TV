@@ -484,7 +484,7 @@ https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="Deportes",CO | ESPN
-http://181.78.21.60:16123/play/ch16
+http://181.78.27.188:5350/play/a00u
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
