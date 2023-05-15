@@ -3,6 +3,9 @@
 #EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV",El Ocho TV (Tucumán)
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxdS7xxY/620-c10tuc.png" group-title="AR-TV",Canal 10 (Tucumán)
+https://corsproxy.io/?http://heroem3u.epizy.com/embed/10tucuman/index.m3u8
+
 #EXTINF: -1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
