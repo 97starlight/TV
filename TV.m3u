@@ -264,14 +264,8 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/food.png" group-title="C-TV",Food Network
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=807344851&_cdn_timestamp=1684302876&_cdn_token=fe6513e3bac6cb1d6e3a317046f32d3bafba264d
 
-#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MUNDO-Y-SABOR-FONDO-2-300x169.jpg" group-title="C-TV",CL | Mundo & Sabor
-https://marine2.miplay.cl/mundoysabor/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/hgtv.png" group-title="C-TV",HGTV
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHGTV_stream_yy&_cdn_session=796241843&_cdn_timestamp=1683979674&_cdn_token=3d3e5c1868158315db492e394c92a23056455f0d
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/150px-TLC_Logo.svg.png" group-title="C-TV",TLC
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/TLC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=796243739&_cdn_timestamp=1683979731&_cdn_token=f7848c8356ab0dc86a1820f70355b8b6509e763b
 
 #EXTINF:-1 tvg-id="" tvg-name="ES | AXN Movies" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/axn-m.png" group-title="C-TV",ES | AXN Movies
 http://51.91.8.161:18000/AXN_White/hls/playlist.m3u8
