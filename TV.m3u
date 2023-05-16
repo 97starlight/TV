@@ -105,7 +105,8 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/k-d-drama.png" group-title="Internacional",TR | Kanal D Drama
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/KANALD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DKANALD_stream_b7&_cdn_session=807301779&_cdn_timestamp=1684301172&_cdn_token=49918c25fa36f06c60ef7bd060eed0d2d6d2b537
   
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/pasiones.png" group-title="Internacional",Pasiones  https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=796221107&_cdn_timestamp=1683979063&_cdn_token=e2bb2ec318ff1aa447442c90d600e74515a4206a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/pasiones.png" group-title="Internacional",Pasiones
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PASIONES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPASIONES_stream_42&_cdn_session=796221107&_cdn_timestamp=1683979063&_cdn_token=e2bb2ec318ff1aa447442c90d600e74515a4206a
 
 #EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/lat.png" group-title="Internacional", PE | Latina Televisión
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=801741779&_cdn_timestamp=1684128688&_cdn_token=926bfbb94d4ae7207c53230550e058fafb2b61a6
