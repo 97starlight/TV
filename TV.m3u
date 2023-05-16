@@ -469,8 +469,8 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports-int.png" group-title="Deportes",TyC Sports Internacional
 http://186.96.111.23:8000/play/a016
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-fox-sports.png" group-title="Deportes",AR | FOX Sports
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/85775.ts
+#EXTINF:-1 channel-id="pluto-63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e" tvg-chno="2140" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="Deportes",EEUU | CBS Sports: Golazo Network
+https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="Deportes",CO | ESPN
 http://181.78.27.188:5350/play/a00u
@@ -486,6 +486,12 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 
 #EXTINF: -1 group-title="Deportes",MX | FS Premium
 http://45.190.13.50:8002/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1630774881284653056/odLwe8be_400x400.jpg" group-title="EVENTOS DEPORTIVOS",MX | Claro Sports
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1630774881284653056/odLwe8be_400x400.jpg" group-title="EVENTOS DEPORTIVOS",MX | Claro Sports 2
+http://181.189.243.254:8000/play/a0on/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Deportes",Pluto TV: La Liga Premier Paramount+
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
