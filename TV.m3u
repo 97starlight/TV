@@ -447,8 +447,6 @@ https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
 
 
 
-
-
 #EXTINF: -1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png" group-title="Deportes", City Sports TV
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8  
 
@@ -467,16 +465,6 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports-int.png" group-title="Deportes",TyC Sports Internacional
 http://186.96.111.23:8000/play/a016
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="Deportes", DIRECTV Sports
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
-
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/612.png" group-title="Deportes", DIRECTV Sports 2
-http://168.228.194.32:58001/play/a0bb/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1613.png" group-title="Deportes", DIRECTV Sports +
-http://190.119.178.46:8000/play/a034/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-fox-sports.png" group-title="Deportes",AR | FOX Sports
 https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 
@@ -486,26 +474,8 @@ https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-fox-sports-3.png" group-title="Deportes",AR | FOX Sports 3
 https://cotesma02.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
-
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="Deportes",CO | ESPN
 http://181.78.27.188:5350/play/a00u
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/640px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
-http://181.78.21.60:16123/play/ch17
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
-http://181.78.21.60:16123/play/ch18
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/640px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
-http://181.78.21.60:16123/play/ch19
-
-
-#EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-logo="https://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Deportes",Pluto TV: CBS Sports
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 #EXTINF: -1 group-title="Deportes",MX | FOX Sports
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
@@ -518,15 +488,6 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 
 #EXTINF: -1 group-title="Deportes",MX | FS Premium
 http://45.190.13.50:8002/play/a002/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="Deportes", FOX Sports 2
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=796248387&_cdn_timestamp=1683979868&_cdn_token=b07be3a6c4b15ccf512ff60f6cdb80d68f7db143
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/180px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOX Sports 3
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=796248659&_cdn_timestamp=1683979875&_cdn_token=36993769e3b0aaf88fe61bec673a683dd719fc22
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="Deportes", ESPN
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=796249939&_cdn_timestamp=1683979914&_cdn_token=b852314a442f7d5464cede300518a135b4f1757d
@@ -551,18 +512,6 @@ https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-60492fdd9989d30007ccd30a" tvg-id="60492fdd9989d30007ccd30a" tvg-chno="3060" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="Deportes" , beIN SPORTS XTRA en español
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="Deportes",DSports
-http://190.119.178.46:8000/play/a032/index.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="Deportes",DSports 2
-http://190.119.178.46:8000/play/a033/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/DSportsM%C3%A1s.png/150px-DSportsM%C3%A1s.png" group-title="Deportes",DSports+
-http://190.119.178.46:8000/play/a034/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/s/dsports_fight.png" group-title="Deportes",DSports Fight
-http://190.119.178.46:8000/play/a036/index.m3u8
 
 
 
@@ -603,9 +552,9 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports Play", Eventos 11
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports Play", Eventos 12
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+
 
 
 
@@ -641,6 +590,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i43l93j.png" group-title="Paisajes", Waterfalls Live
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+
 
 
 
@@ -721,9 +671,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-naturetimeemea-sam
 
 #EXTINF:-1 channel-id="pluto-5f5bd769ccef5c000781c342" tvg-id="5f5bd769ccef5c000781c342" tvg-chno="2310" tvg-logo="https://images.pluto.tv/channels/5f5bd769ccef5c000781c342/colorLogoPNG.png" group-title="Pluto TV" , Gameplay: Fortnite
 https://i.mjh.nz/PlutoTV/5f5bd769ccef5c000781c342-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-605e479d5b8229000763e697" tvg-id="605e479d5b8229000763e697" tvg-chno="2850" tvg-logo="https://images.pluto.tv/channels/605e479d5b8229000763e697/colorLogoPNG.png" group-title="Pluto TV" ,US | Sony Canal Escape Perfecto
-https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-60492b2794116800073e32dc" tvg-id="60492b2794116800073e32dc" tvg-chno="2960" tvg-logo="https://images.pluto.tv/channels/60492b2794116800073e32dc/colorLogoPNG.png" group-title="Pluto TV" , Hell's Kitchen en español
 https://i.mjh.nz/PlutoTV/60492b2794116800073e32dc-alt.m3u8
