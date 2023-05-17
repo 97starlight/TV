@@ -111,6 +111,9 @@ http://45.190.13.50:8002/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Tucson
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41875
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Los Angeles 
+http://143.244.60.30/TELEMUNDO/index.m3u8
+
 #EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo-intl.png" group-title="Internacional",Telemundo Internacional
 http://190.60.39.62:8000/play/a02g
 
