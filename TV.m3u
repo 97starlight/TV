@@ -42,6 +42,12 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF: -1 #EXTINF: -1 tvg-id="AmericaTucuman.ar" tvg-name="América Tucumán" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-tucuman.png" group-title="AR-TV",América Tucumán
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-tA30i615UkGDDL-NfvfMx8eV0LqTj3ely88Ijg8LsKe-y7FelHARDgjOsSsgtgt5Gf8sGvG=s176-c-k-c0x00ffffff-no-rj" group-title="AR-TV", La Gaceta Play
+https://ythls.onrender.com/channel/UCowbI8idnvQTl2sFxkOvnKw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVf8U_uee51Cr3z2IH8oURHbelwriMa4mLE6Oj7g8U=s176-c-k-c0x00ffffff-no-rj" group-title="AR-TV", El Tucumano
+https://ythls.onrender.com/channel/UCZ5m5Pu2ysbLgWosT14eaVA.m3u8
+
 #EXTINF: -1 tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-canal-26.png" group-title="AR-TV",Canal 26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
@@ -53,12 +59,6 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 
 #EXTINF: -1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-tvp.png" group-title="AR-TV",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-tA30i615UkGDDL-NfvfMx8eV0LqTj3ely88Ijg8LsKe-y7FelHARDgjOsSsgtgt5Gf8sGvG=s176-c-k-c0x00ffffff-no-rj" group-title="AR-TV", La Gaceta Play
-https://ythls.onrender.com/channel/UCowbI8idnvQTl2sFxkOvnKw.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVf8U_uee51Cr3z2IH8oURHbelwriMa4mLE6Oj7g8U=s176-c-k-c0x00ffffff-no-rj" group-title="AR-TV", El Tucumano
-https://ythls.onrender.com/channel/UCZ5m5Pu2ysbLgWosT14eaVA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-kzo.png" group-title="AR-TV", KZO
 https://ythls.onrender.com/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
