@@ -111,7 +111,7 @@ http://45.190.13.50:8002/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Tucson
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41875
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Los Angeles 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional",Telemundo Los Angeles 
 http://143.244.60.30/TELEMUNDO/index.m3u8
 
 #EXTINF: -1 tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo-intl.png" group-title="Internacional",Telemundo Internacional
@@ -126,7 +126,7 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",Univision (Latinoamérica)
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
-#EXTINF: -1 tvg-id="Univision" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",Univision
+#EXTINF: -1 tvg-id="Univision" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",US | Univision
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25337
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/el-dicho.png" group-title="Internacional",Vix: Como dice el dicho
@@ -144,10 +144,10 @@ https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="Internacional",MX | Canal 5
 http://190.61.102.67:31589/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/estrella-tv.png" group-title="Internacional",EEUU | ESTRELLA TV (-3)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/estrella-tv.png" group-title="Internacional",US | ESTRELLA TV (-3)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="International",Imagen Televisión (HD)
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="Internacional",MX | Imagen Televisión
 http://190.61.102.67:31589/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/k-d-drama.png" group-title="Internacional",TR | Kanal D Drama
