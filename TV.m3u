@@ -746,3 +746,7 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/35022
 
 #EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="otros",Tom y Jerry TV
 https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
+
+
+#EXTINF: 2598, ESDLC8
+https://ok6-3.vkuser.net/expires/1684378699241/srcIp/181.105.53.231/srcAg/UNKNOWN/ms/95.142.206.130/type/2/sig/2P5VQXXAUJM/ct/8/urls/185.226.53.31%3B45.136.21.52/clientType/0/zs/43/id/4343406660130/video/
