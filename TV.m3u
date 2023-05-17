@@ -51,14 +51,14 @@ https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all
 #EXTINF: -1 tvg-id="IPNoticias.ar" tvg-name="IP Noticias" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-ip.png" group-title="AR-TV",IP Noticias
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
-#EXTINF: -1 tvg-id="LaNacionPlus.ar" tvg-name="La Nación +" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-lnmas.png" group-title="AR-TV",La Nación +
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-
 #EXTINF: -1 tvg-id="TVPublica.ar" tvg-name="TV Pública" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-tvp.png" group-title="AR-TV",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
-#EXTINF: -1 tvg-name="Canal 8 Mar del Plata (Telefe)" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-canal-8-mdp.png" group-title="AR-TV",Canal 8 Mar del Plata (Telefe)
-https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/-tA30i615UkGDDL-NfvfMx8eV0LqTj3ely88Ijg8LsKe-y7FelHARDgjOsSsgtgt5Gf8sGvG=s176-c-k-c0x00ffffff-no-rj" group-title="AR-TV", La Gaceta Play
+https://ythls.onrender.com/channel/UCowbI8idnvQTl2sFxkOvnKw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVf8U_uee51Cr3z2IH8oURHbelwriMa4mLE6Oj7g8U=s176-c-k-c0x00ffffff-no-rj" group-title="AR-TV", El Tucumano
+https://ythls.onrender.com/channel/UCZ5m5Pu2ysbLgWosT14eaVA.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-kzo.png" group-title="AR-TV", KZO
 https://ythls.onrender.com/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
