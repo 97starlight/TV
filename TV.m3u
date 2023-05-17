@@ -63,6 +63,43 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-kzo.png" group-title="AR-TV", KZO
 https://ythls.onrender.com/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 
+#EXTINF: -1 tvg-id="Vorterix.ar" tvg-name="Vorterix" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_04/large.934964214_Vorterix(6).png.6c3890b6eb92d15113bbf42b067e10b1.png" group-title="AR-Radio",Vorterix
+https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1569312379703365637/fdzc1Tzz_400x400.jpg" group-title="AR-Radio", Radio Mitre
+https://ythls.onrender.com/channel/UCYvINPByAdCcpA0sWrF3I_w.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/z5OyIisNuuoNMsoe5L13VtY2gEBqBLxr3Qz6XUpEyv35AKcU3MLBriN72R2XHFmK0Dn-Qkjfnvk=s176-c-k-c0x00ffffff-no-rj" group-title="AR-Radio", Radio10
+https://ythls.onrender.com/channel/UCJozD5RVug7EZdTjqkGISYQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ri85Tm-Yx-nQl9aGOgxyZ9mgvyhLpdowWdyNJPaI9xF0jtH1jbx-JKfK-3n24FB4z0ukjzzzF0A=s176-c-k-c0x00ffffff-no-rj" group-title="AR-Radio", El Destape Radio
+https://ythls.onrender.com/channel/UCgOvQwLB387CWMrseINhyCg.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNp-CKND2ESAca1fi_Od3bYcPW2lQx2kpnP-9Nj4w=s176-c-k-c0x00ffffff-no-rj" group-title="AR-Radio",Cadena 3
+https://ythls.onrender.com/channel/UCNxohbqfDp8YxW_Mji2XMHA.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wRy3AgzuKPU64ppne21ccwQU_TDcFwke4m3NRFw-1zdPgUjCBjlUoNmQDXJ5QgakwQ0tDKmC=s88-c-k-c0x00ffffff-no-rj" group-title="AR-Radio",Radio Rivadavia AM 630
+https://ythls.onrender.com/channel/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6KWGVTm/638-Continental.png" group-title="AR-Radio",Radio Continental AM 590
+https://ythls.onrender.com/channel/UC7fedBVCaVPhMNI_axwg69w.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="AR-Radio", La 100
+https://g4.mc-slo.transport.edge-access.net/a11/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://urbanaplayfm.com/file/2022/05/logo.png" group-title="AR-Radio", URBANA PLAY 104.3 FM 
+https://ythls.onrender.com/channel/UCC1kfsMJko54AqxtcFECt-A.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ph7cwkIc-kOD29JxD6Y6JNotUDTnHLBgulrJAkw_wNQz3QSevz9SF3zqxpHfudNzrpdYgEKsYyY=s176-c-k-c0x00ffffff-no-rj" group-title="AR-Radio", Radio One 103.7
+https://ythls.onrender.com/channel/UC8XExQXrgutNTcwfACp1Miw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rSv0hW7eUu6aPNfa4VjyafTcenzv2tf5n1gZf-vV_XmN0b7gLgECNc4Mh6qtSZgipRVJnjQ2=s176-c-k-c0x00ffffff-no-rj" group-title="AR-Radio", Rock And Pop
+https://ythls.onrender.com/channel/UCAlQ5f7mhnkfM6jjXeJDw7g.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MPGVFdswIwc8Fq8FtxsOCvlj1nSVpIta5nGP4AzA81mZtK2HiYC8Cz_uMZZTVIocNJLhaZ76dbQ=s88-c-k-c0x00ffffff-no-rj" group-title="AR-Radio", Pop Radio 101.5
+https://ythls.onrender.com/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
+
+
 
 
 
@@ -300,9 +337,6 @@ https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
 
 #EXTINF: -1 tvg-id="MusicTop.ar" tvg-name="MusicTop" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.2033856469_MusicTop(2020).png.46e944f5e47c956b015143efd5bc5723.png" group-title="Música",MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
-#EXTINF: -1 tvg-id="Vorterix.ar" tvg-name="Vorterix" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_04/large.934964214_Vorterix(6).png.6c3890b6eb92d15113bbf42b067e10b1.png" group-title="Música",Vorterix
-https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.io/UKMR625_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Música",Dance TV
 https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
