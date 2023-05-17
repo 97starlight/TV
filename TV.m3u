@@ -139,6 +139,9 @@ https://i.mjh.nz/PlutoTV/60d393e5579a420007ee553c-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="Internacional",Vix: Videos Chistosos 
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="Internacional",MX | Canal 5
+http://190.61.102.67:31589/play/a038/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/estrella-tv.png" group-title="Internacional",EEUU | ESTRELLA TV (-3)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
@@ -527,9 +530,6 @@ http://181.189.243.254:8000/play/a0on/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Deportes",Pluto TV: La Liga Premier Paramount+
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5ebc8688f3697d00072f7cf8" tvg-id="5ebc8688f3697d00072f7cf8" tvg-chno="2170" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Deportes" , Bellator MMA
-https://i.mjh.nz/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5df975e2b27cf5000921c102" tvg-id="5df975e2b27cf5000921c102" tvg-chno="2190" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Deportes" , beIN SPORTS XTRA
 https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 
@@ -613,6 +613,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i43l93j.png" group-title="Paisajes", Waterfalls Live
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+
+
 
 
 
