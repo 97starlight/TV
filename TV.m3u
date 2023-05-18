@@ -308,7 +308,7 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27969
 http://186.101.207.117:9955/play/a0bv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/universal-tv.png" group-title="C-TV",Universal TV
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=807331195&_cdn_timestamp=1684302272&_cdn_token=8c81c66042813fc7f745c791b4afc281a990cf61
+http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/universal-crime.png" group-title="C-TV", Universal Crime
 http://181.189.243.254:8000/play/a0t0/index.m3u8
@@ -321,9 +321,6 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27994
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/food.png" group-title="C-TV",Food Network
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=807344851&_cdn_timestamp=1684302876&_cdn_token=fe6513e3bac6cb1d6e3a317046f32d3bafba264d
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/hgtv.png" group-title="C-TV",HGTV
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/HGTV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHGTV_stream_yy&_cdn_session=796241843&_cdn_timestamp=1683979674&_cdn_token=3d3e5c1868158315db492e394c92a23056455f0d
 
 #EXTINF:-1 tvg-id="" tvg-name="ES | AXN Movies" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/axn-m.png" group-title="C-TV",ES | AXN Movies
 http://51.91.8.161:18000/AXN_White/hls/playlist.m3u8
