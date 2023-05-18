@@ -129,6 +129,9 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-id="Univision" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",US | Univision
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25337
 
+#EXTINF: -1 tvg-logo="" group-title="",MX | Unicable
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28043
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/el-dicho.png" group-title="Internacional",Vix: Como dice el dicho
 https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
 
