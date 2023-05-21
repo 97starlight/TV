@@ -290,7 +290,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/id.png" group-title="C-TV",Investigation Discovery
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27987
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=824730131&_cdn_timestamp=1684805446&_cdn_token=6af5ea4cc6f6a7b92669c0621d9c84713758ffbd
 
 #EXTINF:-1 tvg-id="AEChile.cl" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/ae.png" group-title="C-TV",A&E
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/27969
