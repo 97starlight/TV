@@ -99,6 +99,9 @@ https://ythls.onrender.com/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
 #EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional",Telemundo Miami
 http://45.190.13.50:8002/play/a00u/index.m3u8
 
+#EXTINF: -1 tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional",Telemundo 51
+http://nocable.cc:8080/Debra/Debra/56410
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Tucson
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41875
 
