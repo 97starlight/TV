@@ -99,9 +99,6 @@ https://ythls.onrender.com/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
 #EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional",Telemundo Miami
 http://45.190.13.50:8002/play/a00u/index.m3u8
 
-#EXTINF: -1 tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional",Telemundo 51
-http://nocable.cc:8080/Debra/Debra/56410
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Tucson
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41875
 
@@ -162,10 +159,11 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8
 #EXTINF: -1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/cuatro.png" group-title="C-TV",ES | Cuatro
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 
-
 #EXTINF: -1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/a3.png" group-title="C-TV",ES | Antena 3
 https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 
+#EXTINF: -1 tvg-id="Antena3.es" tvg-name="Mega" tvg-logo="" group-title="C-TV",ES | Mega
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden.png" group-title="C-TV",ViX: Golden Multiplex -1 hora
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
