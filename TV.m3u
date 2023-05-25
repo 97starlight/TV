@@ -132,14 +132,8 @@ http://190.61.102.67:31589/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/estrella-tv.png" group-title="Internacional",US | ESTRELLA TV (-3)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" group-title="Internacional",MX | Imagen Televisión
-http://190.61.102.67:31589/play/a00h/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/k-d-drama.png" group-title="Internacional",TR | Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/lat.png" group-title="Internacional", PE | Latina Televisión
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=819005595&_cdn_timestamp=1684641498&_cdn_token=0ea7613aa9686dd17ecf12251987184745f87ff2
 
 
 
@@ -540,9 +534,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9d
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png" group-title="NEWS-INTL-TV",US | CBS News
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6231ede1be5b460007f91bc1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="CO | Noticias Caracol" tvg-name="CO | Noticias Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Noticias_Caracol_imagotype.svg/150px-Noticias_Caracol_imagotype.svg.png" group-title="NEWS-INTL-TV",CO | Noticias Caracol
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NOTICIASCARACOL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNOTICIASCARACOL_stream_93&_cdn_session=807336099&_cdn_timestamp=1684302510&_cdn_token=032450d1aa4f81137af0426260d98871950defdd
-
 #EXTINF:-1 tvg-id="ESP | 24 Horas tve" tvg-name="ESP | 24 horas tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/125px-Logo_TVE-24h.svg.png" group-title="NEWS-INTL-TV",ES | 24 horas tve
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
@@ -557,12 +548,6 @@ http://181.189.243.254:8000/play/a0o7/index.m3u8
 
 #EXTINF:-1 tvg-id="UK | BBC World News" tvg-name="UK | BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/170px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="NEWS-INTL-TV", BBC World News
 http://181.189.243.254:8000/play/a0pt/index.m3u8
-
-#EXTINF:-1 tvg-id="USA | CNBC" tvg-name="USA | CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/125px-CNBC_logo.svg.png" group-title="NEWS-INTL-TV ", USA | CNBC
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/CNBC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCNBC_stream_0b&_cdn_session=807367835&_cdn_timestamp=1684303945&_cdn_token=e147202f8a4b1670b2bc6316a099096f3a619a8c
-
-#EXTINF:-1 tvg-id="USA | Fox News Channel" tvg-name="USA | Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/120px-Fox_News_Channel_logo.svg.png" group-title="NEWS-INTL-TV ",USA | Fox News Channel
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXNEWS/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXNEWS_stream_kw&_cdn_session=807367019&_cdn_timestamp=1684303899&_cdn_token=e15aac6f386fa648825087f491f9bc4f03cd01d2
 
 
 
