@@ -183,9 +183,6 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/food.png" group-title="C-TV",Food Network
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=824802251&_cdn_timestamp=1684806654&_cdn_token=1c62b7582d45cd7e6cb9d34b4d64b4b5475635c8
 
-#EXTINF:-1 tvg-id="" tvg-name="ES | AXN Movies" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/axn-m.png" group-title="C-TV",ES | AXN Movies
-http://51.91.8.161:18000/AXN_White/hls/playlist.m3u8
-
 
 
 
