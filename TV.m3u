@@ -647,6 +647,9 @@ https://i.mjh.nz/PlutoTV/5e98a911c881310007d7aae2-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5ebaccf1734aaf0007142c86" tvg-id="5ebaccf1734aaf0007142c86" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="Pluto TV - Samsung TV" , FailArmy
 https://i.mjh.nz/PlutoTV/5ebaccf1734aaf0007142c86-alt.m3u8
 
+#EXTINF: -1 group-title="Pluto TV - Samsung TV" , AFV
+https://c054f53413c54c1d9214a6156a264c0d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-PLEX/mt/plex/46/hls/master/playlist.m3u8
+
 #EXTINF:-1 channel-id="pluto-5bb1ad55268cae539bcedb08" tvg-id="5bb1ad55268cae539bcedb08" tvg-chno="1880" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Pluto TV - Samsung TV" , The Pet Collective
 https://i.mjh.nz/PlutoTV/5bb1ad55268cae539bcedb08-alt.m3u8
 
