@@ -54,7 +54,7 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-kzo.png" group-title="AR-TV", KZO
 https://ythls.onrender.com/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="AR-TV",Canal 6 Mar de Plata
+#EXTINF:-1 tvg-logo="" group-title="AR-TV", Canal 6 (MdP)
 https://panel.dattalive.com/8166/8166/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Vorterix.ar" tvg-name="Vorterix" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_04/large.934964214_Vorterix(6).png.6c3890b6eb92d15113bbf42b067e10b1.png" group-title="AR-Radio",Vorterix
@@ -360,7 +360,7 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="Deportes", Ciudad Mágica TV  
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d60c9f34721920d05ee4a6f098fd933a.png" group-title="AR-TV", Diti TV
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d60c9f34721920d05ee4a6f098fd933a.png" group-title="Deportes", Diti TV
 https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
 
 #EXTINF: -1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="Deportes", NEO TV Digital 16.1
