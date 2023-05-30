@@ -54,6 +54,12 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-kzo.png" group-title="AR-TV", KZO
 https://ythls.onrender.com/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d60c9f34721920d05ee4a6f098fd933a.png" group-title="AR-TV", Diti TV
+https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AR-TV",Canal 6 Mar de Plata
+https://panel.dattalive.com/8166/8166/playlist.m3u8
+
 #EXTINF: -1 tvg-id="Vorterix.ar" tvg-name="Vorterix" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_04/large.934964214_Vorterix(6).png.6c3890b6eb92d15113bbf42b067e10b1.png" group-title="AR-Radio",Vorterix
 https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 
