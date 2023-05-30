@@ -160,13 +160,13 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/id.png" group-title="C-TV",Investigation Discovery
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=837953115&_cdn_timestamp=1685251648&_cdn_token=c339d5518ee16b221e96715029278a0f5f917a2b
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=851053987&_cdn_timestamp=1685719869&_cdn_token=2e2a24aeb79cdf5de686b685d4737359f5177d4a
 
 #EXTINF:-1 tvg-id="AEChile.cl" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/ae.png" group-title="C-TV",A&E
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=837955147&_cdn_timestamp=1685251742&_cdn_token=54a1cd71b0fa8adbf90509931f70f42d9fd9e3be
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=851054699&_cdn_timestamp=1685719885&_cdn_token=13a157c690c0be1a9297f28a74c4a2f3ccfe516d
 
 #EXTINF:-1 tvg-id="AXNSouth.us" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/axn.png" group-title="C-TV", AXN
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AXN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=837955547&_cdn_timestamp=1685251761&_cdn_token=9d8b5dbcb178f66587c20ebbbadbebdbff341c16
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=851056939&_cdn_timestamp=1685719930&_cdn_token=876049ae0585193fd75081d9f43b64fb90eaa22f
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/universal-tv.png" group-title="C-TV",Universal TV
 http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
@@ -178,10 +178,10 @@ http://181.189.243.254:8000/play/a0t0/index.m3u8
 http://181.189.243.254:8000/play/a0ta/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/gourmet.png" group-title="C-TV",elGourmet
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=837980139&_cdn_timestamp=1685253084&_cdn_token=aaa6021440ede8d45de7ca50456f92e73260d4bc
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=851086995&_cdn_timestamp=1685720729&_cdn_token=f7da6789a0447a2e542026faceb41302f7ad2e46
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/food.png" group-title="C-TV",Food Network
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=837980235&_cdn_timestamp=1685253091&_cdn_token=914966351c75b8a97b9ff74a63592062252a73bd
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=851087091&_cdn_timestamp=1685720738&_cdn_token=d4ca3714117fbdfefe9c5d03ddb62829d4b0d2f9
 
 
 
@@ -721,7 +721,3 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/35022
 
 #EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="otros",Tom y Jerry TV
 https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
-
-
-#EXTINF: -1 group-title="ESDLC8", EP 85
-https://ok6-3.vkuser.net/expires/1684379192800/srcIp/181.105.53.231/srcAg/CHROME_ANDROID/ms/95.142.206.130/type/2/sig/t2KoffmpFTc/ct/8/urls/185.226.53.31%3B185.226.52.13/clientType/0/zs/43/id/4343406660130/video/
