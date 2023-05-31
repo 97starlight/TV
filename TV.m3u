@@ -180,6 +180,9 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/universal-tv.png" group-title="C-TV",Universal TV
 http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="C-TV",Universal TV (op 2)
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=851070723&_cdn_timestamp=1685720258&_cdn_token=32af428942693527fb44ee8e130ad9d8aca90c4d
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/universal-crime.png" group-title="C-TV", Universal Crime
 http://181.189.243.254:8000/play/a0t0/index.m3u8
 
