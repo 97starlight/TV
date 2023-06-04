@@ -141,6 +141,9 @@ http://190.61.102.67:31589/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="" group-title="Internacional",MX | Canal 5 (2)
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="" group-title="Internacional",MX | Canal 5 (3)
+https://v3.playerlatino.live/stream/m3u8/14
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/estrella-tv.png" group-title="Internacional",US | ESTRELLA TV (-3)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
