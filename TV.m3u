@@ -111,14 +111,14 @@ http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/3115
 #EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas.png" group-title="Internacional",MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="Internacional",MX | Canal 5
+http://190.61.102.67:31589/play/a038/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" group-title="Internacional",MX | N+ Media
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
 #EXTINF: -1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas-latam.png" group-title="Internacional",LATAM | Las Estrellas
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="Internacional",MX | Canal 5
-http://190.61.102.67:31589/play/a038/index.m3u8
 
 #EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",LATAM | Univision
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
