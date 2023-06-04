@@ -105,6 +105,9 @@ http://45.190.13.50:8002/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Tucson
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41875
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Internacional
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/3115
+
 #EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas.png" group-title="Internacional",MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
@@ -137,12 +140,6 @@ https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="Internacional",MX | Canal 5
 http://190.61.102.67:31589/play/a038/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="" group-title="Internacional",MX | Canal 5 (2)
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
-
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="" group-title="Internacional",MX | Canal 5 (3)
-https://v3.playerlatino.live/stream/m3u8/14
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/estrella-tv.png" group-title="Internacional",US | ESTRELLA TV (-3)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
