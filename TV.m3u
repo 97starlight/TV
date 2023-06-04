@@ -117,6 +117,9 @@ https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas-latam.png" group-title="Internacional",LATAM | Las Estrellas
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="Internacional",MX | Canal 5
+http://190.61.102.67:31589/play/a038/index.m3u8
+
 #EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",LATAM | Univision
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
@@ -134,9 +137,6 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-60d393e5579a420007ee553c" tvg-id="60d393e5579a420007ee553c" tvg-chno="2925" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/dra-polo.png" group-title="Internacional" , Casos de la Dra. Polo
 https://i.mjh.nz/PlutoTV/60d393e5579a420007ee553c-alt.m3u8
-
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="Internacional",MX | Canal 5
-http://190.61.102.67:31589/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/estrella-tv.png" group-title="Internacional",US | ESTRELLA TV (-3)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
