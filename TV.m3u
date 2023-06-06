@@ -121,6 +121,15 @@ https://dcs3-live.mp.lura.live/server/podserve/AQ6Q6eTeYDLxcmbj/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",ViX: Videos Chistosos 
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden.png" group-title="C-TV",ViX: Golden Multiplex -1 hora
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden-plus.png" group-title="C-TV",ViX: Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden-premier.png" group-title="C-TV",ViX: Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
 
 
 
@@ -189,15 +198,6 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/mani
 
 #EXTINF: -1 tvg-id="Antena3.es" tvg-name="Mega" tvg-logo="" group-title="C-TV",ES | Mega
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden.png" group-title="C-TV",ViX: Golden Multiplex -1 hora
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden-plus.png" group-title="C-TV",ViX: Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden-premier.png" group-title="C-TV",ViX: Golden Premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/id.png" group-title="C-TV",Investigation Discovery
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=870306531&_cdn_timestamp=1686368939&_cdn_token=0ed106c2af00b2c01bd030e28a671cb6003701bc
