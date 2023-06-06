@@ -130,15 +130,17 @@ https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",WFV En Español
 https://dcs3-live.mp.lura.live/server/podserve/08B9B4TW61Rdc4Dj/manifest.m3u8?gam_stream_id=27c93bc2-a857-4c34-823d-9179f40a4d5f:CHS&encp=oOijZGuu2J1R2ilORt0YQA:7_kNP8tluTOLBFS9JvMGUAK4jTG3ZBxT3CM5VmxyKWg0A0qk3BFw02BHILn2lv1HRJQw0kOEIV7jKxEL9iFI6yzZfX4y1IbI3Mdsal7OnjpGSJ37H7xxXZtYXw69afo49h2g2SeDOZ54vxyLKIQlpxaePnF2zY3NkomxwUCWP5GKxHdHknDvXTzoYGs5OKiEOqRza9vgxHhpa9f7iH0D77AVEG8LjPVbOevfOgn6AYbTJ2ZDh5H_-rlfQJH8YCKmOO3MKrSHmraTEhA8sJAFJVRlOU29Rjh_qXvAjiFxE1Ik7xUqDeBsesp3zGGIw45pcoH4yhBkytLzTNU5r9AQF55r0jj0IRdiLc3nbFj2Jfh6vJghlbzrWXy7wTCLni9wTg5m7C4yGdkRXJi-kLbAh75aAIweqah8oVIrUmS4UoOfNtp_Ic7PlbdXHnFONx6SNu-2IGkeS8rtM2kubdW5BOvuYrx-HdgvqTpxnB1MniKWMrBYSpw1CVtxbboEGT9AXYGs_Esyz6MZyAxqtNUymEknaZmjBVyUvcYzyrmz85FkB2oC4A7GgkcUS_FQZgNoWcbquVc5cb23G7GY2VcMzPoJBPzfpjlYhVQjX5sycetoFAELzDKn1WG8FeDXMT8CcLY9idPbs1zrZQxUpNPSefv9ps6X77Tr7GIljOeSlDAdks_g6z7GuYbuUrITPWr9r89h4Qn5yeOB94QOCcqEdcS_yJ-F_0Ln30YFia2Nq5B6Lqim_qH2iqnqzLAViIEyFzTw7L4tFeZ-zJvclMW96ka5DB0LXasgzbr0b1uyf1_ZboU6BclB0jPmbLi6D-MWJEaR-uuDTN514k4pITRTJQIO9zO7nSBbvC8qYj4bkdp6rm4C8_CIVm47EhY9Tgzz2ylxPZdZrkJHyGsKklLKQp1-5YVj8D0TaE_6_St7mABXRO5_8qIytySfTEONMQ64NSmXiKoe36uAmMCGklB03qpoD0iD3gEUVWIyKpziU7tJ_r23t0KLZBFmn57pG3m3&anvtrid=d041ad4e791f14566025978e68e5b386&anvauth
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden.png" group-title="C-TV",ViX: Golden Multiplex -1 hora
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden.png" group-title="ViX",ViX: Golden Multiplex -1 hora
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden-plus.png" group-title="C-TV",ViX: Golden Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden-plus.png" group-title="ViX",ViX: Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden-premier.png" group-title="C-TV",ViX: Golden Premier
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden-premier.png" group-title="ViX",ViX: Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ViX",Lo Que La Vida Me Robó
+https://dcs3-live.mp.lura.live/server/podserve/jKR5RvsVJk34txYA/manifest.m3u8?gam_stream_id=7a7762f3-c706-4f94-adfe-d1b6cdd38e7c:SCL&encp=kQXp0sSn8ZHWbD_lYr8S7w:ezyq8hkOw6EOz_rADCMDRe4Wg0tI2FjUgH5-mKODRirIxf1AxQrTMbSE4Ska32wEi8Ezy4rhMzxxftkN7l_vR6ng-0mlCCc_wmWH4JxTQ9vGaFJDeKgcAaJWXtEc1d8NfTRr22K4TwxvX1whRLGF9C4pOt1WCLDdDv-dAci0vEDZ6NDWppozTJwJaXvt1ctKwLL1qITE4fVBsOyXIq0TDcD9JegxckmuzvmG7vtuWvNociGEf4CV7bcJwyETih6U4OYKDwJ7l0BVcuYH2fw_fYqKn3jHSNQrRVvOTsBjRub8eTdDv0tZMCu_ksmciNh4feymIyKxHRz2ncbnzATVePrmlJlq2bNNMJUO5BxT2Ew9o269SU9KEawTM-6MXYdMW7BO9tz04rUk1fVYLQbr0KdZP7PFDRS6SX1-sy6ev-xWfuPU2K6CgVRDdYt33Xsh7ZMNq3utHzYi3G1Vh4x5W_0CmgU3dFAVpPfqhZmNAKGlLpddE23H2mBzgyiajjrrn2MZqYw82L_RmC27mG-rxm9ux3cg6ODZi9RQXopCUAWsaWQwqdSQnPc17iF2Bj5fdnKMkif_ALwKir9RTThdfSXPjbBnbiR3I5UAc3qh3opkNw4Qkh7Micq6nE7LOFJPGsCRjO27TjaB7SiMA1DaUA574szj2V6SSAhNh0YyQSUzt5Y0nycmYb6Fmzu0zz6dyqcp_fvV2dzrtgHOh1KsckMDJKrcO8deYEoN4PFY_s0s1Htx4B7kI1kKAgNdOTD2RISxR4N7Mr4juk9DitS0LUAPxaQqZ7GTd-crmn9sG2Cg8jXH0Nhyu5A3EBSh5xEMEgvV9p0uNgSOL2liy5fKLk6fziVkyrcal4GlBQrNu8cpgwhTSJNNNRiHGjvruHRPnGKDpSGlH7t3AJdKc4v2rPXYvPJF32HXGp-TAP2Ix3slhojaJNghIsBXpZMHLMvu_7707qqdAsOQd5Ppk7AXUYfjB_Pkqogbx57P85Ka44g&anvtrid=ab8220766375728396e5ecd2e8ca8f69&anvauth
 
 
 
