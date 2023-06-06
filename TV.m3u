@@ -94,8 +94,8 @@ https://ythls.onrender.com/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
 
 
 
-#EXTINF: -1 tvg-id="vix" tvg-name="vix" tvg-logo="" group-title="LCDLFMX",MX | La casa acceso total
-https://dcs3-live.mp.lura.live/server/podserve/A4MWMDFvNwreF4Zj/manifest.m3u8
+#EXTINF: -1 tvg-id="vix" tvg-name="vix" tvg-logo="" group-title="LCDLFMX",MX | La Casa Acceso Total
+https://dcs3-live.mp.lura.live/server/podserve/A4MWMDFvNwreF4Zj/rendition.m3u8
 
 #EXTINF: -1 tvg-id="vix" tvg-name="vix" tvg-logo="" group-title="LCDLFMX",MX | La Casa 24/7 En Vivo
 https://dcs3-live.mp.lura.live/server/podserve/0m535qFNEeoKIXx0/manifest.m3u8
