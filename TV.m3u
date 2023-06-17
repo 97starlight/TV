@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-logo"https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Logo_Arte_Concert.svg/1280px-Logo_Arte_Concert.svg.png" group-title="Alemania", ARTE Concert: Hurricane Festival 2023
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Logo_Arte_Concert.svg/1280px-Logo_Arte_Concert.svg.png" group-title="Alemania", ARTE Concert: Hurricane Festival 2023
 https://arteconcerthls.akamaized.net/hls/live/2025498/channel05/master.m3u8
 
 #EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV",El Ocho TV (Tucumán)
