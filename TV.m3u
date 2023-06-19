@@ -2,7 +2,7 @@
 
 
 #EXTINF: -1 tvg-logo="" group-title="Chile", CL | Gran Hermano Chile
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/647f7f8d8e3c0a0008d552cb/master.m3u8
+https://v3.playerlatino.live/stream/m3u8/198
 
 #EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV",El Ocho TV (Tucumán)
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
