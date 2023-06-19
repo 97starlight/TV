@@ -1,8 +1,11 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-logo="" group-title="Chile", CL | Gran Hermano Chile
+#EXTINF: -1 tvg-logo="" group-title="Chile", CL | Chilevisión
 https://v3.playerlatino.live/stream/m3u8/198
+
+#EXTINF: -1 tvg-logo="" group-title="Chile", CL | Chilevisión (2)
+http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38536
 
 #EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV",El Ocho TV (Tucumán)
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
