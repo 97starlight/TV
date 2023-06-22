@@ -160,6 +160,10 @@ https://dcs3-live.mp.lura.live/server/podserve/ADn3nqTORo32s1K7/manifest.m3u8
 
 
 
+
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Internacional",Telemundo
+https://v3.playerlatino.live/stream/m3u8/92
+
 #EXTINF: -1 tvg-name="Telemundo 51" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional",Telemundo Miami
 http://45.190.13.50:8002/play/a00u/index.m3u8
 
