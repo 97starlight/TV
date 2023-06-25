@@ -1,7 +1,26 @@
 #EXTM3U
 
-EXTINF:-1 group-title="BBC",BBC One London
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
+
+#EXTINF: -1 group-title="BBC", Glastonbury Channel
+https://ve-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_12/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF: -1 group-title="BBC",Pyramid Stage
+https://ve-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_13/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF: -1 group-title="BBC",Pyramid Stage (Signed)
+https://ve-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_14/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF: -1 group-title="BBC", Other Stage
+https://ve-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_15/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF: -1 group-title="BBC", West Holts Stage
+https://ve-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_16/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF: -1 group-title="BBC",Woodsies Stage
+https://ve-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_17/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF: -1 group-title="BBC",Park Stage
+https://ve-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_18/t=3840/v=pv14/b=5070016/main.m3u8
 
 
 
