@@ -1,30 +1,6 @@
 #EXTM3U
 
 
-#EXTINF: -1 group-title="BBC", Glastonbury Channel
-https://ve-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_12/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF: -1 group-title="BBC",Pyramid Stage
-https://ve-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_13/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF: -1 group-title="BBC",Pyramid Stage (Signed)
-https://ve-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_14/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF: -1 group-title="BBC", Other Stage
-https://ve-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_15/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF: -1 group-title="BBC", West Holts Stage
-https://ve-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_16/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF: -1 group-title="BBC",Woodsies Stage
-https://ve-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_17/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF: -1 group-title="BBC",Park Stage
-https://ve-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uk_sport_stream_18/t=3840/v=pv14/b=5070016/main.m3u8
-
-
-
-
 #EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV",El Ocho TV (Tucumán)
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
 
@@ -259,7 +235,7 @@ https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cd
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=870307651&_cdn_timestamp=1686368963&_cdn_token=96ca6440c4a42d6d5eb8053118cc316d080f95e2
 
 #EXTINF:-1 tvg-id="AXNSouth.us" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/axn.png" group-title="C-TV", AXN
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=870309875&_cdn_timestamp=1686369014&_cdn_token=9aecc004d76ee00a1b5048251b09133511cf5329
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AXN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=918023923&_cdn_timestamp=1687992529&_cdn_token=f468b3c5641a449a9c23de3bf71ba7ca6f088959
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/universal-tv.png" group-title="C-TV",Universal TV
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=870323275&_cdn_timestamp=1686369318&_cdn_token=c92f3b3c6006b516eff0990ee564097372bb1217
