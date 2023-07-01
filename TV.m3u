@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",RIW
+https://liveott.cdi.streaming.proximustv.be/shls/LIVE$OTT243246;pxtoken=cGF0aFVSST0lMkZzaGxzJTJGTElWRSUyNE9UVDI0MzI0NiUyRiomZXhwaXJ5PTE2ODgyNzUzODcmZm49c2hhMjU2JmMtaXAtdW5sb2NrZWQ9MSZwdWJsaXNoZXI9MTIxMiZ4LW1vZGU9dmlkZW9jZW50ZXItZGlzYXN0ZXIsOTEwYjFjNzQ0NjI5NjYxNmZlNDk5OTA5MTk3YTE1YTI1MzQ3ZjJmOGExZTc4NWViZWIxZWQwOTFkZWNhNmU4NA==/index.m3u8?device=HTVOH&start=LIVE&end=END
+
+
 #EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV",El Ocho TV (Tucumán)
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
 
