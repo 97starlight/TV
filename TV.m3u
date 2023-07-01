@@ -1,8 +1,11 @@
 #EXTM3U
 
 
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",RIW
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",RIW 2
 https://liveott.cdi.streaming.proximustv.be/shls/LIVE$OTT243246;pxtoken=cGF0aFVSST0lMkZzaGxzJTJGTElWRSUyNE9UVDI0MzI0NiUyRiomZXhwaXJ5PTE2ODgyNzUzODcmZm49c2hhMjU2JmMtaXAtdW5sb2NrZWQ9MSZwdWJsaXNoZXI9MTIxMiZ4LW1vZGU9dmlkZW9jZW50ZXItZGlzYXN0ZXIsOTEwYjFjNzQ0NjI5NjYxNmZlNDk5OTA5MTk3YTE1YTI1MzQ3ZjJmOGExZTc4NWViZWIxZWQwOTFkZWNhNmU4NA==/index.m3u8?device=HTVOH&start=LIVE&end=END
+
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",RIW
+https://liveott.cdi.streaming.proximustv.be/shls/LIVE$OTT243245;pxtoken=cGF0aFVSST0lMkZzaGxzJTJGTElWRSUyNE9UVDI0MzI0NSUyRiomZXhwaXJ5PTE2ODgyNzQ4MzImZm49c2hhMjU2JmMtaXAtdW5sb2NrZWQ9MSZwdWJsaXNoZXI9MTIxMiZ4LW1vZGU9dmlkZW9jZW50ZXItZGlzYXN0ZXIsY2ZiZjk2ZmQ3ODQzMWZmZGY2MmEzZmY3MDg0ZjhjNWUzNzc4M2QxYWMxMWFjZTMxYjI4ZmMzNmY3MDM5NTY5Yg==/index.m3u8?device=HTVOH&end=END&start=LIVE
 
 
 #EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV",El Ocho TV (Tucumán)
