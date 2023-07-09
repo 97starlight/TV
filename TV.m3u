@@ -4,6 +4,9 @@
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos
 https://dcs3-live.mp.lura.live/server/podserve/AJzMzWfNL23JIqJA/manifest.m3u8
 
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos 2
+https://dcs3-live.mp.lura.live/server/podserve/AJzMzWfNL23JIqJA/manifest.m3u8?gam_stream_id=[[STREAMID]]&encp=CkKaUMfeTj_tQADnt_ZfJg:4dQ6CbjzV74jW1uPjo_PAnzyOPnoUDljNBlsCfZgLDOBozhnAv9H7s5_qS58eWioY26UmkC4yH7rkLnE4nGy0UTMb3FPzdFyPBynaBKqVv9XFna76glXt1VJbsByxiDsWaJwOlNiD3K_yI30RiNpfsBqIhaadUeiONwGMisgqdAXDg6oBuam1LUyVMJfOqvrwb6l58GfPWPadDk2KpAkoV5r0qKD_csk6-8ZHaJQcM-K4NyVUHcZMI_NTjYpIDAmvLCCOtGIYv5km1etor6I_b2RICXFahnmExh2hfTRPWwmL4wJRJbzXLLPd-s-eyrpeqmIKbwQDK6kIseebHNi4VQS3mT50Fb6IRvPhq6m_MQWy55Fwy0boZUe79Guy8OqI72LOsUuJk0waUyZxRMLPFUfq7-WI4lGf3BpI1LWp8eObJB2fwFRPb8j7IhdIi6ZeJswKvFZ-1myHeVW_s6j349a6oIR5XluLcI_6pt-EfBbOCjZIhIVBQENUz_xrYZ0NcmdfzcouDh8zY4ehSCKRncg1bJXdJt9P_l0uJbc2I3w0gKI16vpfisbUlUkGSstJscB34T71672ib43Euchk_uyp73D0_17LCDqx1gJgzrF5_rbCS5WRqudKQaEZAP9gPlQU_dmeVqkunNiYW3mnQeaSarnjhO7WvvIfUf2C4A4FQs8Z0zUUzm7DiO6gCsvRmQHUVC9cXSrJ1VZEsW-vir20okdsiydjwUEJ_XOEA3Iu3zAACYmF8Tkkb2apgSkxLUx72c4qnEWfnEGbBxpjhqNLUprLcLmZsPGiYFrXKVGHFAt2CvKPn3zxZu9cZYMsPm4ysPPW4L19AyecIpf3ShmBtQAuyFDru6MDx5ekiEz2iUczAh8Mp31gfgOkQZDgEQ0xPIlzUv96MjHzPUxL_I8sNdyaQYtpge_k14z4AR1AI7DxnEqFVprVzIWjqmMnOn6xte7FQyOrjuZ29iyAPKMmFIDkKJAh2bBCmm5Vbw&anvtrid=ecd742113466a6958afd7a9bceb47674&anvauth=tb=0~te=1688861553~sgn=77cf18067259ac999ba3a8f076abdac174c5aa7f303023abc8c38122639d5476&t=1688861463
+
 
 #EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV",El Ocho TV (Tucumán)
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
