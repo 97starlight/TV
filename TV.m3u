@@ -2,10 +2,10 @@
 
 
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos
-https://linear-fa-p-har3.tv.apple.com/Content/HLS_CBC/Live/channel(mls.ec1.wf_es_2)/index.m3u8
+
 
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos 2
-https://linear-fa-p-har3.tv.apple.com/Content/HLS_CBC/Live/channel(mls.ec1.wf_es_2)/01.m3u8
+
 
 
 #EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV",El Ocho TV (Tucumán)
@@ -14,14 +14,8 @@ https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
 #EXTINF: -1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
-#EXTINF:-1 tvg-logo="" group-title="AR-TV", Telefe (op 2)
-http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/43311.m3u8
-
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="" group-title="AR-TV", eltrece (op 2)
-http://hidra.live:80/live/aqqtamco/vk3e30K4Yi/43314.m3u8
 
 #EXTINF: -1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-nueve.png" group-title="AR-TV",elnueve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
@@ -103,59 +97,8 @@ https://ythls.onrender.com/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
 
 
 
-#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas.png" group-title="ViX",Las Estrellas
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="ViX",MX | Canal 5
-http://190.61.102.67:31589/play/a038/index.m3u8
-
-#EXTINF: -1 tvg-id="vix" tvg-name="vix" tvg-logo="" group-title="ViX",MX | La Casa Acceso Total
-https://dcs3-live.mp.lura.live/server/podserve/A4MWMDFvNwreF4Zj/manifest.m3u8
-
-#EXTINF: -1 tvg-id="vix" tvg-name="vix" tvg-logo="" group-title="ViX",MX | La Casa 24/7 En Vivo
-https://dcs3-live.mp.lura.live/server/podserve/0m535qFNEeoKIXx0/manifest.m3u8
-
-#EXTINF: -1 tvg-id="vix" tvg-name="vix" tvg-logo="" group-title="ViX",MX | Cámara 1
-https://dcs3-live.mp.lura.live/server/podserve/0bnenbTDekmrc580/manifest.m3u8
-
-#EXTINF: -1 tvg-id="vix" tvg-name="vix" tvg-logo="" group-title="ViX",MX | Cámara 2
-https://dcs3-live.mp.lura.live/server/podserve/AzX9XeTnwbXQS9Z7/manifest.m3u8
-
-#EXTINF: -1 tvg-id="vix" tvg-name="vix" tvg-logo="" group-title="ViX",MX | Cámara 3
-https://dcs3-live.mp.lura.live/server/podserve/Aazyz4fOD2Pgsbgj/manifest.m3u8
-
-#EXTINF: -1 tvg-id="vix" tvg-name="vix" tvg-logo="" group-title="ViX",MX | Cámara 4
-https://dcs3-live.mp.lura.live/server/podserve/019n91h1VmpZsKw0/manifest.m3u8
-
-#EXTINF: -1 tvg-id="vix" tvg-name="vix" tvg-logo="" group-title="ViX",MX | Cámara 5
-https://dcs3-live.mp.lura.live/server/podserve/7RWKW6uLlrqoFg90/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ViX",MX | 100 Mexicanos Dijieron
-https://dcs3-live.mp.lura.live/server/podserve/AQ6Q6eTeYDLxcmbj/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ViX",MX | Operación Repo
-https://dcs3-live.mp.lura.live/server/podserve/jKR5RvsVJk34tyOA/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ViX",MX | Extreme Makeover Home Edition 
-https://dcs3-live.mp.lura.live/server/podserve/Ag5p5mFWlJP8coR7/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",ViX: Videos Chistosos 
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="ViX",WFV En Español
-https://dcs3-live.mp.lura.live/server/podserve/08B9B4TW61Rdc4Dj/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden.png" group-title="ViX",ViX: Golden Multiplex -1 hora
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden-plus.png" group-title="ViX",ViX: Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/golden-premier.png" group-title="ViX",ViX: Golden Premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ViX",Talk Show
-https://dcs3-live.mp.lura.live/server/podserve/ADn3nqTORo32s1K7/manifest.m3u8
 
 
 
