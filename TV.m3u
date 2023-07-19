@@ -353,11 +353,6 @@ https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
 
 
 
-#EXTINF: -1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png" group-title="Deportes", City Sports TV
-https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8  
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/83552d3fde11360055725a8d478f3c53.png" group-title="Deportes", Ciudad Mágica TV  
-https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/d60c9f34721920d05ee4a6f098fd933a.png" group-title="Deportes", Diti TV
 https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
@@ -370,24 +365,6 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 channel-id="pluto-63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e" tvg-chno="2140" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="Deportes",EEUU | CBS Sports: Golazo Network
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png" group-title="Deportes",CO | ESPN 
-http://181.78.27.188:5350/play/a00u
-
-#EXTINF: -1 group-title="Deportes",MX | FOX Sports
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-
-#EXTINF: -1 group-title="Deportes",MX | FOX Sports 2
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
-
-#EXTINF: -1 group-title="Deportes",MX | FOX Sports 3
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
-
-#EXTINF: -1 group-title="Deportes",MX | FS Premium
-http://45.190.13.50:8002/play/a002/index.m3u8
-
-#EXTINF: -1 group-title="Deportes",Zona TUDN
-https://dcs3-live.mp.lura.live/server/podserve/7GnqnNT9v6PrtR2j/manifest.m3u8?gam_stream_id=fbe91248-efb6-48a3-a3f1-d1c8903b08f0:ATL&encp=2rqpcusHZv9MGq1KaO01cg:cWld-nMci7nxiUJYIbSVAciCjlj1kyCDIDbSiCqOgikMZ_vFE8_JatQnRLY--_nHlMCWlHZh93B3nk0BvEzSmSFGeZuWQ-pztpEXs8CvXPcupmKysn-8XrrUKsLzrQBKLQVaQ2Ubz2BIo3kjJICitrp77tOSteCmO7WvOxzytc2_o0K4JNrTiaBLDkHuX_bcDsDgOh3fdBLRt5rBidVMJhspHd1Rp4LHua2fpW_m3gojk0-r-9UMFcwL_VC7p34KOW4XT5MkrdBIrHf_K2pmGVgZxvCG8cEV8Lk7kAtOoTSOtMGTSgfk3iHrIXrVpKtjzGDyLXp8gbtphgD1wG9AjiKveidO_kbLZnhEnkJ63-YwRfsMfZd1u8ItKg3baumhJsD6k30M-Ss-47cNuRxUrllzrkH34PY7sOEl5AqrTQqGpiNTEvj7y0teLz9lrTLxAK_eL6jH7fFjasKCyKz_3NiJUBT3isUv25v4rMhlIFaZtFX6q1tHqAqsmnozIXcHEbvvMDkB6NjmtMncfzC4icyzas2gUocM69PHY8E9igkRyA95ml0T7yvsrIP8tsAtBr7ihn9Kce1hx0bZB-8C7zr_jjmP_Bs52ZHCwN3ruPIBJrKK1PAQsPrRQ0LBmuFRvMSvMTieESigBG3-l3tJ5Cfn1345YINFX-xOU8nCd-oWu239v9lvEVS3630n8earynI_iwTQLezcAUvypjFwA1EPCr8bGsIqkw8hIIvSE4fMMl1IqHzblaYfIvKgMEI0UzUm0AOF-A3JGmog0YOSdURhZE5dr2Tn8jS_zOIKNxNRjxLP6RNo6wmlR_D6qm0xe04un1zSgf1Lv85v8lIa5mF5s93EA9YI1MvEd7JXRCwT8w8K_7yKa7BAMPs3OJ_TLeYBLNpcGCFRxFoahdmJZ_ugT_UGlyKcs9zb5bGh2_0BA_oms33phZeSq34SlM-KO64opKXwTynohNgBS_w9HknGJuY-AA8lDGCePMm9YSh0nCh2ya_60d3VhTnSBaFU1vjdU_UX3Be2Q9nNmpdJng&anvtrid=b498bc2ddb4d2039b1c186ac0e8a3e2e&anvauth
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1630774881284653056/odLwe8be_400x400.jpg" group-title="Deportes",MX | Claro Sports
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
@@ -412,9 +389,6 @@ https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports.png" group-title="TyC Sports",TyC Sports 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports-int.png" group-title="TyC Sports",TyC Sports Internacional
-http://186.96.111.23:8000/play/a016
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
