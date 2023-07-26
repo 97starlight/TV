@@ -410,6 +410,9 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RPN9-CNN_Philippines_New_logo.png" group-title="NEWS-INTL-TV", CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/gnpgx7YYP2NfIXXkc11ejmyH4gFJmgAz69TQ1h94TWuxPAS_Qv8c_n_6k7NLtreFCqheZNxW=s176-c-k-c0x00ffffff-no-rj" group-title="NEWS-INTL-TV", DNews
 https://ythls.onrender.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
 
