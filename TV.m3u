@@ -164,8 +164,11 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manife
 #EXTINF: -1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/a3.png" group-title="C-TV",ES | Antena 3
 https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
 
-#EXTINF: -1 tvg-id="Antena3.es" tvg-name="Mega" tvg-logo="" group-title="C-TV",ES | Mega
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:15_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="C-TV", Investigation Discovery
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=1027413531&_cdn_timestamp=1691460074&_cdn_token=6cbfff96ba066800ba0ffbe637ab34df76ac4619
+
+
+
 
 
 
