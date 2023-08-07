@@ -667,11 +667,17 @@ https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="otros", EL CHAVO
+#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="24/7", El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV Señal 2" tvg-name="MX | El Chavo del 8 TV Señal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png" group-title="otros",El Chavo del 8 TV Señal 2
-http://live.budtvlight.com:25461/Luna001/18dabf00/35022
+#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV Señal 2" tvg-name="MX | El Chavo del 8 TV Señal 2" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="24/7", El Chavo del 8 TV Señal 2
+https://v3.playerlatino.live/stream/m3u8/400
 
-#EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="otros",Tom y Jerry TV
+#EXTINF:-1 tvg-id="MX | El Chapulin Colorado TV" tvg-name="MX | El Chapulin Colorado TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/1024px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="24/7", El Chapulin Colorado TV
+https://v3.playerlatino.live/stream/m3u8/418
+
+#EXTINF:-1 tvg-id="MX | Chespirito TV" tvg-name="MX | Chespirito TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmk0vzB_ieU0etMljjvu3l8MjzI4AsiaF3-egurvf6teR6cXF-HOQf1Yu0dtYAyTnrPlM&usqp=CAU" group-title="24/7", Chespirito TV
+https://v3.playerlatino.live/stream/m3u8/417
+
+#EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="24/7", Tom y Jerry TV
 https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
