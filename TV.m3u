@@ -116,7 +116,7 @@ https://v3.playerlatino.live/stream/m3u8/92
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41875
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo-intl.png" group-title="Internacional", Telemundo Internacional
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/3115
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=1027412091&_cdn_timestamp=1691460060&_cdn_token=6079974813106e67c3d16985845de3d4f78bc1b3
 
 #EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas.png" group-title="Internacional",MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
@@ -132,7 +132,10 @@ https://v3.playerlatino.live/stream/m3u8/14
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
 #EXTINF: -1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas-latam.png" group-title="Internacional",LATAM | Las Estrellas
-https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+http://201.222.44.220:4227/play/a02v/index.m3u8
+
+#EXTINF: -1 tvg-id"" tvg-logo="" group-title="Internacional",TNT Novelas
+http://201.218.137.232:4123/play/a04l/index.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-logo="" group-title="Internacional", Noticias Univision
 https://dcs3-live.mp.lura.live/server/podserve/0MqnqghkvXVNIEm0/manifest.m3u8
