@@ -137,23 +137,11 @@ http://201.222.44.220:4227/play/a02v/index.m3u8
 #EXTINF: -1 tvg-id"" tvg-logo="" group-title="Internacional",TNT Novelas
 http://201.218.137.232:4123/play/a04l/index.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-logo="" group-title="Internacional", Noticias Univision
-https://dcs3-live.mp.lura.live/server/podserve/0MqnqghkvXVNIEm0/manifest.m3u8
-
 #EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",LATAM | Univision
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+http://177.53.153.21:8001/play/a0au/index.m3u8
 
 #EXTINF: -1 tvg-id="Univision" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",US | Univision
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25337
-
-#EXTINF: -1 tvg-logo="" group-title="Internacional",MX | Unicable
-http://190.61.102.67:31589/play/a08f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/el-dicho.png" group-title="Internacional",Vix: Como dice el dicho
-https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/la-rosa.png" group-title="Internacional",Vix: La Rosa de Guadalupe
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-60d393e5579a420007ee553c" tvg-id="60d393e5579a420007ee553c" tvg-chno="2925" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/dra-polo.png" group-title="Internacional" , Casos de la Dra. Polo
 https://i.mjh.nz/PlutoTV/60d393e5579a420007ee553c-alt.m3u8
