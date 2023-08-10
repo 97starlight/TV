@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos
+https://1061-vos.dtvott.com/DASH/manifest.mpd
 
 EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos 2
 
