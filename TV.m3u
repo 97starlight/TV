@@ -221,9 +221,6 @@ https://i.mjh.nz/PlutoTV/62444f34ea3ade0007ade6ac-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5de91b7ea86ee60009d89e75" tvg-id="5de91b7ea86ee60009d89e75" tvg-chno="157" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG-1677602317994.png" group-title="Música" , MTV Classic
 https://i.mjh.nz/PlutoTV/5de91b7ea86ee60009d89e75-alt.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2021_08/large.540328974_MTV2021(Blanco).png.e738114f4d51314d63f0e071d1a3cb87.png" group-title="Música",MTV HD
-http://45.5.118.226:8000/play/a0gm/index.m3u8
-
 #EXTINF:-1 channel-id="pluto-62ac44b44f1912000705274c" tvg-id="62ac44b44f1912000705274c" tvg-chno="854" tvg-logo="https://images.pluto.tv/channels/62ac44b44f1912000705274c/colorLogoPNG.png" group-title="Música" ,UK | MTV Queens of Pop
 https://i.mjh.nz/PlutoTV/62ac44b44f1912000705274c-alt.m3u8
 
@@ -244,15 +241,6 @@ https://i.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-6076cd1df8576d0007c82193" tvg-id="6076cd1df8576d0007c82193" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="Música" , VH1 Classics
 https://i.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.sincroguia.tv/uploads/images/5/4/z/xmtv-80.jpg.pagespeed.ic.iXMVwGV__4.jpg" group-title="Música",MTV 80s
-http://181.189.243.254:8000/play/a0po/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/150px-MTV_00s_remaster.png" group-title="Música",MTV 00s
-http://181.189.243.254:8000/play/a0sw/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/125px-MTV_Hits_2021.svg.png" group-title="Música",MTV Hits
-http://181.189.243.254:8000/play/a0pn/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teleritmo-mx.png" group-title="Música",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?uid=s9Ns1pDpzADqzOi8Qc2GY4fYDVDEmGtq&sid=H35JGFJtTorKu8yyo7nztAy4KIUVgJkx&pid=uf6dMZlhGP30u0KO5TmWpO8utXYJqOKN&an=screen&at=web-app&av=v5.2.278&ref=https%3A%2F%2Fwww.multimedios.com%2F&res=774x387&without_cookies=false&listenerid=&dnt=true
