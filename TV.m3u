@@ -2,10 +2,9 @@
 
 
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos
-http://quebuscasaqui.xyz:8080/sevvi/VtQKxz3bkJ/11
 
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos 2
-http://tv.pro-ott.com:25443/live/S099G634LK/MRYDTW5VYK/59707.m3u8
+
+EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos 2
 
 
 #EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV",El Ocho TV (Tucumán)
@@ -160,6 +159,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 
 #EXTINF: -1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/cuatro.png" group-title="C-TV",ES | Cuatro
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+
+#EXTINF: -1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/cuatro.png" group-title="C-TV",ES | Cuatro (op 2)
+http://quebuscasaqui.xyz:8080/sevvi/VtQKxz3bkJ/11
 
 #EXTINF: -1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/a3.png" group-title="C-TV",ES | Antena 3
 https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
