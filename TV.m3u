@@ -63,6 +63,9 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-kzo.png" group-title="AR-TV", KZO
 https://ythls.onrender.com/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-c5n.png" group-title="AR-TV", C5N
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1692862022/ei/5rHmZO31J6e66dsPmJmiuAM/ip/3.125.183.140/id/39RJ2lb2irE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3uD8zCt-RPkTNnOzRrYTlxyXiZ-6NQBDwLrgw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363392%2C51000011/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgd85phsAmsijm8YNFSkDCRMUZlpvBBQL-_Iez8oCVH8MCIETOTh33Cc-TnDnXoylx52awrVqH9nJuaDyJW-Lz0OGU/file/index.m3u8
+
 #EXTINF: -1 tvg-id="Vorterix.ar" tvg-name="Vorterix" tvg-logo="https://www.foromedios.com/uploads/monthly_2022_04/large.934964214_Vorterix(6).png.6c3890b6eb92d15113bbf42b067e10b1.png" group-title="AR-Radio",Vorterix
 https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 
