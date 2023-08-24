@@ -102,12 +102,17 @@ https://ythls.onrender.com/channel/UCAlQ5f7mhnkfM6jjXeJDw7g.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MPGVFdswIwc8Fq8FtxsOCvlj1nSVpIta5nGP4AzA81mZtK2HiYC8Cz_uMZZTVIocNJLhaZ76dbQ=s88-c-k-c0x00ffffff-no-rj" group-title="AR-Radio", Pop Radio 101.5
 https://ythls.onrender.com/channel/UCtc_WjDRwCrZSEq2WEwD7XQ.m3u8
 
-#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="" group-title="AR-TV-Prov",Canal 7 Neuquén (Telefe)
+#EXTINF: -1 tvg-name="" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="AR-TV-Prov",Canal 7 Neuquén (Telefe)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
-#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="" group-title="AR-TV-Prov",Canal 7 Jujuy (Telefe)
+#EXTINF: -1 tvg-name="" tvg-logo="https://imgur.io/K0jk8p4" group-title="AR-TV-Prov",Canal 7 Jujuy (Telefe)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
+#EXTINF: -1 tvg-name="" tvg-logo="https://imgur.io/G7TaQ1L" group-title="AR-TV-Prov",Canal 8 Mar del Plata (Telefe)
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+
+#EXTINF: -1 tvg-name="" tvg-logo="https://imgur.io/QvF4l2t" group-title="AR-TV-Prov",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 
 
