@@ -130,37 +130,17 @@ https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="Internacional",Telemundo Chicago
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/92
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Tucson
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41875
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo-intl.png" group-title="Internacional", Telemundo Internacional
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=1027412091&_cdn_timestamp=1691460060&_cdn_token=6079974813106e67c3d16985845de3d4f78bc1b3
-
 #EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas.png" group-title="Internacional",MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Internacional",Canal 5
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/14
 
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" group-title="Internacional",MX | N+ Media
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
 #EXTINF: -1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas-latam.png" group-title="Internacional",LATAM | Las Estrellas
 http://201.222.44.220:4227/play/a02v/index.m3u8
-
-#EXTINF: -1 tvg-id"" tvg-logo="" group-title="Internacional",TNT Novelas
-http://201.218.137.232:4123/play/a04l/index.m3u8
 
 #EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",LATAM | Univision
 http://177.53.153.21:8001/play/a0au/index.m3u8
@@ -191,9 +171,6 @@ http://quebuscasaqui.xyz:8080/sevvi/VtQKxz3bkJ/11
 
 #EXTINF: -1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/a3.png" group-title="C-TV",ES | Antena 3
 https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="USA | ID" tvg-name="USA | ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png" group-title="C-TV", Investigation Discovery
-https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ID/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=1027413531&_cdn_timestamp=1691460074&_cdn_token=6cbfff96ba066800ba0ffbe637ab34df76ac4619
 
 
 
