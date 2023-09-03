@@ -60,6 +60,18 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-kzo.png" group-title="AR-TV", KZO
 https://ythls.onrender.com/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 
+EXTINF:-1 tvg-logo="https://i2.paste.pics/d60c9f34721920d05ee4a6f098fd933a.png" group-title="AR-TV-Prov", Diti TV
+https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
+
+#EXTINF: -1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="AR-TV-Prov", NEO TV Digital 16.1
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="AR-TV-Prov", Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.io/gsgXGEj_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="AR-TV-Prov", TIV Televisión
+https://inliveserver.com:1936/14044/14044/playlist.m3u8
+
 #EXTINF: -1 tvg-name="" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="AR-TV-Prov",Canal 7 Neuquén (Telefe)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
@@ -136,9 +148,6 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/41875
 #EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas.png" group-title="Internacional",MX | Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62265c89ed9b67ef3762225b/78969543cb7e397d4c545cb9e6a70a84?tr=q-80&w=750" group-title="Internacional",MX | N+ Media
-https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
-
 #EXTINF: -1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas-latam.png" group-title="Internacional",LATAM | Las Estrellas
 http://201.222.44.220:4227/play/a02v/index.m3u8
 
@@ -153,9 +162,6 @@ https://i.mjh.nz/PlutoTV/60d393e5579a420007ee553c-alt.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/estrella-tv.png" group-title="Internacional",US | ESTRELLA TV (-3)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/k-d-drama.png" group-title="Internacional",TR | Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/k-d-drama.png" group-title="Internacional",TR | Kanal D Drama#2
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -327,26 +333,8 @@ https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/d60c9f34721920d05ee4a6f098fd933a.png" group-title="Deportes", Diti TV
-https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
-
-#EXTINF: -1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="Deportes", NEO TV Digital 16.1
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="Deportes", Bayres TV
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.io/gsgXGEj_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="Deportes", TIV Televisión
-https://inliveserver.com:1936/14044/14044/playlist.m3u8
-
 #EXTINF:-1 channel-id="pluto-63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e" tvg-chno="2140" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="Deportes",EEUU | CBS Sports: Golazo Network
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1630774881284653056/odLwe8be_400x400.jpg" group-title="Deportes",MX | Claro Sports
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1630774881284653056/odLwe8be_400x400.jpg" group-title="Deportes",MX | Claro Sports 2
-http://181.189.243.254:8000/play/a0on/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Deportes",Pluto TV: La Liga Premier Paramount+
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
