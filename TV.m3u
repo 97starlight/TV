@@ -60,7 +60,7 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-kzo.png" group-title="AR-TV", KZO
 https://ythls.onrender.com/channel/UCv0zRACOVWmhu1Ilufm40-w.m3u8
 
-EXTINF:-1 tvg-logo="https://i2.paste.pics/d60c9f34721920d05ee4a6f098fd933a.png" group-title="AR-TV-Prov", Diti TV
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/d60c9f34721920d05ee4a6f098fd933a.png" group-title="AR-TV-Prov", Diti TV
 https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
 
 #EXTINF: -1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="AR-TV-Prov", NEO TV Digital 16.1
