@@ -25,7 +25,10 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="CiudadMagazine.ar" tvg-name="NET TV" tvg-logo="https://i.imgur.io/V1xZV72_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="AR-TV",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America TV
+#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/b9e52497-52d5-4b9a-9bf4-512145d7bc64:SCL/master.m3u8
+
+#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America TV (op2)
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=934000,RESOLUTION=640x360,CODECS="mp4a.40.2,avc1.640016"
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
