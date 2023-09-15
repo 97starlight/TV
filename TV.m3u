@@ -19,7 +19,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF: -1 tvg-name="" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/norte-tv.png" group-title="AR-TV Tucumán",26.1 Norte TV
 https://stream.trixserver.com:3326/live/uv027live.m3u8
 
-#EXTINF: -1 #EXTINF: -1 tvg-id="AmericaTucuman.ar" tvg-name="América Tucumán" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-tucuman.png" group-title="AR-TV",28.1 América Tucumán
+#EXTINF: -1 #EXTINF: -1 tvg-id="AmericaTucuman.ar" tvg-name="América Tucumán" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-tucuman.png" group-title="AR-TV Tucumán",28.1 América Tucumán
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
 
