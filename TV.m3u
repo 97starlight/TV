@@ -358,9 +358,6 @@ https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports.png" group-title="TyC Sports",TyC Sports Internacional
-http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/69636.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports.png" group-title="TyC Sports",TyC Sports Internacional (op2)
 http://45.179.140.242:8000/play/a0k7
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 1
