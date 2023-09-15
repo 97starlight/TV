@@ -7,8 +7,20 @@
 EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos 2
 
 
-#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV",El Ocho TV (Tucumán)
+#EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV Tucumán",El Ocho TV (Tucumán)
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
+
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="AR-TV Tucumán",Canal 10
+https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1694770718&h=063e101e2980f43ad8847eadb35dd452
+
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="AR-TV Tucumán",18.1 Canal 12 Metro TV
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="AR-TV Tucumán",26.1 Norte TV
+https://stream.trixserver.com:3326/live/uv027live.m3u8
+
+
+
 
 #EXTINF: -1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
