@@ -11,10 +11,13 @@ EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos 2
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
 
 #EXTINF: -1 tvg-name="" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-10-tucuman.png" group-title="AR-TV Tucumán",Canal 10
-https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1694770718&h=063e101e2980f43ad8847eadb35dd452
+https://cdntvstrm.s.llnwi.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1695720249&h=5319d89c30f6f9a97812c97cf09a46d3
 
 #EXTINF: -1 tvg-name="" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-12-metro-tv.png" group-title="AR-TV Tucumán",18.1 Canal 12 Metro TV
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF: -1 tvg-name="" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/el-palomar-tv.png" group-title="AR-TV Tucumán",21.1 El Palomar TV
+https://stream.trixserver.com:3249/live/uv038live.m3u8
 
 #EXTINF: -1 tvg-name="" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/norte-tv.png" group-title="AR-TV Tucumán",26.1 Norte TV
 https://stream.trixserver.com:3326/live/uv027live.m3u8
