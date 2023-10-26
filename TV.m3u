@@ -4,7 +4,8 @@
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos
 http://190.90.251.18:8000/play/a009
 
-EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos 2
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos 2
+https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjogIkFOViIsICJ2IjogImFkc3RZUlFWYThQT2F3NG4iLCAidG9rZW4iOiAiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBjM01pT2lKdFVXSmhNazlrWjFCSVVsZFdlamRvVG01MFRuaE5NbkpwT0RGeFRsZDVXQ0lzSW5acFpDSTZJbUZrYzNSWlVsRldZVGhRVDJGM05HNGlMQ0psZUhBaU9qRTJPVGd6T0RVek1UQXNJbWxoZENJNk1UWTVPREk1T0RreE1IMC5aMnQ4YnBJZENHTEtNcVQ1Z3FISGJtekpYa2VhcXRzRkt0a1RFQ0tZTHg4IiwgImFudmFjayI6ICJtUWJhMk9kZ1BIUldWejdoTm50TnhNMnJpODFxTld5WCJ9
 
 #EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV Tucumán",El Ocho TV (Tucumán)
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
