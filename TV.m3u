@@ -5,7 +5,7 @@
 https://live-ak2.vimeocdn.com/872ea3f6-ab3e-4bd9-823b-0e6fb3496834/hls.m3u8?hdnts=exp%3D1699482323~acl%3D%252F872ea3f6-ab3e-4bd9-823b-0e6fb3496834%252Fhls.m3u8~hmac%3Ddc35787acab1a9490fe6ba8d1be2c773c775923136a913cdd85164e4b6905949
 
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="Eventos",eventos 2
-
+https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjogIkFOViIsICJ2IjogImFkc3RaTFE5YVB3RGQwcFciLCAidG9rZW4iOiAiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBjM01pT2lKdFVXSmhNazlrWjFCSVVsZFdlamRvVG01MFRuaE5NbkpwT0RGeFRsZDVXQ0lzSW5acFpDSTZJbUZrYzNSYVRGRTVZVkIzUkdRd2NGY2lMQ0psZUhBaU9qRTJPVGsxTURnNU5EQXNJbWxoZENJNk1UWTVPVFF5TWpVME1IMC5KTU9VemtnUDNodVF5WnFRR0s3Y19XRGxwX042Y3NRVVpQLUFOdk9HdjVBIiwgImFudmFjayI6ICJtUWJhMk9kZ1BIUldWejdoTm50TnhNMnJpODFxTld5WCJ9
 
 #EXTINF: -1 tvg-name="El Ocho TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV Tucumán",El Ocho TV (Tucumán)
 https://corsproxy.io/?http://heroem3u.epizy.com/dailymotion/x8hvuj5/index.m3u8
