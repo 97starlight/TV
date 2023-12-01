@@ -58,6 +58,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695712345/ei/-
 #EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America TV (op2)
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
+#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America TV (interior)
+https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+
 #EXTINF: -1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-tn.png" group-title="AR-TV",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
