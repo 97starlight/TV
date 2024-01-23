@@ -324,16 +324,15 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25337
 
 #EXTINF:-1 group-title="Internacional", NU9VE
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-#EXTINF:-1 group-title="Internacional", NU9VE
+#EXTINF:-1 group-title="Internacional", NU9VE (SD)
 https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="pluto-60d393e5579a420007ee553c" tvg-id="60d393e5579a420007ee553c" tvg-chno="2925" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/dra-polo.png" group-title="Internacional" , Casos de la Dra. Polo
-https://i.mjh.nz/PlutoTV/60d393e5579a420007ee553c-alt.m3u8
+EXTINF:-1 channel-id="pluto-60d393e5579a420007ee553c" tvg-id="60d393e5579a420007ee553c" tvg-chno="2925" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/dra-polo.png" group-title="Internacional" , Casos de la Dra. Polo
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/estrella-tv.png" group-title="Internacional",US | ESTRELLA TV (-3)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/k-d-drama.png" group-title="Internacional",TR | Kanal D Drama#2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/k-d-drama.png" group-title="Internacional",TR | Kanal D Drama (LAT)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional",TR | Kanal D
