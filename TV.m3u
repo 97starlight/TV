@@ -525,7 +525,7 @@ https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
 https://router.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
 #EXTINF:-1 group-title="Fútbol", AR - TNT Sports
 https://router.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
-#EXTINF:-1 group-title="Fútbol" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-sports.png", AR - TyC Sports
+#EXTINF:-1 group-title="Fútbol", AR - TyC Sports
 https://router.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 #EXTINF:-1 group-title="Fútbol", AR - FOX Sports
 https://router.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
