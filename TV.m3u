@@ -300,7 +300,7 @@ https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Internacional", CANAL 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 group-title="Internacional", CANAL 5
+#EXTINF:-1 group-title="Internacional", CANAL 5 (SD)
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 
 #EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",LATAM | Univision
@@ -493,11 +493,11 @@ https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
 
 
 #EXTINF:-1 group-title="Fútbol", TUDN
-https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Fútbol", TUDN
-https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Fútbol", TUDN
 https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Fútbol", TUDN (SD)
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Fútbol", TUDN (SD)
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Fútbol", FUTBOL ESPAÑOL
 https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Fútbol", FUTBOL ESPAÑOL
