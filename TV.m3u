@@ -521,25 +521,25 @@ https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5873fc21cad696fb37aa9054" tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Música" , Live Music Replay
 https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
 
-#EXTINF:-1 group-title="Fútbol", AR - ESPN Premium
+#EXTINF:-1 group-title="AR-Fútbol", AR - ESPN Premium
 https://router.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
-#EXTINF:-1 group-title="Fútbol", AR - TNT Sports
+#EXTINF:-1 group-title="AR-Fútbol", AR - TNT Sports
 https://router.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
-#EXTINF:-1 group-title="Fútbol", AR - TyC Sports
+#EXTINF:-1 group-title="AR-Fútbol", AR - TyC Sports
 https://router.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
-#EXTINF:-1 group-title="Fútbol", AR - FOX Sports
+#EXTINF:-1 group-title="AR-Fútbol", AR - FOX Sports
 https://router.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
-#EXTINF:-1 group-title="Fútbol", AR - FOX Sports 2
+#EXTINF:-1 group-title="AR-Fútbol", AR - FOX Sports 2
 https://router.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
-#EXTINF:-1 group-title="Fútbol", AR - FOX Sports 3
+#EXTINF:-1 group-title="AR-Fútbol", AR - FOX Sports 3
 https://router.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
-#EXTINF:-1 group-title="Fútbol", AR - ESPN
+#EXTINF:-1 group-title="AR-Fútbol", AR - ESPN
 https://router.cdn.rcs.net.ar/mnp/espn_hls/playlist.m3u8
-#EXTINF:-1 group-title="Fútbol", AR - ESPN 2
+#EXTINF:-1 group-title="AR-Fútbol", AR - ESPN 2
 https://router.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
-#EXTINF:-1 group-title="Fútbol", AR - ESPN 3
+#EXTINF:-1 group-title="AR-Fútbol", AR - ESPN 3
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ESPN3)/index.m3u8
-#EXTINF:-1 group-title="Fútbol", AR - ESPN Extra
+#EXTINF:-1 group-title="AR-Fútbol", AR - ESPN Extra
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ESPN_Extra)/index.m3u8
 
 
