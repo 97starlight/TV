@@ -332,15 +332,18 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV",El Gourmet
 https://router.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", TNT Novelas
+https://router.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", HBO
+https://router.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", HBO 2
+https://router.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", HBO+
+https://router.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/cuatro.png" group-title="C-TV",ES | Cuatro
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
-
-#EXTINF: -1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/cuatro.png" group-title="C-TV",ES | Cuatro (op 2)
-http://dayser.info:8080/play/deqa9MMt4Ak43jBFsBsGsN9Etm0QRwKebcz0ZWLyrzc/m3u8
-
-#EXTINF: -1 tvg-id="Antena3.es" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/cuatro.png" group-title="C-TV",ES | Cuatro (op 3)
-http://obshd.tv:25461/abdounini1/fGD3x6ATwZra/1916
 
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="C-TV", Universal TV
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
@@ -495,7 +498,7 @@ https://router.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 
 #EXTINF:-1 group-title="Fútbol", AR - FOX Sports
-https://router.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 #EXTINF:-1 group-title="Fútbol", AR - FOX Sports 2
 https://router.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 #EXTINF:-1 group-title="Fútbol", AR - FOX Sports 3
