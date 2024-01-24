@@ -68,3 +68,45 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ESPN_
 
 #EXTINF:-1 group-title="Cable-TV", AXN
 https://router.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV",El Gourmet
+https://router.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", TNT Novelas
+https://router.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", TNT Series
+https://router.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", TNT
+https://router.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", Space
+https://router.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", Cinecanal
+https://router.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", Star+
+https://router.cdn.rcs.net.ar/mnp/foxhd_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", FX
+https://router.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", HBO
+https://router.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", HBO 2
+https://router.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", HBO+
+https://router.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", HBO Family
+https://router.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", HBO Xtreme
+https://router.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", HBO Mundi
+https://router.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", HBO Pop
+https://router.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", HBO Signature
+https://router.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/cuatro.png" group-title="Cable-TV",ES | Cuatro
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Cable-TV", Universal TV
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Cable-TV", Nickelodeon
+https://router.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Cable-TV", Cartoon Network
+https://router.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
+##EXTINF: -1 tvg-name="" tvg-logo="" group-title="Cable-TV", Tooncast
+https://router.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
