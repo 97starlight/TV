@@ -40,7 +40,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece (sat)
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
 
-EXTINF: -1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-nueve.png" group-title="AR-TV",elnueve
+#EXTINF: -1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-nueve.png" group-title="AR-TV",elnueve
+https://router.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
 
 #EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-net-tv.png" group-title="AR-TV",Net TV
