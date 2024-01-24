@@ -48,7 +48,7 @@ https://router.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol", AR - TNT Sports
 https://router.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol", AR - TyC Sports
-https://www.hlsplayer.org/play?url=https://router.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol", AR - FOX Sports
 https://router.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol", AR - FOX Sports 2
