@@ -243,15 +243,8 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1  group-title="Bics", MARIA VISION CAPILLA
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8
-#EXTINF:-1 group-title="Bics", TIGO SPORTS
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", REAL MADRID TV
-https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", BEiN SPORT
-https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Bics", AFIZZIONADOS
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Bics", CÑÑ
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
@@ -577,6 +570,8 @@ https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Fútbol", FUTBOL 32
 https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Fútbol", AFIZZIONADOS
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-63a0e33a45264d000850ed7e" tvg-id="63a0e33a45264d000850ed7e" tvg-chno="2140" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG.png" group-title="Deportes",EEUU | CBS Sports: Golazo Network
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
