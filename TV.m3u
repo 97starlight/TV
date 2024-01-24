@@ -488,7 +488,10 @@ https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5873fc21cad696fb37aa9054" tvg-id="5873fc21cad696fb37aa9054" tvg-logo="https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Música" , Live Music Replay
 https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
 
-
+#EXTINF:-1 group-title="Fútbol", AR - ESPN Premium
+https://router.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
+#EXTINF:-1 group-title="Fútbol", AR - TNT Sports
+https://router.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 
 #EXTINF:-1 group-title="Fútbol", AR - FOX Sports
 https://router.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
