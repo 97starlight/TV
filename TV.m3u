@@ -330,7 +330,8 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 
 
-
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV",El Gourmet
+https://router.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/cuatro.png" group-title="C-TV",ES | Cuatro
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
