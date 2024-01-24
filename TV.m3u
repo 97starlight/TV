@@ -334,6 +334,19 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://router.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", TNT Novelas
 https://router.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", TNT Series
+https://router.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", TNT
+https://router.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", Space
+https://router.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", Cinecanal
+https://router.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", Star+
+https://router.cdn.rcs.net.ar/mnp/foxhd_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", FX
+https://router.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+
 
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", HBO
 https://router.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
@@ -351,13 +364,6 @@ https://router.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", HBO Signature
 https://router.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", Space
-https://router.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", Cinecanal
-https://router.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-TV", TNT
-https://router.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
-
 
 
 #EXTINF: -1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/cuatro.png" group-title="C-TV",ES | Cuatro
