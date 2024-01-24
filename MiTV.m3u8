@@ -49,19 +49,19 @@ https://router.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol", AR - TyC Sports
 https://router.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
-#EXTINF:-1 group-title="AR-Fútbol", AR - FOX Sports
+#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.3d8fc53c1c8466b57f586e960951d014.png", AR - FOX Sports
 https://router.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
-#EXTINF:-1 group-title="AR-Fútbol", AR - FOX Sports 2
+#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1344882745_FOXSports2ARG(2023-).png.151d074ee66613e39857d27da0a0f06c.png", AR - FOX Sports 2
 https://router.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
-#EXTINF:-1 group-title="AR-Fútbol", AR - FOX Sports 3
+#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.3a337eb99ea1ba9a71f63fc2b9c20d1f.png", AR - FOX Sports 3
 https://router.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
-#EXTINF:-1 group-title="AR-Fútbol", AR - ESPN
+#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.810499063_ESPN1SUR.png.aea39e5eeadee682a20e6b458dcefa26.png", AR - ESPN
 https://router.cdn.rcs.net.ar/mnp/espn_hls/playlist.m3u8
-#EXTINF:-1 group-title="AR-Fútbol", AR - ESPN 2
+#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.29410352073189.png.cf9e2f4876d4da47a717c736a42e8c70.png", AR - ESPN 2
 https://router.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
-#EXTINF:-1 group-title="AR-Fútbol", AR - ESPN 3
+#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.29145259072020.png.c0832780674fc1626f8bd43d8752e69b.png", AR - ESPN 3
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ESPN3)/index.m3u8
-#EXTINF:-1 group-title="AR-Fútbol", AR - ESPN Extra
+#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_06/large.1321307982_ESPNExtra.png.e9a9966b02023e939c87e02591f25603.png", AR - ESPN Extra
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ESPN_Extra)/index.m3u8
 
 ******************************************************
