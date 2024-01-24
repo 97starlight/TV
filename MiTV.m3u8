@@ -100,8 +100,6 @@ https://router.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", HBO Signature
 https://router.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/cuatro.png" group-title="Cable-TV",ES | Cuatro
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="Cable-TV", Universal TV
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="Cable-TV", Nickelodeon
@@ -143,3 +141,52 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 12
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+
+******************************************************
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Intl
+https://router.cdn.rcs.net.ar/mnp/telemundo/output.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas.png" group-title="Internacional",MX | Las Estrellas
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+
+#EXTINF: -1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas-latam.png" group-title="Internacional",LATAM | Las Estrellas
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacional", LAS ESTRELLAS MX
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Internacional", LAS ESTRELLAS MX
+https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Internacional", LAS ESTRELLAS MX -1HR
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Internacional", LAS ESTRELLAS MX -2HR
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Internacional", UNICABLE
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Internacional", CANAL 5
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:-1 group-title="Internacional", CANAL 5 (SD)
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+#EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",LATAM | Univision
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+#EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",LATAM | Univision (op 2)
+http://177.53.153.21:8001/play/a0au/index.m3u8
+#EXTINF: -1 tvg-id="Univision" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",US | Univision
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25337
+#EXTINF:-1 group-title="Internacional", NU9VE
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+#EXTINF:-1 group-title="Internacional", NU9VE (SD)
+https://linear-352.frequency.stream/mt/studio/352/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/estrella-tv.png" group-title="Internacional",US | ESTRELLA TV (-3)
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/c-tv/cuatro.png" group-title="Internacional",ES | Cuatro
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/k-d-drama.png" group-title="Internacional",TR | Kanal D Drama (LAT)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Internacional",TR | Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
