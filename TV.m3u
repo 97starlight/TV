@@ -490,9 +490,12 @@ https://i.mjh.nz/PlutoTV/5873fc21cad696fb37aa9054-alt.m3u8
 
 
 
-#
+#EXTINF:-1 group-title="Fútbol", AR - FOX Sports
+https://router.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 #EXTINF:-1 group-title="Fútbol", AR - FOX Sports 2
 https://router.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+#EXTINF:-1 group-title="Fútbol", AR - FOX Sports 3
+https://router.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 
 #EXTINF:-1 group-title="Fútbol", TUDN
 https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
