@@ -36,7 +36,7 @@ https://router.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece (sat)
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece Satelital
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
 
 #EXTINF: -1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-nueve.png" group-title="AR-TV",elnueve
@@ -49,14 +49,13 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="CiudadMagazine.ar" tvg-name="NET TV" tvg-logo="https://i.imgur.io/V1xZV72_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="AR-TV",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695712345/ei/-S8SZYijF4iJ1PIPnYiQuAc/ip/3.75.158.163/id/BolsIVSarB4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0gna7EsqR8GLuKBxJhwHt0UtD-H6Z_z1squXg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWhX64FQfZyKr5CEQWKUCjkw-6xMbYQyCNSstiIQpn7QCIHhU2-fuXG7R_hMHRJ9ut7ACqfgFaw0dDsYhObaOIGpQ/file/index.m3u8
+EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America
 
 #EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America TV (op2)
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America TV (interior)
-https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America TV (interior)
+
 
 #EXTINF: -1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-tn.png" group-title="AR-TV",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
