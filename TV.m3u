@@ -22,7 +22,7 @@ EXTINF: -1 tvg-name="" tvg-logo="https://tvabierta.weebly.com/uploads/5/1/3/4/51
 
 
 #EXTINF: -1 #EXTINF: -1 tvg-id="AmericaTucuman.ar" tvg-name="América Tucumán" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-tucuman.png" group-title="AR-TV Tucumán",28.1 América Tucumán
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706153001/ei/yX-xZe7PE9fNy_sPuc2uwAw/ip/172.70.254.208/id/VpIKCVBOD2o.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f69_G4vVBXTNyH8tnT1OtZv6Tag9bwTkF5w0IzKMk-k/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgODN5PfrG3LNVMwmgfvLwG1He4k9O9UKeLBMDpA2a1ZYCIQCSiilqQeD2gH5k8RlF5qsE41HbG8WTGbUEPwCbtG4khA%3D%3D/file/index.m3u8
+https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
 
 
