@@ -26,11 +26,10 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Bravo
 #EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America TV
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(America_TV)/index.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
-#EXTINF: -1  tvg-id="" tvg-name="" tvg-logo="" group-title="AR-TV", Ciudad Magazine
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Ciudad_Magazine)/index.m3u8
 #EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America TV (interior)
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(America_TV_Interior)/index.m3u8
+#EXTINF: -1  tvg-id="" tvg-name="" tvg-logo="" group-title="AR-TV", Ciudad Magazine
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Ciudad_Magazine)/index.m3u8
 #EXTINF: -1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-tn.png" group-title="AR-TV",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF: -1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-a24.png" group-title="AR-TV",A24
