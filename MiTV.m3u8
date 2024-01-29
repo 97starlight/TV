@@ -90,7 +90,7 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(AXN_H
 https://router.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 #EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/ae.png" group-title="Crime-TV", A&E
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(AE_Mundo_HD)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Crime-TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/universal-tv.png", Universal TV
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/universal-tv.png" group-title="Crime-TV", Universal TV
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
 
