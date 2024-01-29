@@ -63,10 +63,13 @@ https://router.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(TyC_Sports)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.3d8fc53c1c8466b57f586e960951d014.png", AR - FOX Sports
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Fox_Sports)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1344882745_FOXSports2ARG(2023-).png.151d074ee66613e39857d27da0a0f06c.png", AR - FOX Sports 2
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Fox_Sports_2)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.3a337eb99ea1ba9a71f63fc2b9c20d1f.png", AR - FOX Sports 3
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Fox_Sports_3)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.810499063_ESPN1SUR.png.aea39e5eeadee682a20e6b458dcefa26.png", AR - ESPN
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ESPN)/index.m3u8
@@ -135,10 +138,13 @@ https://router.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m
 ******************************************************
 
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Nickelodeon
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Nick_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Cartoon Network
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Cartoon_Network_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Tooncast
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Tooncast)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
 
 ******************************************************
