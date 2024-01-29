@@ -116,12 +116,26 @@ https://router.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="Cable-TV", Universal TV
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Cable-TV", Nickelodeon
+
+******************************************************
+
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Nickelodeon
 https://router.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Cable-TV", Cartoon Network
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Cartoon Network
 https://router.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
-##EXTINF: -1 tvg-name="" tvg-logo="" group-title="Cable-TV", Tooncast
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Tooncast
 https://router.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+
+******************************************************
+
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", Quiero
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Quiero_Musica)/index.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", MTV Hits
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_Hits)/index.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", MTV Live
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_Live_HD)/index.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", MTV
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_HD)/index.m3u8
 
 ******************************************************
 
