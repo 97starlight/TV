@@ -7,6 +7,8 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF: -1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe interior
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="" group-title="AR-TV",GH
+https://live-ak2.vimeocdn.com/f7cd1afc-7b51-4fd7-88f2-b4d26c6710c1/hls.m3u8?hdnts=exp%3D1706552744~acl%3D%252Ff7cd1afc-7b51-4fd7-88f2-b4d26c6710c1%252Fhls.m3u8%252A~hmac%3Dda63e8ded628057309e072433bc8bfde5eb2cfdf395cac198309081f65ac2b15
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -22,6 +24,9 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF: -1  tvg-id="" tvg-name="" tvg-logo="" group-title="AR-TV", Ciudad Magazine
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Ciudad_Magazine)/index.m3u8
 
 EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America TV (interior)
 
