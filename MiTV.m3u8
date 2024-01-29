@@ -307,13 +307,13 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 ******************************************************
 
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="documentaries", Discovery
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Doc", Discovery
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Discovery_Channel_HD)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="documentaries", History
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Doc", History
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(History_Channel_HD)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="documentaries", Animal Planet
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Doc", Animal Planet
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Animal_Planet_HD)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="documentaries", NatGeo
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Doc", NatGeo
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(National_Geographic_HD)/index.m3u8
 
 ******************************************************
