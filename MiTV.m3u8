@@ -101,6 +101,8 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(FoodN
 
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", TNT Novelas
 https://router.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Pasiones
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Pasiones_HD)/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", TNT Series
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(TNT_Series_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
@@ -252,6 +254,7 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Intl
 https://router.cdn.rcs.net.ar/mnp/telemundo/output.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Internacional
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(telemundo)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
