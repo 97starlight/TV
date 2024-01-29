@@ -153,37 +153,37 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(TCM)/
 
 ******************************************************
 
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", HBO
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBO_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", HBO 2
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO 2
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBO_2_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", HBO+
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO+
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBO_Plus_Este_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", HBO Family
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO Family
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBO_Family_Este_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", HBO Xtreme
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO Xtreme
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBOXtreme)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", HBO Mundi
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO Mundi
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBOMundi)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", HBO Pop
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO Pop
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBOPop)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", HBO Signature
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO Signature
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBO_Signature_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Universal Cinema
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", Universal Cinema
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_Cinema_HD)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Universal Comedy
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", Universal Comedy
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_COMEDY_HD)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Universal Premiere
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", Universal Premiere
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_Premiere_HD)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Universal Reality
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", Universal Reality
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_Reality_HD)/index.m3u8
 
 ******************************************************
@@ -208,6 +208,14 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_H
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_Live_HD)/index.m3u8
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", MTV
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_HD)/index.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", MTV 80s
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_80)/index.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", MTV 00s
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_00)/index.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", HTV
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HTV)/index.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", Music Top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 ******************************************************
 
