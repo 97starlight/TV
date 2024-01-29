@@ -55,7 +55,7 @@ https://router.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_tnt.png.7f547977baf6174e6ba781531c1b2136.png", AR - TNT Sports
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(TNT_Sports)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
-#EXTINF:-1 group-title="AR-Fútbol", AR - TyC Sports
+#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.TyCSports1(2022-)blanco.png.4cc895e7b6249c81e0e2eb52951310b0.png", AR - TyC Sports
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(TyC_Sports)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/large.1336428652_FOXSportsARG(2023-).png.3d8fc53c1c8466b57f586e960951d014.png", AR - FOX Sports
@@ -81,9 +81,9 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ESPN_
 
 ******************************************************
 
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Crime-TV",ID
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_04/large.1280px-Investigation_Discovery_2020_svg.png.a803f927453c8894bf3b7c08ca448db1.png" group-title="Crime-TV",ID
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ID_HD)/index.m3u8
-#EXTINF:-1 group-title="Crime-TV", Universal Crime
+#EXTINF:-1 group-title="Crime-TV" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.28d6a0ec0d1e325a8e05d88f1b14b669.png", Universal Crime
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_CRIME_HD)/index.m3u8
 #EXTINF:-1 group-title="Crime-TV", AXN
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(AXN_HD)/index.m3u8
@@ -177,13 +177,14 @@ https://router.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO Signature
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBO_Signature_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", Universal Cinema
+
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.8ec5d3f02c55232fcbedae51260baa41.png" group-title="HBO/Universal-TV", Universal Cinema
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_Cinema_HD)/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", Universal Comedy
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_COMEDY_HD)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", Universal Premiere
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.881af1411306f65bf6d53a25433c0aa3.png" group-title="HBO/Universal-TV", Universal Premiere
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_Premiere_HD)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", Universal Reality
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.09a5d6ee15cd580c5c1aca0cf03905b8.png" group-title="HBO/Universal-TV", Universal Reality
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_Reality_HD)/index.m3u8
 
 ******************************************************
