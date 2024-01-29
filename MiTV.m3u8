@@ -72,6 +72,10 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ESPN_
 https://router.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV",El Gourmet
 https://router.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
+#EXTINF:-1 group-title="Cable-TV", AXN
+https://router.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV",ID
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ID_HD)/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", TNT Novelas
 https://router.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Cable-TV", TNT Series
