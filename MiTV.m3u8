@@ -21,14 +21,14 @@ https://router.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Canal_9_Interior)/index.m3u8
 #EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-net-tv.png" group-title="AR-TV",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="AR-TV",Bravo TV
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/bravo.png" group-title="AR-TV",Bravo TV
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Bravo_TV)/index.m3u8
 #EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America TV
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(America_TV)/index.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America TV (interior)
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(America_TV_Interior)/index.m3u8
-#EXTINF: -1  tvg-id="" tvg-name="" tvg-logo="" group-title="AR-TV", Ciudad Magazine
+#EXTINF: -1  tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/cmag.png" group-title="AR-TV", Ciudad Magazine
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Ciudad_Magazine)/index.m3u8
 #EXTINF: -1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-tn.png" group-title="AR-TV",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
@@ -52,7 +52,7 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Canal
 #EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-espn-premium.png", AR - ESPN Premium
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Fox_Sports_Premium)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
-#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_tnt.png.7f547977baf6174e6ba781531c1b2136.png", AR - TNT Sports
+#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/tntsp.png", AR - TNT Sports
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(TNT_Sports)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_01/large.TyCSports1(2022-)blanco.png.4cc895e7b6249c81e0e2eb52951310b0.png", AR - TyC Sports
@@ -67,16 +67,16 @@ https://router.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-fox-sports-3.png", AR - FOX Sports 3
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Fox_Sports_3)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
-#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.810499063_ESPN1SUR.png.aea39e5eeadee682a20e6b458dcefa26.png", AR - ESPN
+#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/espn.png", AR - ESPN
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ESPN)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/espn_hls/playlist.m3u8
-#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.29410352073189.png.cf9e2f4876d4da47a717c736a42e8c70.png", AR - ESPN 2
+#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/espn2.png", AR - ESPN 2
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ESPN2)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
-#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_11/large.29145259072020.png.c0832780674fc1626f8bd43d8752e69b.png", AR - ESPN 3
+#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/espn3.png", AR - ESPN 3
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ESPN3)/index.m3u8
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ESPN3)/index.m3u8
-#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_06/large.1321307982_ESPNExtra.png.e9a9966b02023e939c87e02591f25603.png", AR - ESPN Extra
+#EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/espnx.png", AR - ESPN Extra
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ESPN_Extra)/index.m3u8
 
 ******************************************************
