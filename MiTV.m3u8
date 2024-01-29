@@ -180,7 +180,7 @@ https://router.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
 
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.8ec5d3f02c55232fcbedae51260baa41.png" group-title="HBO/Universal-TV", Universal Cinema
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_Cinema_HD)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", Universal Comedy
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.9a554b2923d75855c31732826ebcf81c.png", Universal Comedy
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_COMEDY_HD)/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.881af1411306f65bf6d53a25433c0aa3.png" group-title="HBO/Universal-TV", Universal Premiere
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_Premiere_HD)/index.m3u8
