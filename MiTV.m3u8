@@ -263,12 +263,6 @@ https://router.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF: -1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas.png" group-title="Internacional",MX | Las Estrellas
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-
-#EXTINF: -1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas-latam.png" group-title="Internacional",LATAM | Las Estrellas
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Internacional", LAS ESTRELLAS MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
@@ -280,6 +274,10 @@ https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Internacional", LAS ESTRELLAS MX -2HR
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+
+#EXTINF: -1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/las-estrellas-latam.png" group-title="Internacional",LATAM | Las Estrellas
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2018_11/large.1434326324_11(2).png.edb5b620dd52338a364a1c736d6cf5cd.png", UNICABLE
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Internacional", CANAL 5
