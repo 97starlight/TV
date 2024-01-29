@@ -81,25 +81,25 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ESPN_
 
 ******************************************************
 
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_04/large.1280px-Investigation_Discovery_2020_svg.png.a803f927453c8894bf3b7c08ca448db1.png" group-title="Crime-TV",ID
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/id.png" group-title="Crime-TV",ID
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(ID_HD)/index.m3u8
-#EXTINF:-1 group-title="Crime-TV" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.28d6a0ec0d1e325a8e05d88f1b14b669.png", Universal Crime
+#EXTINF:-1 group-title="Crime-TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/universal-crime.png", Universal Crime
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_CRIME_HD)/index.m3u8
-#EXTINF:-1 group-title="Crime-TV", AXN
+#EXTINF:-1 group-title="Crime-TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/axn.png", AXN
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(AXN_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Crime-TV", A&E
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/ae.png" group-title="Crime-TV", A&E
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(AE_Mundo_HD)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Crime-TV", Universal TV
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Crime-TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/universal-tv.png", Universal TV
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
 
 ******************************************************
 
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOOD-TV",El Gourmet
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/gourmet.png" group-title="FOOD-TV",El Gourmet
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(El_Gourmet_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="FOOD-TV",Food Network
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/food.png" group-title="FOOD-TV",Food Network
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(FoodNetwork_HD)/index.m3u8
 
 ******************************************************
@@ -257,7 +257,7 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Intl
 https://router.cdn.rcs.net.ar/mnp/telemundo/output.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Internacional
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/telemundo-intl.png" group-title="Internacional", Telemundo Internacional
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(telemundo)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo PR
