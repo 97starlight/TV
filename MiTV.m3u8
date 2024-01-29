@@ -46,6 +46,7 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large.1601863899_ESPNPremium(15).png.8d21242c9e8251e7d95a21b51545569e.png", AR - ESPN Premium
 https://router.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/large_tnt.png.7f547977baf6174e6ba781531c1b2136.png", AR - TNT Sports
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(TNT_Sports)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 #EXTINF:-1 group-title="AR-Fútbol", AR - TyC Sports
 https://router.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
