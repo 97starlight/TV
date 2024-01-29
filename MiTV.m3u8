@@ -320,12 +320,14 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Natio
 
 ******************************************************
 
-#EXTINF:-1 group-title="Fútbol", TUDN
+#EXTINF:-1 group-title="Fútbol",Zona TUDN
 https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Fútbol",Zona TUDN (SD)
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Fútbol", TUDN (SD)
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Fútbol", TUDN (SD)
-https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Fútbol", AFIZZIONADOS
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Fútbol", FUTBOL ESPAÑOL
 https://linear-489.frequency.stream/mt/studio/489/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Fútbol", FUTBOL ESPAÑOL
@@ -398,5 +400,3 @@ https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Fútbol", FUTBOL 32
 https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Fútbol", AFIZZIONADOS
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
