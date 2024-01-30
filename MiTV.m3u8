@@ -255,7 +255,7 @@ https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/inde
 
 ******************************************************
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Intl
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Intl
 https://router.cdn.rcs.net.ar/mnp/telemundo/output.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/telemundo-intl.png" group-title="Internacional", Telemundo Internacional
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(telemundo)/index.m3u8
