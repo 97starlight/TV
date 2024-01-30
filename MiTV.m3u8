@@ -187,21 +187,6 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Unive
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.09a5d6ee15cd580c5c1aca0cf03905b8.png" group-title="HBO/Universal-TV", Universal Reality
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_Reality_HD)/index.m3u8
 
-******************************************************
-
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Nickelodeon
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Nick_HD)/index.m3u8
-https://router.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Cartoon Network
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Cartoon_Network_HD)/index.m3u8
-https://router.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Disney Channel
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Disney_Channel)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Tooncast
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Tooncast)/index.m3u8
-https://router.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Discovery Kids
-https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Discovery_Kids_HD)/index.m3u8
 
 ******************************************************
 
@@ -285,9 +270,9 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 group-title="Internacional", CANAL 5 (SD)
 https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",LATAM | Univision
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+
 #EXTINF: -1 tvg-id="UnivisionPanregional.mx" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",LATAM | Univision (op 2)
-http://177.53.153.21:8001/play/a0au/index.m3u8
+
 #EXTINF: -1 tvg-id="Univision" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",US | Univision
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25337
 #EXTINF:-1 group-title="Internacional", NU9VE
@@ -396,3 +381,20 @@ https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Fútbol-ViX", FUTBOL 32
 https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
+
+
+******************************************************
+
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Nickelodeon
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Nick_HD)/index.m3u8
+https://router.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Cartoon Network
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Cartoon_Network_HD)/index.m3u8
+https://router.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Disney Channel
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Disney_Channel)/index.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Tooncast
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Tooncast)/index.m3u8
+https://router.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Discovery Kids
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Discovery_Kids_HD)/index.m3u8
