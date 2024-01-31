@@ -415,3 +415,8 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Toonc
 https://router.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
 #EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Discovery Kids
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Discovery_Kids_HD)/index.m3u8
+
+******************************************************
+
+#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Test", Test 1
+https://dai.ly/x8hvuj5
