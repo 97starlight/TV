@@ -42,9 +42,9 @@ https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="AR-TV", Diputados TV
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Diputados_TV)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="AR-TV", El Ocho TV
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-ocho-tv.png" group-title="AR-TV", El Ocho TV
 https://ythls.armelin.one/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="AR-TV", Canal 10 Tucumán
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/canal-10.jpg" group-title="AR-TV", Canal 10 Tucumán
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Canal_10_Tucuman)/index.m3u8
 
 ******************************************************
