@@ -209,21 +209,21 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Unive
 
 ******************************************************
 
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", Quiero
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/quiero.png" group-title="Music", Quiero
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Quiero_Musica)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", MTV Hits
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/mtv-hits.png" group-title="Music", MTV Hits
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_Hits)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", MTV Live
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/mtv-live.png" group-title="Music", MTV Live
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_Live_HD)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", MTV
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/mtv.png" group-title="Music", MTV
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_HD)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", MTV 80s
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/mtv-80s.png" group-title="Music", MTV 80s
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_80)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", MTV 00s
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/mtv-00s.png" group-title="Music", MTV 00s
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(MTV_00)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", HTV
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/htv.png" group-title="Music", HTV
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HTV)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Music", Music Top
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/musictop.png" group-title="Music", Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 ******************************************************
@@ -307,13 +307,13 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 ******************************************************
 
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Doc", Discovery
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/discovery.png" group-title="Doc", Discovery
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Discovery_Channel_HD)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Doc", History
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/history.png" group-title="Doc", History
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(History_Channel_HD)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Doc", Animal Planet
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/animal-planet.png" group-title="Doc", Animal Planet
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Animal_Planet_HD)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Doc", NatGeo
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/nat-geo.png" group-title="Doc", NatGeo
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(National_Geographic_HD)/index.m3u8
 
 ******************************************************
