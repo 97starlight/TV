@@ -402,21 +402,18 @@ https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
 
 ******************************************************
 
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Nickelodeon
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/nickelodeon.png" group-title="Kids", Nickelodeon
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Nick_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Cartoon Network
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/cartoon-network.png" group-title="Kids", Cartoon Network
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Cartoon_Network_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/cartoon_hls/playlist.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Disney Channel
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/disney-channel.png" group-title="Kids", Disney Channel
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Disney_Channel)/index.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Tooncast
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/tooncast.png" group-title="Kids", Tooncast
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Tooncast)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Kids", Discovery Kids
+#EXTINF: -1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/discovery-kids.png" group-title="Kids", Discovery Kids
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Discovery_Kids_HD)/index.m3u8
 
 ******************************************************
-
-#EXTINF: -1 tvg-name="" tvg-logo="" group-title="Test", Test 1
-https://dai.ly/x8hvuj5
