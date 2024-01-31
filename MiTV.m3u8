@@ -172,38 +172,38 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
 ******************************************************
 
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/hbo.png" group-title="HBO/Universal-TV", HBO
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBO_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO 2
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/hbo-2.png" group-title="HBO/Universal-TV", HBO 2
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBO_2_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO+
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/hbo-plus.png" group-title="HBO/Universal-TV", HBO+
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBO_Plus_Este_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO Family
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/hbo-family.png" group-title="HBO/Universal-TV", HBO Family
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBO_Family_Este_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO Xtreme
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/hbo-xtreme.png" group-title="HBO/Universal-TV", HBO Xtreme
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBOXtreme)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO Mundi
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/hbo-mundi.png" group-title="HBO/Universal-TV", HBO Mundi
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBOMundi)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO Pop
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/hbo-pop.png" group-title="HBO/Universal-TV", HBO Pop
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBOPop)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV", HBO Signature
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/hbo-signature.png" group-title="HBO/Universal-TV", HBO Signature
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(HBO_Signature_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1414587199_UniversalCinema-Claro.png.8ec5d3f02c55232fcbedae51260baa41.png" group-title="HBO/Universal-TV", Universal Cinema
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/universal-cinema.png" group-title="HBO/Universal-TV", Universal Cinema
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_Cinema_HD)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO/Universal-TV" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.9a554b2923d75855c31732826ebcf81c.png", Universal Comedy
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/universal-comedy.png" group-title="HBO/Universal-TV", Universal Comedy
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_COMEDY_HD)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.881af1411306f65bf6d53a25433c0aa3.png" group-title="HBO/Universal-TV", Universal Premiere
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/universal-premiere.png" group-title="HBO/Universal-TV", Universal Premiere
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_Premiere_HD)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.09a5d6ee15cd580c5c1aca0cf03905b8.png" group-title="HBO/Universal-TV", Universal Reality
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/universal-reality.png" group-title="HBO/Universal-TV", Universal Reality
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Universal_Reality_HD)/index.m3u8
 
 
