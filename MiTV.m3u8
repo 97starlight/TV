@@ -108,47 +108,47 @@ EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", TNT
 https://router.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Pasiones
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Pasiones_HD)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", TNT Series
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/tnt-series.png" group-title="Series/Movies-TV", TNT Series
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(TNT_Series_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", TNT
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/tnt.png" group-title="Series/Movies-TV", TNT
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(TNT_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Space
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/space.png" group-title="Series/Movies-TV", Space
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Space_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Cinecanal
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/cinecanal.png" group-title="Series/Movies-TV", Cinecanal
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Cinecanal_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Star+
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/star-channel.png" group-title="Series/Movies-TV", Star Channel
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Fox_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/foxhd_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", FX
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/fx.png" group-title="Series/Movies-TV", FX
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(FX_HD)/index.m3u8
 https://router.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Cinemax
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/cinemax.png" group-title="Series/Movies-TV", Cinemax
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Cinemax_HD)/index.m3u8
 EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", iSat
 
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Comedy Central
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/comedy-central.png" group-title="Series/Movies-TV", Comedy Central
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Comedy_Central_HD)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Warner TV
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/warner.png" group-title="Series/Movies-TV", Warner TV
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Warner_Channel_HD)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", AMC
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/amc.png" group-title="Series/Movies-TV", AMC
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(AMC_HD)/index.m3u8
 EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Sony Channel
 
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", SyFy
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(SYFY_HD)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Studio Universal
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/studio-universal.png" group-title="Series/Movies-TV", Studio Universal
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Studio_Universal)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Paramount Network
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/paramount-network.png" group-title="Series/Movies-TV", Paramount Network
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Paramount_Channel_HD)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Volver
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/volver.png" group-title="Series/Movies-TV", Volver
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Volver)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", TCM
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/tcm.png" group-title="Series/Movies-TV", TCM
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(TCM)/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", CineAR
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/cine-ar.png" group-title="Series/Movies-TV", CineAR
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Cinear)/index.m3u8
 
 #EXTINF:-1 group-title="Series/Movies-TV", GOLDEN
