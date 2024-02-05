@@ -139,7 +139,7 @@ https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Warne
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(AMC_HD)/index.m3u8
 EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", Sony Channel
 
-#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", SyFy
+#EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="" group-title="Series/Movies-TV", USA
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(SYFY_HD)/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/studio-universal.png" group-title="Series/Movies-TV", Studio Universal
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(Studio_Universal)/index.m3u8
