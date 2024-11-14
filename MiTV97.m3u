@@ -47,3 +47,9 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-t
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 #EXTINF:-1 group-title="Internacional", LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="Internacional", CANAL 5
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF: -1 tvg-id="Univision" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",US | Univision
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Internacional",TR | Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
