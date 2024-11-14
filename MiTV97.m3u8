@@ -21,6 +21,9 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF: -1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-cronica.png" group-title="AR-TV",Cronica TV
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
+#EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-net-tv.png" group-title="AR-TV",Net TV
+https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+
 ******************************************************
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 1
