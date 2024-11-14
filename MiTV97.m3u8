@@ -56,5 +56,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF: -1 tvg-id="Univision" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",US | Univision
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/k-d-drama.png" group-title="Internacional",TR | Kanal D Drama (LAT)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Internacional",TR | Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
