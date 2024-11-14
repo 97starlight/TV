@@ -74,3 +74,6 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 #EXTINF:-1 group-title="AR-Fútbol", AR - TyC Sports
 https://c3bvcnrz.la10tv.com/lb/tycsports/index.m3u8?token=7611ee356db658c9ef2f5b75030324ea6f758ff9-66-1731634319-1731598319
+
+#EXTINF:-1 group-title="AR-Fútbol", AR - TNT Sports
+https://c3bvcnrz.la10tv.com/lb/tntsports/index.m3u8?token=ba8e0c4f1c046e49fb75c5f9e4a2ef49bd55c93c-89-1731643367-1731607367
