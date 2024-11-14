@@ -1,2 +1,5 @@
-ahshshhs
-hsjsjs
+#EXTINF
+
+#EXTINF: -1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe
+https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
