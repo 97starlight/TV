@@ -24,6 +24,9 @@ https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-net-tv.png" group-title="AR-TV",Net TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
+#EXTINF: -1  tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/cmag.png" group-title="AR-TV", Ciudad Magazine
+https://stream.mxiptv.org/live/tvabierta/opentv/352.m3u8
+
 ******************************************************
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 1
