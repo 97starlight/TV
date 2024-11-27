@@ -80,3 +80,6 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Eventos",Uno
 https://cdn9.en-vivo.info/hotflix/tudn/index.m3u8?token=045eca6f70bb0634bf0483c97d523fb19a7f6820-8a8694f53d6fdc7f76bacebf0797b206-1732752962-1732742162&remote=181.1.158.23
 
+#EXTINF:-1 tvg-logo="" group-title="Eventos",Dos
+https://cdn8.en-vivo.info/hotflix/espn2/index.m3u8?token=255f1d866f85c47deef4b8960ed4fc61f897897f-c63030b71b5c06508ff2e9ffb83cf5e5-1732755592-1732744792&remote=181.1.158.23
+
