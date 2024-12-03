@@ -77,9 +77,20 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTINF:-1 tvg-logo="" group-title="Internacional",TR | Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
+------------------------
+
 #EXTINF:-1 tvg-logo="" group-title="Eventos",Uno
 
 
 #EXTINF:-1 tvg-logo="" group-title="Eventos",Dos
 
+------------------------
 
+
+#EXTINF:-1 tvg-logo="" group-title="Especial",434
+https://cdn1.turboviplay.com/data1/66b4fa5417841/66b4fa5417841.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Especial",435
+https://cdn1.turboviplay.com/data1/66b4fa52c4957/66b4fa52c4957.m3u8
