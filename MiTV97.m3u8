@@ -94,3 +94,8 @@ https://cdn1.turboviplay.com/data1/66b4fa5417841/66b4fa5417841.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Especial",435
 https://cdn1.turboviplay.com/data1/66b4fa52c4957/66b4fa52c4957.m3u8
+
+------------------------
+
+#EXTINF:-1 tvg-logo="" group-title="eventosGH", Principal
+https://vsd144.okcdn.ru/hls/7533339282004.m3u8/sig/5mjigooEf7Y/expires/1733381978057/srcIp/181.1.158.23/urls/185.226.53.83/clientType/1/srcAg/UNKNOWN_ANDROID/mid/8853714443860/video.m3u8?p
