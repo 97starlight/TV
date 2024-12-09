@@ -80,7 +80,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 ------------------------
 
 #EXTINF:-1 tvg-logo="" group-title="Eventos FTBL", Paramount+ 
-https://cars565.pricesaskeloadsc.com/global/paramount5/index.m3u8?token=83410f3f2aab2af65c2c60c559f55e2ad6a139eb-54-1733643816-1733607816
+
 
 #EXTINF:-1 tvg-logo="" group-title="Eventos FTBL", Paramount+
 
@@ -88,12 +88,12 @@ https://cars565.pricesaskeloadsc.com/global/paramount5/index.m3u8?token=83410f3f
 ------------------------
 
 
-#EXTINF:-1 tvg-logo="" group-title="Especial",438
+#EXTINF:-1 tvg-logo="" group-title="Especial",1
+https://mitelefe.com/Api/Videos/GetSourceUrl/820238/0/HLS
 
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="Especial",439
+#EXTINF:-1 tvg-logo="" group-title="Especial",
 
 
 ------------------------
