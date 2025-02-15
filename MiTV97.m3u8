@@ -90,11 +90,11 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 
 ------------------------
 
-#EXTINF:-1 tvg-logo="" group-title="Eventos FTBL", Paramount+ 
+#EXTINF:-1 tvg-logo="" group-title="Eventos +", Cosquín Sur 1
+https://99a.pricesaskeloadsc.com/global/disney2/index.m3u8?token=4be50e1f7075dbe2f7ba5f93fc2949f00289b28b-44-1739685463-1739653063
 
-
-#EXTINF:-1 tvg-logo="" group-title="Eventos FTBL", Paramount+
-
+#EXTINF:-1 tvg-logo="" group-title="Eventos +", Cosquín Norte 2
+https://cbado.pricesaskeloadsc.com/global/disney3/index.m3u8?token=17a641b10190bd929af4c01eab942a282047594a-2f-1739685501-1739653101
 
 ------------------------
 
