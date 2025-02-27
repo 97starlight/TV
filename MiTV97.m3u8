@@ -102,11 +102,11 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 
 ------------------------
 
-#EXTINF:-1 tvg-logo="" group-title="Eventos +", Cosquín Sur 1
-https://99a.pricesaskeloadsc.com/global/disney2/index.m3u8?token=4be50e1f7075dbe2f7ba5f93fc2949f00289b28b-44-1739685463-1739653063
+#EXTINF:-1 tvg-logo="" group-title="Eventos +", Viña 2025
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/UnVrMP7wWMPVLL1xnpH-qebbMASVEWsLCpj4PE4Q3XhRNRqiLVxeQ1MBrdqnHLIJbtXH6-ccjzkI1medrdvrRQ/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-logo="" group-title="Eventos +", Cosquín Norte 2
-https://cbado.pricesaskeloadsc.com/global/disney3/index.m3u8?token=17a641b10190bd929af4c01eab942a282047594a-2f-1739685501-1739653101
+EXTINF:-1 tvg-logo="" group-title="Eventos +",
+
 
 ------------------------
 
