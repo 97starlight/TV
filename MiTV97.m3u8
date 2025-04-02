@@ -94,14 +94,6 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 ------------------------
 
-
-#EXTINF:-1 tvg-logo="" group-title="Pluto",NCIS
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63eb947c4e83e70008ab877b/1042180/playlist.m3u8
-
-
-
-------------------------
-
 #EXTINF:-1 tvg-logo="" group-title="Eventos +", 
 
 
@@ -125,18 +117,3 @@ https://24a.pricesaskeloadsc.com/global/espnplus1/index.m3u8?token=d9d67caaccf93
 
 
 ------------------------
-
-#EXTINF:-1 tvg-logo="" group-title="Big Brother", 24/7
-https://24a.pricesaskeloadsc.com/global/granhermanocamara24horas/index.m3u8?token=947d5da2bb0e1cd271e796a20e9e49349f1607c9-1b-1743645752-1743613352
-
-#EXTINF:-1 tvg-logo="" group-title="Big Brother", CAM 1
-https://ca8s9.pricesaskeloadsc.com/global/granhermanocamara24horas/index.m3u8?token=16b5f687420836a0a9cbb1c880964b5658ac79b5-11-1743645758-1743613358
-
-#EXTINF:-1 tvg-logo="" group-title="Big Brother", CAM 2
-https://pecdl.pricesaskeloadsc.com/global/grahermanocam1/index.m3u8?token=5c85666575276a60ab19b0e735ecb2a6927c1377-fb-1743645816-1743613416
-
-#EXTINF:-1 tvg-logo="" group-title="Big Brother", CAM 3
-https://bcja.pricesaskeloadsc.com/global/grahermanocam2/index.m3u8?token=ef2e6e78922984fe3942ed1609bc70d90eff006a-2a-1743645865-1743613465
-
-#EXTINF:-1 tvg-logo="" group-title="Big Brother", MULTICAM
-https://coeld.pricesaskeloadsc.com/global/grahermanocam3/index.m3u8?token=c680a9f4691e9544f43d64f87c0143bb440a7da0-7e-1743645891-1743613491
