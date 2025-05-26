@@ -3,23 +3,23 @@
 #EXTINF: -1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
-#EXTINF: -1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe (interior)
+EXTINF: -1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe (interior)
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece Satelital
+EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece Satelital
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
 
-#EXTINF: -1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-nueve.png" group-title="AR-TV",elnueve
+EXTINF: -1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-nueve.png" group-title="AR-TV",elnueve
 https://usher.ttvnw.net/api/channel/hls/elnueve_ok.m3u8
 
 
 #EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF: -1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-cronica.png" group-title="AR-TV",Cronica TV
+EXTINF: -1 tvg-id="CronicaTV.ar" tvg-name="Cronica TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-cronica.png" group-title="AR-TV",Cronica TV
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 #EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-net-tv.png" group-title="AR-TV",Net TV
