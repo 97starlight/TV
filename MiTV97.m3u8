@@ -121,10 +121,10 @@ https://matchmaker.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:u
 https://matchmaker.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/mobile_wifi_main_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Especial", Woodsies Stage
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_001/mobile_wifi_main_hd_abr_v2.mpd
+https://ve-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_001/mobile_wifi_main_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Especial", West Holts Stage
-https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/mobile_wifi_main_hd_abr_v2.mpd
+https://pub-c3-b6-rbsov-bbc.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/mobile_wifi_main_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Especial", Park Stage
 https://ve-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/mobile_wifi_main_hd_abr_v2.mpd
