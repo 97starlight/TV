@@ -111,10 +111,10 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 ------------------------
 
 
-#EXTINF:-1 tvg-logo="" group-title="Especial", GLSTBRY
-https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:video_pop_up_channel_04/mobile_wifi_main_hd_abr_v2.mpd
+#EXTINF:-1 tvg-logo="" group-title="Especial", Glastonbury Channel
+https://ve-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/mobile_wifi_main_hd_abr_v2.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Especial", Pyramid
+#EXTINF:-1 tvg-logo="" group-title="Especial", Pyramid Stage
 https://matchmaker.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/mobile_wifi_main_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Especial", Other Stage
@@ -123,8 +123,16 @@ https://matchmaker.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:u
 #EXTINF:-1 tvg-logo="" group-title="Especial", Now Playing
 https://matchmaker.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/pc_hd_abr_v2.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Especial",
+#EXTINF:-1 tvg-logo="" group-title="Especial", Woodsies Stage
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_001/mobile_wifi_main_hd_abr_v2.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Especial", West Holts Stage
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/mobile_wifi_main_hd_abr_v2.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Especial", Park Stage
+https://ve-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/mobile_wifi_main_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Especial", Signed - Pyramid Stage
+https://ve-cmaf-push-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/mobile_wifi_main_hd_abr_v2.mpd
 
 ------------------------
