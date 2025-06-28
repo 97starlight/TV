@@ -135,6 +135,19 @@ https://ve-cmaf-push-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_
 #EXTINF:-1 tvg-logo="" group-title="Especial", Glasto Channel 2025 Highlights
 https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:video_pop_up_channel_04/mobile_wifi_main_hd_abr_v2.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Especial", BBC ONE
-https://vs-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_hd_abr_v2.mpd
 ------------------------
+
+#EXTINF:-1 tvg-logo="" group-title="BBC", BBC One
+https://vs-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="BBC", BBC Two
+https://vs-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="BBC", BBC Three
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/mobile_wifi_main_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="BBC", BBC Four
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_hd_abr_v2.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="BBC", CBBC
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_hd_abr_v2.mpd
