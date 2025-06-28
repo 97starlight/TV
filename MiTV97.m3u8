@@ -132,4 +132,6 @@ https://ve-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_
 #EXTINF:-1 tvg-logo="" group-title="Especial", Signed - Pyramid Stage
 https://ve-cmaf-push-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/mobile_wifi_main_hd_abr_v2.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="Especial", Glasto Channel: 2025 Highlights
+https://pub-c2-b2-far-bt.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:video_pop_up_channel_04/mobile_wifi_main_hd_abr_v2.mpd
 ------------------------
