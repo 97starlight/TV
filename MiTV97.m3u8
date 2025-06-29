@@ -115,7 +115,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://ve-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/mobile_wifi_main_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Especial", Pyramid Stage
-https://matchmaker.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/mobile_wifi_main_hd_abr_v2.mpd
+https://ve-cmaf-push-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/mobile_wifi_main_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Especial", Other Stage
 https://matchmaker.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/mobile_wifi_main_hd_abr_v2.mpd
@@ -130,24 +130,24 @@ https://pub-c3-b6-rbsov-bbc.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:
 https://ve-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/mobile_wifi_main_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Especial", Signed - Pyramid Stage
-https://ve-cmaf-push-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/mobile_wifi_main_hd_abr_v2.mpd
+https://matchmaker.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/mobile_wifi_main_hd_abr_v2.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Especial", Glasto Channel 2025 Highlights
 https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:video_pop_up_channel_04/mobile_wifi_main_hd_abr_v2.mpd
 
 ------------------------
 
-#EXTINF:-1 tvg-logo="" group-title="BBC", BBC One
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/One.png" group-title="BBC", BBC One
 https://vs-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_hd_abr_v2.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="BBC", BBC Two
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/Two.png" group-title="BBC", BBC Two
 https://vs-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_hd_abr_v2.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="BBC", BBC Three
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/Three.png" group-title="BBC", BBC Three
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/mobile_wifi_main_hd_abr_v2.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="BBC", BBC Four
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/Four.png" group-title="BBC", BBC Four
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_hd_abr_v2.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="BBC", CBBC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/CBBC.png" group-title="BBC", CBBC
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_hd_abr_v2.mpd
