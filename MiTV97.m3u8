@@ -76,9 +76,6 @@ http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/internacional/las-estrellas.png",MX | LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="",ID
-https://telegratuita.com/cors-proxy.php?url=https://streamer1.nexgen.bz/DISCOVERY_ID/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="",MX | ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
@@ -100,6 +97,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional",TR | Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+------------------------
+
+#EXTINF:-1 tvg-id="" group-title="Cable" tvg-logo="", ID
+https://telegratuita.com/cors-proxy.php?url=https://streamer1.nexgen.bz/DISCOVERY_ID/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Cable" tvg-logo="", ElGourmet
+https://simonphil-tvproxyhd.hf.space/proxy/hls/manifest.m3u8?d=https://bigboss.bemtv.cn/STREAM/1005/chunks.m3u8&api_password=pistols011
+
 
 ------------------------
 
