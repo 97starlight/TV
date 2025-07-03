@@ -9,6 +9,9 @@ https://router.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece (2)
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
+
 EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece Satelital
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
 
