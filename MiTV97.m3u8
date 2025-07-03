@@ -169,3 +169,11 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 
 #EXTINF:-1 tvg-logo="" group-title="BBC", Radio 2
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/aks/bbc_radio_two.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="BBC", Radio 3
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/cfs/bbc_radio_three.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="BBC", Radio 3 Unwind
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/aks/bbc_radio_three_unwind.mpd
+
+EXTINF:-1 tvg-logo="" group-title="BBC", 
