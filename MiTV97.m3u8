@@ -102,11 +102,9 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="" group-title="Cable" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/c-tv/id.png", ID
 https://telegratuita.com/cors-proxy.php?url=https://streamer1.nexgen.bz/DISCOVERY_ID/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Cable" tvg-logo="", ElGourmet
-https://simonphil-tvproxyhd.hf.space/proxy/hls/manifest.m3u8?d=https://bigboss.bemtv.cn/STREAM/1005/chunks.m3u8&api_password=pistols011
+EXTINF:-1 tvg-id="" group-title="Cable" tvg-logo="", ElGourmet
 
-#EXTINF:-1 tvg-id="" group-title="Cable" tvg-logo="", Universal TV
-https://simonphil-tvproxyhd.hf.space/proxy/hls/manifest.m3u8?d=https://bigboss.bemtv.cn/STREAM/146/chunks.m3u8&api_password=pistols011
+EXTINF:-1 tvg-id="" group-title="Cable" tvg-logo="", Universal TV
 
 
 
