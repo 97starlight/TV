@@ -37,6 +37,10 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-logo="" group-title="AR-TV", TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="AR- Radio", La 100
+https://live-05-13-la100.vodgc.net/live-05-13-la100/tracks-v3a1/mono.m3u8
+
 EXTINF:-1 tvg-logo="" group-title="AR-TV", Test
 
 
