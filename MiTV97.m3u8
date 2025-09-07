@@ -3,7 +3,7 @@
 #EXTINF: -1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
-#EXTINF: -1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe (interior)
+EXTINF: -1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe (interior)
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece
@@ -33,6 +33,9 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AR-TV", Bravo TV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AR-TV", TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 EXTINF:-1 tvg-logo="" group-title="AR-TV", Test
 
