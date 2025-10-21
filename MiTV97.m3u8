@@ -86,8 +86,10 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-t
 #EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/internacional/las-estrellas.png",MX | LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="",MX | Azteca UNO
+#EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="",MX | Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="",MX | Azteca 7
 
 #EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="",MX | ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
