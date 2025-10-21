@@ -69,9 +69,6 @@ EXTINF:-1 group-title="Internacional", CANAL 5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/k-d-drama.png" group-title="Internacional",TR | Kanal D Drama (LAT)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Internacional",TR | Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-
 ------------------------
 
 #EXTINF:-1 tvg-id="" group-title="Cable" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/c-tv/id.png", ID
