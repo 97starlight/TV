@@ -21,7 +21,7 @@ https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
 EXTINF: -1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-net-tv.png" group-title="AR-TV",Net TV 2
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF: -1  tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/cmag.png" group-title="AR-TV", Ciudad Magazine
+#EXTINF: -1  tvg-id="CiudadMagazine.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/cmag.png" group-title="AR-TV", Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AR-TV", Bravo TV
