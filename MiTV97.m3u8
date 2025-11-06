@@ -1,6 +1,6 @@
 #EXTINF
 
-tvg="https://impeditor.com/epg/capanueve/capanueve"
+tvg="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Argentina/argentina1.xml"
 
 
 #EXTINF: -1 tvg-id="1909" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe
