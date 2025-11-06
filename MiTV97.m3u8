@@ -4,6 +4,9 @@
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece
+https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+https://livetrx01.vodgc.net/eltrecetv/tracks-v2a1/mono.m3u8
+https://livetrx01.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF: -1  tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America
