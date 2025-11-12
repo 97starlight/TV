@@ -53,6 +53,9 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="https://i.imgur.com/UtFXjIn.png",MX | Azteca 7 (GEO)
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",MX | Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo 31 ( WTMO Orlando ) 
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
@@ -61,9 +64,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="https://i.imgur.com/Og17U9N.png",MX | ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png",MX | Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 EXTINF:-1 group-title="Internacional", CANAL 5
 
