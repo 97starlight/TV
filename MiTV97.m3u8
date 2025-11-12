@@ -45,24 +45,24 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-t
 
 ******************************************************
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo 31 (WTMO Orlando TLMD31) 
-https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
-
-#EXTINF:-1 tvg-id="KMEXDT1.us" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional", Univision 34 LA (+4 GEO) 
-https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo PR
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/internacional/las-estrellas.png",MX | LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="KMEXDT1.us" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional", Univision 34 LA ( +4 GEO ) 
+https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="https://i.imgur.com/rRxgBtI.png",MX | Azteca Uno (GEO)
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="https://i.imgur.com/UtFXjIn.png",MX | Azteca 7 (GEO)
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo 31 ( WTMO Orlando ) 
+https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="https://i.imgur.com/Og17U9N.png",MX | ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -81,12 +81,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 https://telegratuita.com/cors-proxy.php?url=https://streamer1.nexgen.bz/DISCOVERY_ID/index.m3u8
 
 ------------------------
-
-#EXTINF:-1 tvg-logo="" group-title="Eventos +", FUT1
-
-
-#EXTINF:-1 tvg-logo="" group-title="Eventos +", DSNY+
-
 
 ------------------------
 
@@ -154,3 +148,15 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/aks/bbc_radio_three_unwind.mpd
 
 EXTINF:-1 tvg-logo="" group-title="BBC", 
+
+
+
+
+-------------------
+
+
+EXTINF:-1 tvg-logo="" group-title="Eventos +",
+
+
+EXTINF:-1 tvg-logo="" group-title="Eventos +",
+
