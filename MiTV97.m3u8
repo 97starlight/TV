@@ -66,6 +66,15 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/k-d-drama.png" group-title="Internacional",TR | Kanal D Drama (LAT)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ABCNewsLive.us" group-title="Internacional" tvg-logo="", US | ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="AccuWeatherNOW.us" group-title="Internacional" tvg-logo="",US | AccuWeather NOW
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFVEspanol.us" group-title="Internacional" tvg-logo="",US | AFV Español
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+
 ------------------------
 
 #EXTINF:-1 tvg-id="" group-title="Cable" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/c-tv/id.png", ID
