@@ -63,6 +63,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Latina.pe" group-title="Internacional" tvg-logo="https://i.imgur.com/MOsWriY.png", PE | Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ATV.pe" group-title="Internacional" tvg-logo="https://i.imgur.com/eUzYZfg.png", PE | ATV
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 tvg-id="ADN40.mx" group-title="Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/ADN40.png",MX | ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
