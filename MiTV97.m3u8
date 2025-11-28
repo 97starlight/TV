@@ -57,13 +57,13 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="WTMOCD1.us" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional",US | Telemundo 31
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional", Telemundo Puerto Rico
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional",PR | Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="Latina.pe" group-title="Internacional" tvg-logo="https://i.imgur.com/MOsWriY.png", PE | Latina
+#EXTINF:-1 tvg-id="Latina.pe" group-title="Internacional" tvg-logo="https://i.imgur.com/MOsWriY.png",PE | Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ATV.pe" group-title="Internacional" tvg-logo="https://i.imgur.com/eUzYZfg.png", PE | ATV
+#EXTINF:-1 tvg-id="ATV.pe" group-title="Internacional" tvg-logo="https://i.imgur.com/eUzYZfg.png",PE | ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="ADN40.mx" group-title="Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/ADN40.png",MX | ADN 40
