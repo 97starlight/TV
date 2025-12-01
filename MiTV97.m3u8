@@ -90,6 +90,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" group-title="US-TV" tvg-logo="https://i.imgur.com/IRyFTWq.png",CA | Qello Concerts by Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" group-title="US-TV" tvg-logo="https://i.imgur.com/A8CnA8g.png",US | CBS Sports Network USA
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+
+
 ------------------------
 
 #EXTINF:-1 tvg-id="" group-title="Cable" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/c-tv/id.png", ID
