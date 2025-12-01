@@ -108,6 +108,9 @@ https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="US-TV" tvg-logo="",US | Paramount Network East
 https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="CNBCWorld.us" group-title="US-TV" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26849/s26849_ll_h15_ab.png",US | CNBC World
+https://fl1.moveonjoy.com/CNBC_World/index.m3u8
+
 ------------------------
 
 #EXTINF:-1 tvg-id="" group-title="Cable" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/c-tv/id.png", ID
