@@ -120,31 +120,6 @@ https://telegratuita.com/cors-proxy.php?url=https://streamer1.nexgen.bz/DISCOVER
 
 ------------------------
 
-
-#EXTINF:-1 tvg-logo="" group-title="Especial", Glastonbury Channel
-https://ve-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/mobile_wifi_main_hd_abr_v2.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Especial", Pyramid Stage
-https://ve-cmaf-push-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/mobile_wifi_main_hd_abr_v2.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Especial", Other Stage
-https://matchmaker.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/mobile_wifi_main_hd_abr_v2.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Especial", Woodsies Stage
-https://ve-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_001/mobile_wifi_main_hd_abr_v2.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Especial", West Holts Stage
-https://pub-c3-b6-rbsov-bbc.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/mobile_wifi_main_hd_abr_v2.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Especial", Park Stage
-https://ve-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/mobile_wifi_main_hd_abr_v2.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Especial", Signed - Pyramid Stage
-https://matchmaker.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/mobile_wifi_main_hd_abr_v2.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Especial", Glasto Channel 2025 Highlights
-https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:video_pop_up_channel_04/mobile_wifi_main_hd_abr_v2.mpd
-
 ------------------------
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/One.png" group-title="BBC", BBC One
@@ -227,11 +202,24 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR6.png" group-title="BBC Radio", BBC Radio 6
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/cfs/bbc_6music.mpd
 
+-------------------
 
-
-EXTINF:-1 tvg-logo="" group-title="BBC", 
-
-
+#EXTINF:-1 tvg-logo="" group-title="BBC Glastonbury", Glastonbury Channel
+https://ve-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/mobile_wifi_main_hd_abr_v2.mpd
+#EXTINF:-1 tvg-logo="" group-title="BBC Glastonbury", Pyramid Stage
+https://ve-cmaf-push-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/mobile_wifi_main_hd_abr_v2.mpd
+#EXTINF:-1 tvg-logo="" group-title="BBC Glastonbury", Other Stage
+https://matchmaker.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/mobile_wifi_main_hd_abr_v2.mpd
+#EXTINF:-1 tvg-logo="" group-title="BBC Glastonbury", Woodsies Stage
+https://ve-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_001/mobile_wifi_main_hd_abr_v2.mpd
+#EXTINF:-1 tvg-logo="" group-title="BBC Glastonbury", West Holts Stage
+https://pub-c3-b6-rbsov-bbc.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/mobile_wifi_main_hd_abr_v2.mpd
+#EXTINF:-1 tvg-logo="" group-title="BBC Glastonbury", Park Stage
+https://ve-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/mobile_wifi_main_hd_abr_v2.mpd
+#EXTINF:-1 tvg-logo="" group-title="BBC Glastonbury", Signed - Pyramid Stage
+https://matchmaker.live.bidi.net.uk/ve-cmaf-push-uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/mobile_wifi_main_hd_abr_v2.mpd
+#EXTINF:-1 tvg-logo="" group-title="BBC Glastonbury", Glasto Channel 2025 Highlights
+https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:video_pop_up_channel_04/mobile_wifi_main_hd_abr_v2.mpd
 
 
 -------------------
