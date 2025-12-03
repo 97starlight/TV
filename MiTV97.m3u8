@@ -96,9 +96,6 @@ https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" group-title="US-TV" tvg-logo="https://i.imgur.com/IRyFTWq.png",CA | Qello Concerts by Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="US-TV" tvg-logo="",US | Paramount Network East
-https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-
 #EXTINF:-1 tvg-id="CNBCWorld.us" group-title="US-TV" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26849/s26849_ll_h15_ab.png",US | CNBC World
 https://fl1.moveonjoy.com/CNBC_World/index.m3u8
 
@@ -113,6 +110,8 @@ https://telegratuita.com/cors-proxy.php?url=https://streamer1.nexgen.bz/DISCOVER
 
 #EXTINF:-1 tvg-id="WCBSDT1.us" tvg-logo="" group-title="CBS", CBS New York
 https://tvpass.org/live/WCBSDT1/hd
+#EXTINF:-1 tvg-id="ParamountNetwork.us" group-title="CBS" tvg-logo="",US | Paramount Network East
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="" group-title="CBS", CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-logo="https://i.imgur.com/jy3UfCe.png" group-title="CBS", CBS News Baltimore
