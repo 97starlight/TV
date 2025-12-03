@@ -120,85 +120,80 @@ https://telegratuita.com/cors-proxy.php?url=https://streamer1.nexgen.bz/DISCOVER
 
 ------------------------
 
+#EXTINF:-1 tvg-id="CBSNews247.us" tvg-logo="" group-title="CBS", CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-logo="" group-title="CBS", CBS News Baltimore
+https://cbsnews.akamaized.net/hls/live/2099390/cbsnbal_11/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsBayArea.us" tvg-logo="" group-title="CBS", CBS News Bay Area
+https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsBoston.us" tvg-logo="" group-title="CBS", CBS News Boston
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsChicago.us" tvg-logo="" group-title="CBS", CBS News Chicago
+https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsColorado.us" tvg-logo="" group-title="CBS", CBS News Colorado
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsDetroit.us" tvg-logo="" group-title="CBS", CBS News Detroit
+https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-logo="" group-title="CBS", CBS News Los Angeles
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsMiami.us" tvg-logo="" group-title="CBS", CBS News Miami
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsMinnesota.us" tvg-logo="" group-title="CBS", CBS News Minnesota
+https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
+
 ------------------------
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/One.png" group-title="BBC", BBC One
 https://vs-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_hd_abr_v2.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/One.png" group-title="BBC", BBC One London
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_hd_abr_v2.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/Two.png" group-title="BBC", BBC Two
 https://vs-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_hd_abr_v2.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/Three.png" group-title="BBC", BBC Three
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/mobile_wifi_main_hd_abr_v2.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/Three.png" group-title="BBC", BBC Three (alt)
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv10/b=1604032/main.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/Four.png" group-title="BBC", BBC Four
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_hd_abr_v2.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/CBBC.png" group-title="BBC", BBC CBBC
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_hd_abr_v2.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="BBC", BBC CBeebies
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_hd_abr_v2.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/One.png" group-title="BBC", BBC Scotland
 https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_hd_abr_v2.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="BBC", BBC NEWS
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="BBC", BBC PARLIAMENT
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_hd_abr_v2.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="BBC", BBC ALBA
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_alba/pc_hd_abr_v2.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="BBC", BBC S4C
 https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:s4cpbs/pc_hd_abr_v2.mpd
 
-
-
 ----------------------
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCRL.jpeg" group-title="BBC", BBC Radio London
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/aks/bbc_london.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR1.png" group-title="BBC Radio", BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/mobile_wifi_main_hd_abr_v2/aks/bbc_radio_one.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR1A.png" group-title="BBC Radio", BBC Radio 1 Anthems
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/aks/bbc_radio_one_anthems.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR1D.png" group-title="BBC Radio", BBC Radio 1 Dance
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/aks/bbc_radio_one_dance.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR1X.png" group-title="BBC Radio", BBC Radio 1Xtra
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/cfs/bbc_1xtra.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR2.jpg" group-title="BBC Radio", BBC Radio 2
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/aks/bbc_radio_two.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR3.png" group-title="BBC Radio", BBC Radio 3
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/cfs/bbc_radio_three.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR3U.png" group-title="BBC Radio", BBC Radio 3 Unwind
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/aks/bbc_radio_three_unwind.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR4.png" group-title="BBC Radio", BBC Radio 4
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/cfs/bbc_radio_fourfm.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR5.png" group-title="BBC Radio", BBC Radio 5
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/cfs/bbc_radio_five_live.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR5X.jpeg" group-title="BBC Radio", BBC Radio 5 Sports Extra
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/cfs/bbc_radio_five_live_sports_extra.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR6.png" group-title="BBC Radio", BBC Radio 6
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/cfs/bbc_6music.mpd
 
