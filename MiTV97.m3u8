@@ -197,13 +197,13 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR1.png" group-title="BBC Radio", BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/mobile_wifi_main_hd_abr_v2/aks/bbc_radio_one.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="BBC Radio", BBC Radio 1 Anthems
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR1A.png" group-title="BBC Radio", BBC Radio 1 Anthems
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/aks/bbc_radio_one_anthems.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="BBC Radio", BBC Radio 1 Dance
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR1D.png" group-title="BBC Radio", BBC Radio 1 Dance
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/pc_hd_abr_v2/aks/bbc_radio_one_dance.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="BBC Radio", BBC Radio 1Xtra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR1X.png" group-title="BBC Radio", BBC Radio 1Xtra
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/uk/mobile_wifi_main_hd_abr_v2/cfs/bbc_1xtra.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/BBCR2.jpg" group-title="BBC Radio", BBC Radio 2
