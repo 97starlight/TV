@@ -147,6 +147,12 @@ https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="EntertainmentTonight.us" tvg-logo="" group-title="CBS", Entertainment Tonight
 https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8
 
+
+------------------------
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="" group-title="ABC", ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 ------------------------
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/One.png" group-title="BBC", BBC One
