@@ -291,9 +291,52 @@ https://fl1.moveonjoy.com/Teen_Nick/index.m3u8
 https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="TheCowboyChannel.us@SD" group-title="MoJ",The Cowboy Channel
 https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
-
+EXTINF:-1 tvg-id="TSN1.ca@SD" group-title="MoJ",TSN1 (1080p)
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca@SD" group-title="MoJ",TSN2
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca@SD" group-title="MoJ",TSN3
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca@SD" group-title="MoJ",TSN4
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca@SD" group-title="MoJ",TSN5
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="TVLand.us@East" group-title="MoJ",TV Land
+https://fl1.moveonjoy.com/TV_LAND/index.m3u8
+#EXTINF:-1 tvg-id="TVOne.us@SD" group-title="MoJ",TV One
+https://fl1.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East" group-title="MoJ",USA Network (720p)
+http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="VH1.us@East" group-title="MoJ",VH1 East
 https://fl1.moveonjoy.com/VH1/index.m3u8
+#EXTINF:-1 tvg-id="VICETV.us@SD" group-title="MoJ",VICE TV (720p)
+https://fl1.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 tvg-id="WNetwork.ca@East" group-title="MoJ",W Network (720p)
+https://fl1.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="WeTV.us@East" group-title="MoJ",We TV East
+https://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="WFLADT1.us@SD" group-title="MoJ",WFLA-DT1
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1 tvg-id="WFLXDT1.us@SD" group-title="MoJ",WFLX-DT1
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
+#EXTINF:-1 tvg-id="WFTSDT1.us@SD" group-title="MoJ",WFTS-DT1
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WGNDT1.us@SD" group-title="MoJ",WGN-DT1 (720p)
+https://fl1.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 tvg-id="Willow.us@SD" group-title="MoJ",Willow
+https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+#EXTINF:-1 tvg-id="WKCFDT1.us@SD" group-title="MoJ",WKCF-DT1
+https://fl1.moveonjoy.com/CW_ORLANDO/index.m3u8
+#EXTINF:-1 tvg-id="WorldFishingNetwork.us@SD" group-title="MoJ",World Fishing Network
+https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="WPECDT1.us@SD" group-title="MoJ",WPEC-DT1
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WTOGDT1.us@SD" group-title="MoJ",WTOG-DT1
+https://fl1.moveonjoy.com/FL_Tampa_CW44/index.m3u8
+#EXTINF:-1 tvg-id="WVGNLD1.vi@SD" group-title="MoJ",WVGN-LD1
+https://fl1.moveonjoy.com/Virgin_Islands_NBC/index.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us@SD" group-title="MoJ",Yes Network
+https://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 
 ------------------------
 
