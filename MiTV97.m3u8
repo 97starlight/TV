@@ -247,6 +247,50 @@ https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 https://fl1.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1 tvg-id="PursuitChannel.us@SD" group-title="MoJ",Pursuit Channel (720p)
 https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-id="QVC.us@SD" group-title="MoJ",QVC (720p)
+https://fl1.moveonjoy.com/QVC/index.m3u8
+#EXTINF:-1 tvg-id="Reelz.us@SD" group-title="MoJ",Reelz (720p)
+https://fl1.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 tvg-id="Revolt.us@SD" group-title="MoJ",Revolt
+https://fl1.moveonjoy.com/REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2.us@East" group-title="MoJ",Showtime 2 East
+https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@East" group-title="MoJ",Showtime East
+https://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNext.us@East" group-title="MoJ",Showtime Next East
+https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@West" group-title="MoJ",Showtime West (1080p)
+https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeWomen.us@East" group-title="MoJ",Showtime Women East
+https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannel.us@East" group-title="MoJ",Smithsonian Channel East
+https://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.mx@SD" group-title="MoJ",Sony Channel
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-id="SportsmanChannel.us@SD" group-title="MoJ",Sportsman Channel
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD" group-title="MoJ",SportsNet New York (540p)
+https://fl1.moveonjoy.com/SNY/index.m3u8
+#EXTINF:-1 tvg-id="StartTV.us@SD" group-title="MoJ",Start TV
+https://fl1.moveonjoy.com/Start_Tv/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us@East" group-title="MoJ",Starz East
+https://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East" group-title="MoJ",Starz Encore Classic East
+https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us@West" group-title="MoJ",Starz West
+https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-id="StoriesbyAMC.us@EastHD" group-title="MoJ",Stories by AMC (1080p)
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.us@East" group-title="MoJ",Sundance TV East
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.us@East" group-title="MoJ",Syfy East
+https://fl1.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us@East" group-title="MoJ",TeenNick
+https://fl1.moveonjoy.com/Teen_Nick/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD" group-title="MoJ",Tennis Channel
+https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="TheCowboyChannel.us@SD" group-title="MoJ",The Cowboy Channel
+https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="VH1.us@East" group-title="MoJ",VH1 East
 https://fl1.moveonjoy.com/VH1/index.m3u8
