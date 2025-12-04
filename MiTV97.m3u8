@@ -97,6 +97,16 @@ https://fl1.moveonjoy.com/CNBC_World/index.m3u8
 
 ------------------------
 
+#EXTINF:-1 tvg-id="WOLODT1.us@SD" group-title="MoJ",ABC 25 Columbia
+https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WLSDT1.us@SD" group-title="MoJ",ABC Chicago WLS-DT1
+https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD" group-title="MoJ",ACCN (720p)
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us@East" group-title="MoJ",AMC East (1080p)
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AntennaTV.us@SD" group-title="MoJ",Antenna TV
+https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
 #EXTINF:-1 tvg-id="VH1.us@East" group-title="MoJ",VH1 East
 https://fl1.moveonjoy.com/VH1/index.m3u8
 
