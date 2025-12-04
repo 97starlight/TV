@@ -209,7 +209,44 @@ https://fl1.moveonjoy.com/MTV/index.m3u8
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="Much.ca@SD" group-title="MoJ",Much (720p)
 https://fl1.moveonjoy.com/MUCH/index.m3u8
-
+#EXTINF:-1 tvg-id="NationalGeographic.us@East" group-title="MoJ",National Geographic East
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@East" group-title="MoJ",National Geographic Wild East
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD" group-title="MoJ",NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="WMAQDT1.us@SD" group-title="MoJ",NBC Chicago WMAQ-DT1
+https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8
+#EXTINF:-1 tvg-id="NewsNation.us@East" group-title="MoJ",News Nation (720p)
+https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD" group-title="MoJ",NFL Network
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NFLRedZone.us@SD" group-title="MoJ",NFL RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD" group-title="MoJ",NHL Network (720p)
+https://fl1.moveonjoy.com/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East" group-title="MoJ",Nick Jr. East (720p)
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="NickMusic.us@SD" group-title="MoJ",Nick Music (720p)
+https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="MoJ",Nickelodeon East
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="MoJ",Nicktoons East
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="OuterMax.us@East" group-title="MoJ",OuterMax East (720p)
+https://fl1.moveonjoy.com/OUTER_MAX/index.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us@SD" group-title="MoJ",Outside TV
+https://fl1.moveonjoy.com/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Ovation.us@SD" group-title="MoJ",Ovation (1080p)
+https://fl1.moveonjoy.com/Ovation/index.m3u8
+#EXTINF:-1 tvg-id="Oxygen.us@East" group-title="MoJ",Oxygen East
+https://fl1.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East" group-title="MoJ",Paramount Network East
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="PopTV.us@SD" group-title="MoJ",Pop TV
+https://fl1.moveonjoy.com/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-id="PursuitChannel.us@SD" group-title="MoJ",Pursuit Channel (720p)
+https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="VH1.us@East" group-title="MoJ",VH1 East
 https://fl1.moveonjoy.com/VH1/index.m3u8
