@@ -172,6 +172,8 @@ https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_400
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive10.us" tvg-logo="" group-title="ABC", ABC News Live 10
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
+#EXTINF:-1 tvg-id="KABCDT1247News.us" tvg-logo="" group-title="ABC", KABC-DT1 24/7 News
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 
 ------------------------
 
