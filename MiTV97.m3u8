@@ -156,12 +156,22 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive2.us" tvg-logo="" group-title="ABC", ABC News Live 2
 https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive3.us" tvg-logo="ABCNewsLive3.us" group-title="ABC", ABC News Live 3
+#EXTINF:-1 tvg-id="ABCNewsLive3.us" tvg-logo="" group-title="ABC", ABC News Live 3
 https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master_4000.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive4.us" tvg-logo="" group-title="ABC", ABC News Live 4
 https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master_4000.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive5.us" tvg-logo="" group-title="ABC", ABCNewsLive5.us
+#EXTINF:-1 tvg-id="ABCNewsLive5.us" tvg-logo="" group-title="ABC", ABC News Live 5
 https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master_4000.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive6.us" tvg-logo="" group-title="ABC", ABC News Live 6
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive7.us" tvg-logo="" group-title="ABC", ABC News Live 7
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_4000.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive8.us" tvg-logo="" group-title="ABC", ABC News Live 8
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive9.us" tvg-logo="" group-title="ABC", ABC News Live 9
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive10.us" tvg-logo="" group-title="ABC", ABC News Live 10
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
 
 ------------------------
 
