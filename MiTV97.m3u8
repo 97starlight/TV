@@ -2,40 +2,21 @@
 
 #EXTINF: -1 tvg-id="telefe.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-
 #EXTINF:-1 tvg-id="el trece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV",AR | eltrece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-
 #EXTINF: -1  tvg-id="america 2.ar" tvg-name="america 2.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-
 #EXTINF: -1 tvg-id="net tv.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-net-tv.png" group-title="AR-TV",Net TV
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-
 #EXTINF: -1  tvg-id="magazine.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/cmag.png" group-title="AR-TV", Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/brv.png" group-title="AR-TV", Bravo TV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
-
-EXTINF:-1 tvg-logo="" group-title="AR-TV", TN
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/ar-tvp.png" group-title="AR-TV", TVP
 https://g1.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
-EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV", eltrece Satelital
-
-EXTINF:-1 tvg-logo="" group-title="AR-TV", Test
-
-
 ******************************************************
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tyc-play.png" group-title="TyC Sports", Eventos 1
-
-
-******************************************************
-
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/internacional/las-estrellas.png",MX | LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -81,19 +62,8 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 
 ------------------------
 
-#EXTINF:-1 tvg-id="ABCNewsLive.us" group-title="US-TV" tvg-logo="", US | ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="AccuWeatherNOW.us" group-title="US-TV" tvg-logo="",US | AccuWeather NOW
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="AFV.us" group-title="US-TV" tvg-logo="",US | AFV
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="AFVEspanol.us" group-title="US-TV" tvg-logo="",US | AFV Español
-https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" group-title="US-TV" tvg-logo="https://i.imgur.com/IRyFTWq.png",CA | Qello Concerts by Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="CNBCWorld.us" group-title="US-TV" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26849/s26849_ll_h15_ab.png",US | CNBC World
-https://fl1.moveonjoy.com/CNBC_World/index.m3u8
-
 
 ------------------------
 
@@ -105,8 +75,37 @@ https://fl1.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
 https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="AMC.us@East" group-title="MoJ",AMC East (1080p)
 https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="AntennaTV.us@SD" group-title="MoJ",Antenna TV
-https://fl1.moveonjoy.com/Antenna_TV/index.m3u8
+#EXTINF:-1 tvg-id="AXSTV.us@SD" group-title="MoJ",AXS TV
+https://fl1.moveonjoy.com/Axs_TV/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@East" group-title="MoJ",BBC America East
+https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" group-title="MoJ",BBC News North America
+https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD" group-title="MoJ",beIN Sports USA
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BET.us@East" group-title="MoJ",BET East
+https://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BETGospel.us@SD" group-title="MoJ",BET Gospel
+https://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us@East" group-title="MoJ",BET Her East
+https://fl1.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BETJams.us@SD" group-title="MoJ",BET Jams
+https://fl1.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="BETSoul.us@SD" group-title="MoJ",BET Soul
+https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@East" group-title="MoJ",Bravo East
+https://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us@SD" group-title="MoJ",C-SPAN
+https://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="WBBMDT1.us@SD" group-title="MoJ",CBS Chicago WBBM-DT1
+https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8
+#EXTINF:-1 tvg-id="CBS.us@East" group-title="MoJ",CBS East (720p)
+https://fl1.moveonjoy.com/CBS_News/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.us@SD" group-title="MoJ",CNBC
+https://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD" group-title="MoJ",CNBC World
+https://fl1.moveonjoy.com/CNBC_World/index.m3u8
+
 #EXTINF:-1 tvg-id="VH1.us@East" group-title="MoJ",VH1 East
 https://fl1.moveonjoy.com/VH1/index.m3u8
 
