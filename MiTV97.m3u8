@@ -60,6 +60,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTINF:-1 tvg-id="EstrellaTV.us" group-title="Internacional" tvg-logo="https://i.imgur.com/IZxjnyp.png",US | Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="",US | iHeartRadio Alt
+https://stream.revma.ihrhls.com/zc4447/hls.m3u8
+
 ------------------------
 
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" group-title="US-TV" tvg-logo="https://i.imgur.com/IRyFTWq.png",CA | Qello Concerts by Stingray
