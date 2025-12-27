@@ -9,7 +9,8 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF: -1 tvg-id="net tv.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-net-tv.png" group-title="AR-TV",Net TV
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="net tv.ar" tvg-name="NET TV" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-canal-26.png" group-title="AR-TV",Canal 26
+#EXTINF: -1 tvg-id="net tv.ar" tvg-name="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-canal-26.png" group-title="AR-TV",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 #EXTINF: -1  tvg-id="magazine.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/2024/cmag.png" group-title="AR-TV", Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
