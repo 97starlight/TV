@@ -508,3 +508,20 @@ http://xpaneltv.com:8080/Alirf/78587421/175929
 
 EXTINF:-1 tvg-logo="" group-title="Eventos +",
 
+--------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="⚽ DEPORTES",TYC SPORTS http://xpaneltv.com:8080/Alirf/78587421/52157
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="⚽ DEPORTES",TNT SPORTS http://xpaneltv.com:8080/Alirf/78587421/52156
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="⚽ DEPORTES",ESPN Premium SD http://xpaneltv.com:8080/Alirf/78587421/175929
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SUR" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="⚽ DEPORTES",ESPN 2 SUR http://xpaneltv.com:8080/Alirf/78587421/52147
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="⚽ DEPORTES",ESPN 3 SUR http://xpaneltv.com:8080/Alirf/78587421/52148
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS SUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="⚽ DEPORTES",ESPN PLUS SUR http://xpaneltv.com:8080/Alirf/78587421/52149
+
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="⚽ DEPORTES",DIRECTV SPORTS http://xpaneltv.com:8080/Alirf/78587421/49705
+
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1600px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="⚽ DEPORTES",DIRECTV SPORTS 2 http://xpaneltv.com:8080/Alirf/78587421/49709
