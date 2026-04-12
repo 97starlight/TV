@@ -502,7 +502,8 @@ https://matchmaker.live.bidi.net.uk/vs-cmaf-pushb-uk/x=4/i=urn:bbc:pips:service:
 -------------------
 
 
-EXTINF:-1 tvg-logo="" group-title="Eventos +",
+#EXTINF:-1 tvg-logo="" group-title="Eventos +",EPRM
+http://xpaneltv.com:8080/Alirf/78587421/175929
 
 
 EXTINF:-1 tvg-logo="" group-title="Eventos +",
