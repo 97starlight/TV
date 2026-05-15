@@ -1,8 +1,8 @@
 #EXTINF
 
-#EXTINF: -1 tvg-id="telefe.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe
+EXTINF: -1 tvg-id="telefe.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-telefe-1.png" group-title="AR-TV",Telefe
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 tvg-id="el trece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV",AR | eltrece
+EXTINF:-1 tvg-id="el trece.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-el-trece-1.png" group-title="AR-TV",AR | eltrece
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF: -1  tvg-id="america 2.ar" tvg-name="america 2.ar" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/ar-tv/ar-america-2.png" group-title="AR-TV",America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -16,7 +16,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/brv.png" group-title="AR-TV", Bravo TV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/ar-tvp.png" group-title="AR-TV", TVP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/ar-tvp.png" group-title="AR-TV", TV Pública AR
 https://g1.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 ******************************************************
@@ -36,16 +36,16 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" group-title="Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/aint.png",MX | Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-id="WTMOCD1.us" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional",US | Telemundo 31
+EXTINF:-1 tvg-id="WTMOCD1.us" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional",US | Telemundo 31
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
 
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/telemundo.png" group-title="Internacional",PR | Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="KCBSDT1.us" group-title="Internacional" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg",US | CBS LA
+EXTINF:-1 tvg-id="KCBSDT1.us" group-title="Internacional" tvg-logo="https://i.imgur.com/RIFC1Y6.jpg",US | CBS LA
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
 
-#EXTINF:-1 tvg-id="CNBC.us" group-title="Internacional" tvg-logo="",US | CNBC
+EXTINF:-1 tvg-id="CNBC.us" group-title="Internacional" tvg-logo="",US | CNBC
 https://fl1.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe" group-title="Internacional" tvg-logo="https://i.imgur.com/MOsWriY.png",PE | Latina
@@ -63,11 +63,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTINF:-1 tvg-id="EstrellaTV.us" group-title="Internacional" tvg-logo="https://i.imgur.com/IZxjnyp.png",US | Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="",US | iHeartRadio Alt
+EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="",US | iHeartRadio Alt
 https://stream.revma.ihrhls.com/zc4447/hls.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="",US | TLMD
-https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s/Live/channel(wnju)/master.mpd
+
 
 ------------------------
 
