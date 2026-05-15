@@ -24,7 +24,7 @@ https://g1.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 #EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/internacional/las-estrellas.png",MX | LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="KMEXDT1.us" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",US | Univision 34 Los Angeles (GEO)
+#EXTINF:-1 tvg-id="KMEXDT1.us" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/logo-tv/internacional/univision.png" group-title="Internacional",US | Univision 34 LA (GEO)
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" group-title="Internacional" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/refs/heads/main/logo-tv/a1.png",MX | Azteca Uno (GEO)
